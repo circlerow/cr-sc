@@ -22,7 +22,7 @@ def save_row_to_excel(file_path, data):
 for document in collection.find():
     listEndpoints.append(document.get('endPoint'))
 
-for k in range(9, 100):
+for k in range(19, 100):
 
     # get information crawl full website
     driver = webdriver.Chrome()
@@ -36,12 +36,17 @@ for k in range(9, 100):
 
     nation = soup.find('p', class_="pl-ipad mb-0").find_all('a')[1].text.strip()
 
-    externalLink = soup.find('div', class_='sidebar bg-white shadow').find('ul').find_all('a')
+    sidebar_div = soup.find('div', class_='sidebar bg-white shadow')
+    externalLink = ''
+    if sidebar_div:
+        ul_tag = sidebar_div.find('ul')
+        if ul_tag:
+            externalLink = ul_tag.find_all('a')
     if len(externalLink) == 2:
         personalWebsite = externalLink[1].get('href')
     if len(externalLink) == 1:
         personalWebsite = externalLink[0].get('href')
-    if len(externalLink) == 0:
+    else:
         personalWebsite = ''
 
     bestPublication = []
