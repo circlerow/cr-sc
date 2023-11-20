@@ -1,0 +1,2001 @@
+_id,endPoint,name
+655a296ac773a5d5bac0fec5,https://research.com/u/anil-k-jain,Anil K. Jain
+655a296ac773a5d5bac0fec7,https://research.com/u/yoshua-bengio,Yoshua Bengio
+655a296ac773a5d5bac0fec9,https://research.com/u/jiawei-han,Jiawei Han
+655a296ac773a5d5bac0fecb,https://research.com/u/michael-i-jordan,Michael I. Jordan
+655a296ac773a5d5bac0fecd,https://research.com/u/andrew-zisserman,Andrew Zisserman
+655a296ac773a5d5bac0fecf,https://research.com/u/philip-s-yu,Philip S. Yu
+655a296ac773a5d5bac0fed1,https://research.com/u/thomas-s-huang,Thomas S. Huang
+655a296ac773a5d5bac0fed3,https://research.com/u/takeo-kanade,Takeo Kanade
+655a296ac773a5d5bac0fed5,https://research.com/u/francisco-herrera,Francisco Herrera
+655a296ac773a5d5bac0fed7,https://research.com/u/wil-m-p-van-der-aalst,Wil M. P. van der Aalst
+655a296ac773a5d5bac0fed9,https://research.com/u/rajkumar-buyya,Rajkumar Buyya
+655a296ac773a5d5bac0fedb,https://research.com/u/bernhard-scholkopf,Bernhard Schölkopf
+655a296ac773a5d5bac0fedd,https://research.com/u/geoffrey-hinton,Geoffrey E. Hinton
+655a296ac773a5d5bac0fedf,https://research.com/u/sebastian-thrun,Sebastian Thrun
+655a296ac773a5d5bac0fee1,https://research.com/u/scott-shenker,Scott Shenker
+655a296ac773a5d5bac0fee3,https://research.com/u/georgios-b-giannakis,Georgios B. Giannakis
+655a296ac773a5d5bac0fee5,https://research.com/u/eric-horvitz,Eric Horvitz
+655a296ac773a5d5bac0fee7,https://research.com/u/jitendra-malik,Jitendra Malik
+655a296ac773a5d5bac0fee9,https://research.com/u/ion-stoica,Ion Stoica
+655a296ac773a5d5bac0feeb,https://research.com/u/jay-s-walker,Jay S. Walker
+655a296ac773a5d5bac0feed,https://research.com/u/trevor-darrell,Trevor Darrell
+655a296ac773a5d5bac0feef,https://research.com/u/christos-faloutsos,Christos Faloutsos
+655a296ac773a5d5bac0fef1,https://research.com/u/gilbert-laporte,Gilbert Laporte
+655a296ac773a5d5bac0fef3,https://research.com/u/dacheng-tao,Dacheng Tao
+655a296ac773a5d5bac0fef5,https://research.com/u/christopher-d-mannin,Christopher D. Manning
+655a296ac773a5d5bac0fef7,https://research.com/u/hector-garcia-molina,Hector Garcia-Molina
+655a296ac773a5d5bac0fef9,https://research.com/u/klaus-robert-muller,Klaus-Robert Müller
+655a296ac773a5d5bac0fefb,https://research.com/u/ian-foster,Ian Foster
+655a296ac773a5d5bac0fefd,https://research.com/u/alex-sandy-pentland,Alex Pentland
+655a296ac773a5d5bac0feff,https://research.com/u/lei-zhang-1,Lei Zhang
+655a296ac773a5d5bac0ff01,https://research.com/u/cordelia-schmid,Cordelia Schmid
+655a296ac773a5d5bac0ff03,https://research.com/u/xiaoou-tang,Xiaoou Tang
+655a296ac773a5d5bac0ff05,https://research.com/u/robert-heath,Robert W. Heath
+655a296ac773a5d5bac0ff07,https://research.com/u/luc-van-gool,Luc Van Gool
+655a296ac773a5d5bac0ff09,https://research.com/u/don-towsley,Don Towsley
+655a296ac773a5d5bac0ff0b,https://research.com/u/leonidas-guibas,Leonidas J. Guibas
+655a296ac773a5d5bac0ff0d,https://research.com/u/tomaso-poggio,Tomaso Poggio
+655a296ac773a5d5bac0ff0f,https://research.com/u/ian-f-akyildiz,Ian F. Akyildiz
+655a296ac773a5d5bac0ff11,https://research.com/u/xiaogang-wang-1,Xiaogang Wang
+655a296ac773a5d5bac0ff13,https://research.com/u/zeshui-xu,Zeshui Xu
+655a296ac773a5d5bac0ff15,https://research.com/u/ming-hsuan-yang-1,Ming-Hsuan Yang
+655a296ac773a5d5bac0ff17,https://research.com/u/jack-dongarra,Jack Dongarra
+655a296ac773a5d5bac0ff19,https://research.com/u/yi-yang,Yi Yang
+655a296ac773a5d5bac0ff1b,https://research.com/u/xuemin-shen,Xuemin Shen
+655a296ac773a5d5bac0ff1d,https://research.com/u/zidong-wang,Zidong Wang
+655a296ac773a5d5bac0ff1f,https://research.com/u/nicholas-r-jennings,Nicholas R. Jennings
+655a296ac773a5d5bac0ff21,https://research.com/u/rama-chellappa,Rama Chellappa
+655a296ac773a5d5bac0ff23,https://research.com/u/pieter-abbeel,Pieter Abbeel
+655a296ac773a5d5bac0ff25,https://research.com/u/daphne-koller,Daphne Koller
+655a296ac773a5d5bac0ff27,https://research.com/u/alex-smola,Alexander J. Smola
+655a296ac773a5d5bac0ff29,https://research.com/u/ronald-r-yager,Ronald R. Yager
+655a296bc773a5d5bac0ff2b,https://research.com/u/bernt-schiele,Bernt Schiele
+655a296bc773a5d5bac0ff2d,https://research.com/u/albert-laszlo-barabasi,Albert-László Barabási
+655a296bc773a5d5bac0ff2f,https://research.com/u/andrew-ng,Andrew Y. Ng
+655a296bc773a5d5bac0ff31,https://research.com/u/deborah-estrin,Deborah Estrin
+655a296bc773a5d5bac0ff33,https://research.com/u/shuicheng-yan,Shuicheng Yan
+655a296bc773a5d5bac0ff35,https://research.com/u/hongjiang-zhang,Hong-Jiang Zhang
+655a296bc773a5d5bac0ff37,https://research.com/u/hari-balakrishnan,Hari Balakrishnan
+655a296bc773a5d5bac0ff39,https://research.com/u/richard-szeliski,Richard Szeliski
+655a296bc773a5d5bac0ff3b,https://research.com/u/qiang-yang,Qiang Yang
+655a296bc773a5d5bac0ff3d,https://research.com/u/christos-papadimitri,Christos H. Papadimitriou
+655a296bc773a5d5bac0ff3f,https://research.com/u/dawn-song,Dawn Song
+655a296bc773a5d5bac0ff41,https://research.com/u/athanasios-vasilakos,Athanasios V. Vasilakos
+655a296bc773a5d5bac0ff43,https://research.com/u/david-culler,David E. Culler
+655a296bc773a5d5bac0ff45,https://research.com/u/ben-shneiderman,Ben Shneiderman
+655a296bc773a5d5bac0ff47,https://research.com/u/shih-fu-chang,Shih-Fu Chang
+655a296bc773a5d5bac0ff49,https://research.com/u/kalyanmoy-deb,Kalyanmoy Deb
+655a296bc773a5d5bac0ff4b,https://research.com/u/terrence-sejnowski,Terrence J. Sejnowski
+655a296bc773a5d5bac0ff4d,https://research.com/u/dan-boneh,Dan Boneh
+655a296bc773a5d5bac0ff4f,https://research.com/u/david-zhang,David Zhang
+655a296bc773a5d5bac0ff51,https://research.com/u/witold-pedrycz,Witold Pedrycz
+655a296bc773a5d5bac0ff53,https://research.com/u/didier-dubois,Didier Dubois
+655a296bc773a5d5bac0ff55,https://research.com/u/li-fei-fei,Li Fei-Fei
+655a296bc773a5d5bac0ff57,https://research.com/u/william-t-freeman,William T. Freeman
+655a296bc773a5d5bac0ff59,https://research.com/u/wolfram-burgard,Wolfram Burgard
+655a296bc773a5d5bac0ff5b,https://research.com/u/larry-davis,Larry S. Davis
+655a296bc773a5d5bac0ff5d,https://research.com/u/shree-nayar,Shree K. Nayar
+655a296bc773a5d5bac0ff5f,https://research.com/u/xuelong-li,Xuelong Li
+655a296bc773a5d5bac0ff61,https://research.com/u/huan-liu,Huan Liu
+655a296bc773a5d5bac0ff63,https://research.com/u/mario-gerla,Mario Gerla
+655a296bc773a5d5bac0ff65,https://research.com/u/john-stankovic,John A. Stankovic
+655a296bc773a5d5bac0ff67,https://research.com/u/yann-lecun,Yann LeCun
+655a296bc773a5d5bac0ff69,https://research.com/u/antonio-torralba,Antonio Torralba
+655a296bc773a5d5bac0ff6b,https://research.com/u/stephen-grossberg,Stephen Grossberg
+655a296bc773a5d5bac0ff6d,https://research.com/u/hans-peter-seidel,Hans-Peter Seidel
+655a296bc773a5d5bac0ff6f,https://research.com/u/shankar-sastry,Shankar Sastry
+655a296bc773a5d5bac0ff71,https://research.com/u/mubarak-shah,Mubarak Shah
+655a296bc773a5d5bac0ff73,https://research.com/u/zhu-han,Zhu Han
+655a296bc773a5d5bac0ff75,https://research.com/u/dinggang-shen,Dinggang Shen
+655a296bc773a5d5bac0ff77,https://research.com/u/alan-yuille,Alan L. Yuille
+655a296bc773a5d5bac0ff79,https://research.com/u/henri-prade,Henri Prade
+655a296bc773a5d5bac0ff7b,https://research.com/u/randy-katz,Randy H. Katz
+655a296bc773a5d5bac0ff7d,https://research.com/u/sergey-levine,Sergey Levine
+655a296bc773a5d5bac0ff7f,https://research.com/u/luca-benini,Luca Benini
+655a296bc773a5d5bac0ff81,https://research.com/u/theodore-s-rappaport,Theodore S. Rappaport
+655a296bc773a5d5bac0ff83,https://research.com/u/hv-poor,H. Vincent Poor
+655a296bc773a5d5bac0ff85,https://research.com/u/daniel-rueckert,Daniel Rueckert
+655a296bc773a5d5bac0ff87,https://research.com/u/xin-yao,Xin Yao
+655a296bc773a5d5bac0ff89,https://research.com/u/mengchu-zhou,MengChu Zhou
+655a296bc773a5d5bac0ff8b,https://research.com/u/martin-vetterli,Martin Vetterli
+655a2977de957cf400445484,https://research.com/u/dieter-fox,Dieter Fox
+655a2977de957cf400445486,https://research.com/u/vince-d-calhoun,Vince D. Calhoun
+655a2977de957cf400445488,https://research.com/u/amit-sheth,Amit P. Sheth
+655a2977de957cf40044548a,https://research.com/u/robert-tarjan,Robert E. Tarjan
+655a2977de957cf40044548c,https://research.com/u/zhi-hua-zhou,Zhi-Hua Zhou
+655a2977de957cf40044548e,https://research.com/u/roland-siegwart,Roland Siegwart
+655a2977de957cf400445490,https://research.com/u/alberto-sangiovanni-,Alberto Sangiovanni-Vincentelli
+655a2977de957cf400445492,https://research.com/u/ron-kikinis,Ron Kikinis
+655a2977de957cf400445494,https://research.com/u/daniela-rus,Daniela Rus
+655a2977de957cf400445496,https://research.com/u/zoubin-ghahramani,Zoubin Ghahramani
+655a2977de957cf400445498,https://research.com/u/l-hanzo,Lajos Hanzo
+655a2977de957cf40044549a,https://research.com/u/charu-aggarwal,Charu C. Aggarwal
+655a2977de957cf40044549c,https://research.com/u/andrzej-cichocki,Andrzej Cichocki
+655a2977de957cf40044549e,https://research.com/u/noga-alon,Noga Alon
+655a2977de957cf4004454a0,https://research.com/u/sushil-jajodia,Sushil Jajodia
+655a2977de957cf4004454a2,https://research.com/u/philip-torr,Philip H. S. Torr
+655a2977de957cf4004454a4,https://research.com/u/jennifer-rexford,Jennifer Rexford
+655a2977de957cf4004454a6,https://research.com/u/heung-yeung-shum,Heung-Yeung Shum
+655a2977de957cf4004454a8,https://research.com/u/hojjat-adeli,Hojjat Adeli
+655a2977de957cf4004454aa,https://research.com/u/jure-leskovec,Jure Leskovec
+655a2977de957cf4004454ac,https://research.com/u/andrew-mccallum,Andrew McCallum
+655a2977de957cf4004454ae,https://research.com/u/richard-baraniuk,Richard G. Baraniuk
+655a2977de957cf4004454b0,https://research.com/u/michael-j-black,Michael J. Black
+655a2977de957cf4004454b2,https://research.com/u/jie-wu,Jie Wu
+655a2977de957cf4004454b4,https://research.com/u/martial-hebert,Martial Hebert
+655a2977de957cf4004454b6,https://research.com/u/david-e-goldberg,David E. Goldberg
+655a2977de957cf4004454b8,https://research.com/u/jian-sun,Jian Sun
+655a2977de957cf4004454ba,https://research.com/u/mark-newman,Mark Newman
+655a2977de957cf4004454bc,https://research.com/u/marco-dorigo,Marco Dorigo
+655a2977de957cf4004454be,https://research.com/u/susan-dumais,Susan T. Dumais
+655a2977de957cf4004454c0,https://research.com/u/kang-g-shin,Kang G. Shin
+655a2977de957cf4004454c2,https://research.com/u/enrique-herrera-vied,Enrique Herrera-Viedma
+655a2977de957cf4004454c4,https://research.com/u/zhang-liangpei,Liangpei Zhang
+655a2977de957cf4004454c6,https://research.com/u/vijay-kumar-1,Vijay Kumar
+655a2977de957cf4004454c8,https://research.com/u/onur-mutlu,Onur Mutlu
+655a2977de957cf4004454ca,https://research.com/u/alan-bovik,Alan C. Bovik
+655a2977de957cf4004454cc,https://research.com/u/thomas-kailath,Thomas Kailath
+655a2977de957cf4004454ce,https://research.com/u/mihir-bellare,Mihir Bellare
+655a2977de957cf4004454d0,https://research.com/u/max-viergever,Max A. Viergever
+655a2977de957cf4004454d2,https://research.com/u/moshe-vardi,Moshe Y. Vardi
+655a2977de957cf4004454d4,https://research.com/u/wei-ying-ma,Wei-Ying Ma
+655a2977de957cf4004454d6,https://research.com/u/arogyaswami-paulraj,Arogyaswami Paulraj
+655a2977de957cf4004454d8,https://research.com/u/kishor-trivedi,Kishor S. Trivedi
+655a2977de957cf4004454da,https://research.com/u/stanley-osher,Stanley Osher
+655a2977de957cf4004454dc,https://research.com/u/jon-kleinberg,Jon Kleinberg
+655a2977de957cf4004454de,https://research.com/u/judea-pearl,Judea Pearl
+655a2977de957cf4004454e0,https://research.com/u/bing-liu,Bing Liu
+655a2977de957cf4004454e2,https://research.com/u/hermann-ney,Hermann Ney
+655a2977de957cf4004454e4,https://research.com/u/dr-pn-suganthan,Ponnuthurai Nagaratnam Suganthan
+655a2977de957cf4004454e6,https://research.com/u/jeffrey-ullman,Jeffrey D. Ullman
+655a2977de957cf4004454e8,https://research.com/u/guillermo-sapiro,Guillermo Sapiro
+655a2977de957cf4004454ea,https://research.com/u/michael-unser,Michael Unser
+655a2977de957cf4004454ec,https://research.com/u/thomas-henzinger,Thomas A. Henzinger
+655a2977de957cf4004454ee,https://research.com/u/w-bruce-croft,W. Bruce Croft
+655a2977de957cf4004454f0,https://research.com/u/tieniu-tan,Tieniu Tan
+655a2977de957cf4004454f2,https://research.com/u/dusit-niyato,Dusit Niyato
+655a2977de957cf4004454f4,https://research.com/u/david-l-donoho,David L. Donoho
+655a2977de957cf4004454f6,https://research.com/u/david-patterson,David A. Patterson
+655a2977de957cf4004454f8,https://research.com/u/joshua-b-tenenbaum,Joshua B. Tenenbaum
+655a2977de957cf4004454fa,https://research.com/u/jennifer-widom,Jennifer Widom
+655a2977de957cf4004454fc,https://research.com/u/mani-srivastava,Mani Srivastava
+655a2977de957cf4004454fe,https://research.com/u/stan-z-li,Stan Z. Li
+655a2977de957cf400445500,https://research.com/u/nicholas-ayache,Nicholas Ayache
+655a2977de957cf400445502,https://research.com/u/elisa-bertino,Elisa Bertino
+655a2977de957cf400445504,https://research.com/u/mark-horowitz,Mark Horowitz
+655a2977de957cf400445506,https://research.com/u/richard-m-karp,Richard M. Karp
+655a2977de957cf400445508,https://research.com/u/rosalind-picard,Rosalind W. Picard
+655a2977de957cf40044550a,https://research.com/u/michael-stonebraker,Michael Stonebraker
+655a2977de957cf40044550c,https://research.com/u/u-rajendra-acharya,U. Rajendra Acharya
+655a2977de957cf40044550e,https://research.com/u/marc-pollefeys,Marc Pollefeys
+655a2977de957cf400445510,https://research.com/u/juergen-schmidhuber,Jürgen Schmidhuber
+655a2977de957cf400445512,https://research.com/u/gert-pfurtscheller,Gert Pfurtscheller
+655a2977de957cf400445514,https://research.com/u/imran-chaudhri,Imran Chaudhri
+655a2977de957cf400445516,https://research.com/u/markus-gross,Markus Gross
+655a2977de957cf400445518,https://research.com/u/pietro-perona,Pietro Perona
+655a2977de957cf40044551a,https://research.com/u/jason-weston,Jason Weston
+655a2977de957cf40044551c,https://research.com/u/vipin-kumar,Vipin Kumar
+655a2977de957cf40044551e,https://research.com/u/vern-paxson,Vern Paxson
+655a2977de957cf400445520,https://research.com/u/fred-glover,Fred Glover
+655a2977de957cf400445522,https://research.com/u/azriel-rosenfeld,Azriel Rosenfeld
+655a2977de957cf400445524,https://research.com/u/pascal-fua,Pascal Fua
+655a2977de957cf400445526,https://research.com/u/daniel-cremers,Daniel Cremers
+655a2977de957cf400445528,https://research.com/u/victor-c-m-leung,Victor C. M. Leung
+655a2977de957cf40044552a,https://research.com/u/bernd-girod,Bernd Girod
+655a2977de957cf40044552c,https://research.com/u/daniel-cohen-or,Daniel Cohen-Or
+655a2977de957cf40044552e,https://research.com/u/martin-abadi,Martín Abadi
+655a2977de957cf400445530,https://research.com/u/moni-naor,Moni Naor
+655a2977de957cf400445532,https://research.com/u/amir-pnueli,Amir Pnueli
+655a2977de957cf400445534,https://research.com/u/alan-s-willsky,Alan S. Willsky
+655a2977de957cf400445536,https://research.com/u/pierre-baldi,Pierre Baldi
+655a2977de957cf400445538,https://research.com/u/michael-r-lyu,Michael R. Lyu
+655a2977de957cf40044553a,https://research.com/u/shyi-ming-chen,Shyi-Ming Chen
+655a2977de957cf40044553c,https://research.com/u/ruslan-salakhutdinov,Ruslan Salakhutdinov
+655a2977de957cf40044553e,https://research.com/u/lixia-zhang,Lixia Zhang
+655a2977de957cf400445540,https://research.com/u/michael-franklin,Michael J. Franklin
+655a2977de957cf400445542,https://research.com/u/shun-ichi-amari,Shun-ichi Amari
+655a2977de957cf400445544,https://research.com/u/martin-wainwright,Martin J. Wainwright
+655a2977de957cf400445546,https://research.com/u/tim-finin,Tim Finin
+655a2977de957cf400445548,https://research.com/u/michel-gendreau,Michel Gendreau
+655a2977de957cf40044554a,https://research.com/u/panos-pardalos,Panos M. Pardalos
+655a2987cb2f1ebcf994cd8f,https://research.com/u/qi-tian,Qi Tian
+655a2987cb2f1ebcf994cd91,https://research.com/u/dinesh-manocha,Dinesh Manocha
+655a2987cb2f1ebcf994cd93,https://research.com/u/zhang-tong,Tong Zhang
+655a2987cb2f1ebcf994cd95,https://research.com/u/eric-xing,Eric P. Xing
+655a2987cb2f1ebcf994cd97,https://research.com/u/srini-devadas,Srinivas Devadas
+655a2987cb2f1ebcf994cd99,https://research.com/u/sajal-k-das,Sajal K. Das
+655a2987cb2f1ebcf994cd9b,https://research.com/u/andrew-blake,Andrew Blake
+655a2987cb2f1ebcf994cd9d,https://research.com/u/ramesh-govindan,Ramesh Govindan
+655a2987cb2f1ebcf994cd9f,https://research.com/u/de-moor-bart,Bart De Moor
+655a2987cb2f1ebcf994cda1,https://research.com/u/samuel-madden,Samuel Madden
+655a2987cb2f1ebcf994cda3,https://research.com/u/dan-jurafsky,Dan Jurafsky
+655a2987cb2f1ebcf994cda5,https://research.com/u/hsinchun-chen,Hsinchun Chen
+655a2987cb2f1ebcf994cda7,https://research.com/u/john-m-carroll,John M. Carroll
+655a2987cb2f1ebcf994cda9,https://research.com/u/tat-seng-chua,Tat-Seng Chua
+655a2987cb2f1ebcf994cdab,https://research.com/u/wen-gao,Wen Gao
+655a2987cb2f1ebcf994cdad,https://research.com/u/edmund-clarke,Edmund M. Clarke
+655a2987cb2f1ebcf994cdaf,https://research.com/u/oded-goldreich,Oded Goldreich
+655a2987cb2f1ebcf994cdb1,https://research.com/u/li-deng,Li Deng
+655a2987cb2f1ebcf994cdb3,https://research.com/u/biswanath-mukherjee,Biswanath Mukherjee
+655a2987cb2f1ebcf994cdb5,https://research.com/u/samy-bengio,Samy Bengio
+655a2987cb2f1ebcf994cdb7,https://research.com/u/andreas-f-molisch,Andreas F. Molisch
+655a2987cb2f1ebcf994cdb9,https://research.com/u/maja-j-mataric,Maja J. Matarić
+655a2987cb2f1ebcf994cdbb,https://research.com/u/tao-li,Tao Li
+655a2987cb2f1ebcf994cdbd,https://research.com/u/chunhua-shen,Chunhua Shen
+655a2987cb2f1ebcf994cdbf,https://research.com/u/bahram-javidi,Bahram Javidi
+655a2987cb2f1ebcf994cdc1,https://research.com/u/shaogang-gong,Shaogang Gong
+655a2987cb2f1ebcf994cdc3,https://research.com/u/dimitri-bertsekas,Dimitri P. Bertsekas
+655a2987cb2f1ebcf994cdc5,https://research.com/u/david-blei,David M. Blei
+655a2987cb2f1ebcf994cdc7,https://research.com/u/hans-peter-kriegel,Hans-Peter Kriegel
+655a2987cb2f1ebcf994cdc9,https://research.com/u/michael-wooldridge,Michael Wooldridge
+655a2987cb2f1ebcf994cdcb,https://research.com/u/laszlo-lovasz,László Lovász
+655a2987cb2f1ebcf994cdcd,https://research.com/u/eamonn-keogh,Eamonn Keogh
+655a2987cb2f1ebcf994cdcf,https://research.com/u/patrick-hanrahan,Pat Hanrahan
+655a2987cb2f1ebcf994cdd1,https://research.com/u/lorenzo-bruzzone,Lorenzo Bruzzone
+655a2987cb2f1ebcf994cdd3,https://research.com/u/dimitris-n-metaxas,Dimitris N. Metaxas
+655a2987cb2f1ebcf994cdd5,https://research.com/u/christopher-kruegel,Christopher Kruegel
+655a2987cb2f1ebcf994cdd7,https://research.com/u/lorrie-faith-cranor,Lorrie Faith Cranor
+655a2987cb2f1ebcf994cdd9,https://research.com/u/neeraj-kumar,Neeraj Kumar
+655a2987cb2f1ebcf994cddb,https://research.com/u/kim-kwang-raymond-choo,Kim-Kwang Raymond Choo
+655a2987cb2f1ebcf994cddd,https://research.com/u/assaf-natanzon,Assaf Natanzon
+655a2987cb2f1ebcf994cddf,https://research.com/u/serge-belongie,Serge Belongie
+655a2987cb2f1ebcf994cde1,https://research.com/u/adrian-perrig,Adrian Perrig
+655a2987cb2f1ebcf994cde3,https://research.com/u/william-dally,William J. Dally
+655a2987cb2f1ebcf994cde5,https://research.com/u/nick-mckeown,Nick McKeown
+655a2987cb2f1ebcf994cde7,https://research.com/u/thomas-anderson,Thomas Anderson
+655a2987cb2f1ebcf994cde9,https://research.com/u/jmmendel,Jerry M. Mendel
+655a2987cb2f1ebcf994cdeb,https://research.com/u/joseph-hellerstein,Joseph M. Hellerstein
+655a2987cb2f1ebcf994cded,https://research.com/u/raquel-urtasun,Raquel Urtasun
+655a2987cb2f1ebcf994cdef,https://research.com/u/steffen-staab,Steffen Staab
+655a2987cb2f1ebcf994cdf1,https://research.com/u/gerhard-weikum,Gerhard Weikum
+655a2987cb2f1ebcf994cdf3,https://research.com/u/surajit-chaudhuri,Surajit Chaudhuri
+655a2987cb2f1ebcf994cdf5,https://research.com/u/george-j-pappas,George J. Pappas
+655a2987cb2f1ebcf994cdf7,https://research.com/u/mark-harman,Mark Harman
+655a2987cb2f1ebcf994cdf9,https://research.com/u/jun-wang-2,Jun Wang
+655a2987cb2f1ebcf994cdfb,https://research.com/u/rajeev-alur,Rajeev Alur
+655a2987cb2f1ebcf994cdfd,https://research.com/u/jon-crowcroft,Jon Crowcroft
+655a2987cb2f1ebcf994cdff,https://research.com/u/amin-vahdat,Amin Vahdat
+655a2987cb2f1ebcf994ce01,https://research.com/u/francis-bach,Francis Bach
+655a2987cb2f1ebcf994ce03,https://research.com/u/ramesh-raskar,Ramesh Raskar
+655a2987cb2f1ebcf994ce05,https://research.com/u/ekram-hossain,Ekram Hossain
+655a2987cb2f1ebcf994ce07,https://research.com/u/j-j-garcia-luna-acev,J.J. Garcia-Luna-Aceves
+655a2987cb2f1ebcf994ce09,https://research.com/u/gaurav-sukhatme,Gaurav S. Sukhatme
+655a2987cb2f1ebcf994ce0b,https://research.com/u/george-karypis,George Karypis
+655a2987cb2f1ebcf994ce0d,https://research.com/u/john-tsitsiklis,John N. Tsitsiklis
+655a2987cb2f1ebcf994ce0f,https://research.com/u/michael-elad,Michael Elad
+655a2987cb2f1ebcf994ce11,https://research.com/u/izak-benbasat,Izak Benbasat
+655a2987cb2f1ebcf994ce13,https://research.com/u/josef-kittler,Josef Kittler
+655a2987cb2f1ebcf994ce15,https://research.com/u/jian-pei,Jian Pei
+655a2987cb2f1ebcf994ce17,https://research.com/u/david-heckerman,David Heckerman
+655a2987cb2f1ebcf994ce19,https://research.com/u/jean-pierre-hubaux,Jean-Pierre Hubaux
+655a2987cb2f1ebcf994ce1b,https://research.com/u/ian-horrocks,Ian Horrocks
+655a2987cb2f1ebcf994ce1d,https://research.com/u/nassir-navab,Nassir Navab
+655a2987cb2f1ebcf994ce1f,https://research.com/u/david-dewitt,David J. DeWitt
+655a2987cb2f1ebcf994ce21,https://research.com/u/jon-atli-benediktsso,Jon Atli Benediktsson
+655a2987cb2f1ebcf994ce23,https://research.com/u/gene-tsudik,Gene Tsudik
+655a2987cb2f1ebcf994ce25,https://research.com/u/christos-davatzikos,Christos Davatzikos
+655a2987cb2f1ebcf994ce27,https://research.com/u/erik-cambria,Erik Cambria
+655a2987cb2f1ebcf994ce29,https://research.com/u/louis-rosenberg,Louis B. Rosenberg
+655a2987cb2f1ebcf994ce2b,https://research.com/u/saul-greenberg,Saul Greenberg
+655a2987cb2f1ebcf994ce2d,https://research.com/u/ronald-l-rivest,Ronald L. Rivest
+655a2987cb2f1ebcf994ce2f,https://research.com/u/lawrence-r-rabiner,Lawrence R. Rabiner
+655a2987cb2f1ebcf994ce31,https://research.com/u/thomas-brox,Thomas Brox
+655a2987cb2f1ebcf994ce33,https://research.com/u/james-c-bezdek,James C. Bezdek
+655a2987cb2f1ebcf994ce35,https://research.com/u/david-karger,David R. Karger
+655a2987cb2f1ebcf994ce37,https://research.com/u/gregory-d-abowd,Gregory D. Abowd
+655a2987cb2f1ebcf994ce39,https://research.com/u/roberto-cipolla,Roberto Cipolla
+655a2987cb2f1ebcf994ce3b,https://research.com/u/pushmeet-kohli,Pushmeet Kohli
+655a2987cb2f1ebcf994ce3d,https://research.com/u/eduard-hovy,Eduard Hovy
+655a2987cb2f1ebcf994ce3f,https://research.com/u/oren-etzioni-1,Oren Etzioni
+655a2987cb2f1ebcf994ce41,https://research.com/u/wenke-lee,Wenke Lee
+655a2987cb2f1ebcf994ce43,https://research.com/u/bjorn-w-schuller,Björn Schuller
+655a2987cb2f1ebcf994ce45,https://research.com/u/mark-musen,Mark A. Musen
+655a2987cb2f1ebcf994ce47,https://research.com/u/salvatore-stolfo,Salvatore J. Stolfo
+655a2987cb2f1ebcf994ce49,https://research.com/u/john-mylopoulos,John Mylopoulos
+655a2987cb2f1ebcf994ce4b,https://research.com/u/ajith-abraham,Ajith Abraham
+655a2987cb2f1ebcf994ce4d,https://research.com/u/shrikanth-narayanan,Shrikanth S. Narayanan
+655a2987cb2f1ebcf994ce4f,https://research.com/u/brad-a-myers,Brad A. Myers
+655a2987cb2f1ebcf994ce51,https://research.com/u/jingsheng-jason-cong,Jason Cong
+655a2987cb2f1ebcf994ce53,https://research.com/u/john-c-mitchell,John C. Mitchell
+655a2987cb2f1ebcf994ce55,https://research.com/u/lotfi-a-zadeh,Lotfi A. Zadeh
+655a298daff7d28408308f41,https://research.com/u/rajeev-motwani,Rajeev Motwani
+655a298daff7d28408308f43,https://research.com/u/peter-dayan,Peter Dayan
+655a298daff7d28408308f45,https://research.com/u/jim-hendler,James A. Hendler
+655a298daff7d28408308f47,https://research.com/u/horst-bischof,Horst Bischof
+655a298daff7d28408308f49,https://research.com/u/i-d-reid,Ian Reid
+655a298daff7d28408308f4b,https://research.com/u/mohsen-guizani,Mohsen Guizani
+655a298daff7d28408308f4d,https://research.com/u/maja-pantic,Maja Pantic
+655a298daff7d28408308f4f,https://research.com/u/stefan-schaal,Stefan Schaal
+655a298daff7d28408308f51,https://research.com/u/michael-reiter,Michael K. Reiter
+655a298daff7d28408308f53,https://research.com/u/tarek-abdelzaher,Tarek Abdelzaher
+655a298daff7d28408308f55,https://research.com/u/jiebo-luo,Jiebo Luo
+655a298daff7d28408308f57,https://research.com/u/micha-sharir,Micha Sharir
+655a298daff7d28408308f59,https://research.com/u/edmund-kieran-burke,Edmund K. Burke
+655a298daff7d28408308f5b,https://research.com/u/christian-s-jensen,Christian S. Jensen
+655a298daff7d28408308f5d,https://research.com/u/scott-forstall,Scott Forstall
+655a298daff7d28408308f5f,https://research.com/u/yaakov-bar-shalom,Yaakov Bar-Shalom
+655a298daff7d28408308f61,https://research.com/u/peter-f-stadler,Peter F. Stadler
+655a298daff7d28408308f63,https://research.com/u/robert-e-kraut,Robert E. Kraut
+655a298daff7d28408308f65,https://research.com/u/thomas-l-griffiths,Thomas L. Griffiths
+655a298daff7d28408308f67,https://research.com/u/herbert-edelsbrunner,Herbert Edelsbrunner
+655a298daff7d28408308f69,https://research.com/u/jianfeng-gao,Jianfeng Gao
+655a298daff7d28408308f6b,https://research.com/u/mel-slater,Mel Slater
+655a298daff7d28408308f6d,https://research.com/u/daniel-weld,Daniel S. Weld
+655a298daff7d28408308f6f,https://research.com/u/fredo-durand,Frédo Durand
+655a298daff7d28408308f71,https://research.com/u/kannan-ramchandran,Kannan Ramchandran
+655a298daff7d28408308f73,https://research.com/u/zhi-quan-luo,Zhi-Quan Luo
+655a298daff7d28408308f75,https://research.com/u/ying-chang-liang,Ying-Chang Liang
+655a298daff7d28408308f77,https://research.com/u/yaochu-jin,Yaochu Jin
+655a298daff7d28408308f79,https://research.com/u/mike-thelwall,Mike Thelwall
+655a298daff7d28408308f7b,https://research.com/u/heinrich-h-bulthoff,Heinrich H. Bülthoff
+655a298daff7d28408308f7d,https://research.com/u/horst-bunke,Horst Bunke
+655a298daff7d28408308f7f,https://research.com/u/ming-zhou,Ming Zhou
+655a298daff7d28408308f81,https://research.com/u/feiping-nie,Feiping Nie
+655a298daff7d28408308f83,https://research.com/u/yuguang-fang,Yuguang Fang
+655a298daff7d28408308f85,https://research.com/u/ken-hinckley,Ken Hinckley
+655a298daff7d28408308f87,https://research.com/u/adi-shamir,Adi Shamir
+655a298daff7d28408308f89,https://research.com/u/sergio-verdu,Sergio Verdu
+655a298daff7d28408308f8b,https://research.com/u/avi-wigderson,Avi Wigderson
+655a298daff7d28408308f8d,https://research.com/u/carlos-a-coello-coel,Carlos A. Coello Coello
+655a298daff7d28408308f8f,https://research.com/u/joseph-halpern,Joseph Y. Halpern
+655a298daff7d28408308f91,https://research.com/u/yunhao-liu,Yunhao Liu
+655a298daff7d28408308f93,https://research.com/u/michael-luby,Michael Luby
+655a298daff7d28408308f95,https://research.com/u/yonina-eldar,Yonina C. Eldar
+655a298daff7d28408308f97,https://research.com/u/jeffrey-f-cohn,Jeffrey F. Cohn
+655a298daff7d28408308f99,https://research.com/u/f-richard-yu,F. Richard Yu
+655a298daff7d28408308f9b,https://research.com/u/alexander-waibel,Alex Waibel
+655a298daff7d28408308f9d,https://research.com/u/noah-a-smith,Noah A. Smith
+655a298daff7d28408308f9f,https://research.com/u/ward-whitt,Ward Whitt
+655a298daff7d28408308fa1,https://research.com/u/michael-i-miller,Michael Miller
+655a298daff7d28408308fa3,https://research.com/u/alexei-a-efros,Alexei A. Efros
+655a298daff7d28408308fa5,https://research.com/u/matti-pietikainen,Matti Pietikäinen
+655a298daff7d28408308fa7,https://research.com/u/david-wagner,David Wagner
+655a298daff7d28408308fa9,https://research.com/u/christopher-d-wickens,Christopher D. Wickens
+655a298daff7d28408308fab,https://research.com/u/steven-h-low,Steven H. Low
+655a298daff7d28408308fad,https://research.com/u/varun-grover,Varun Grover
+655a298daff7d28408308faf,https://research.com/u/raymond-mooney,Raymond J. Mooney
+655a298daff7d28408308fb1,https://research.com/u/chengxiang-zhai,ChengXiang Zhai
+655a298daff7d28408308fb3,https://research.com/u/arthur-c-graesser,Arthur C. Graesser
+655a298daff7d28408308fb5,https://research.com/u/h-v-jagadish,Hosagrahar V. Jagadish
+655a298daff7d28408308fb7,https://research.com/u/yiyu-yao,Yiyu Yao
+655a298daff7d28408308fb9,https://research.com/u/divesh-srivastava,Divesh Srivastava
+655a298daff7d28408308fbb,https://research.com/u/milind-tambe,Milind Tambe
+655a298daff7d28408308fbd,https://research.com/u/joel-j-p-c-rodrigues,Joel J. P. C. Rodrigues
+655a298daff7d28408308fbf,https://research.com/u/mary-czerwinski,Mary Czerwinski
+655a298daff7d28408308fc1,https://research.com/u/marc-davis,Marc Davis
+655a298daff7d28408308fc3,https://research.com/u/quoc-v-le,Quoc V. Le
+655a298daff7d28408308fc5,https://research.com/u/jakob-nielsen,Jakob Nielsen
+655a298daff7d28408308fc7,https://research.com/u/rolf-apweiler,Rolf Apweiler
+655a298daff7d28408308fc9,https://research.com/u/xin-she-yang,Xin-She Yang
+655a298daff7d28408308fcb,https://research.com/u/sara-kiesler,Sara Kiesler
+655a298daff7d28408308fcd,https://research.com/u/jiri-matas,Jiri Matas
+655a298daff7d28408308fcf,https://research.com/u/t-f-chan,Tony F. Chan
+655a298daff7d28408308fd1,https://research.com/u/kui-ren,Kui Ren
+655a298daff7d28408308fd3,https://research.com/u/olivier-faugeras,Olivier Faugeras
+655a298daff7d28408308fd5,https://research.com/u/shlomo-shamai,Shlomo Shamai
+655a298daff7d28408308fd7,https://research.com/u/ali-h-sayed,Ali H. Sayed
+655a298daff7d28408308fd9,https://research.com/u/george-varghese,George Varghese
+655a298daff7d28408308fdb,https://research.com/u/kalle-lyytinen,Kalle Lyytinen
+655a298daff7d28408308fdd,https://research.com/u/grzegorz-rozenberg,Grzegorz Rozenberg
+655a298daff7d28408308fdf,https://research.com/u/c-lee-giles,C. Lee Giles
+655a298daff7d28408308fe1,https://research.com/u/roman-slowinski,Roman Słowiński
+655a298daff7d28408308fe3,https://research.com/u/roger-wattenhofer,Roger Wattenhofer
+655a298daff7d28408308fe5,https://research.com/u/min-chen,Min Chen
+655a298daff7d28408308fe7,https://research.com/u/giovanni-vigna,Giovanni Vigna
+655a298daff7d28408308fe9,https://research.com/u/krishnendu-chakrabar,Krishnendu Chakrabarty
+655a298daff7d28408308feb,https://research.com/u/klara-nahrstedt,Klara Nahrstedt
+655a298daff7d28408308fed,https://research.com/u/daniel-thalmann,Daniel Thalmann
+655a298daff7d28408308fef,https://research.com/u/william-stafford-noble,William Stafford Noble
+655a298daff7d28408308ff1,https://research.com/u/henning-schulzrinne,Henning Schulzrinne
+655a298daff7d28408308ff3,https://research.com/u/edward-a-lee,Edward A. Lee
+655a298daff7d28408308ff5,https://research.com/u/michele-zorzi,Michele Zorzi
+655a298daff7d28408308ff7,https://research.com/u/mihalis-yannakakis,Mihalis Yannakakis
+655a298daff7d28408308ff9,https://research.com/u/william-w-cohen,William W. Cohen
+655a298daff7d28408308ffb,https://research.com/u/silvio-savarese,Silvio Savarese
+655a298daff7d28408308ffd,https://research.com/u/andrew-whinston,Andrew B. Whinston
+655a298daff7d28408308fff,https://research.com/u/dan-suciu,Dan Suciu
+655a298daff7d28408309001,https://research.com/u/lionel-briand,Lionel C. Briand
+655a298daff7d28408309003,https://research.com/u/mohan-trivedi,Mohan M. Trivedi
+655a298daff7d28408309005,https://research.com/u/lawrence-carin,Lawrence Carin
+655a298daff7d28408309007,https://research.com/u/guohong-cao,Guohong Cao
+655a2993590fff04ddf3ccd6,https://research.com/u/bart-preneel,Bart Preneel
+655a2993590fff04ddf3ccd8,https://research.com/u/xiang-yang-li,Xiang-Yang Li
+655a2993590fff04ddf3ccda,https://research.com/u/nicu-sebe,Nicu Sebe
+655a2993590fff04ddf3ccdc,https://research.com/u/deliang-wang,DeLiang Wang
+655a2993590fff04ddf3ccde,https://research.com/u/david-tse,David Tse
+655a2993590fff04ddf3cce0,https://research.com/u/lothar-thiele,Lothar Thiele
+655a2993590fff04ddf3cce2,https://research.com/u/pavel-pevzner,Pavel A. Pevzner
+655a2993590fff04ddf3cce4,https://research.com/u/mahadev-satyanarayan,Mahadev Satyanarayanan
+655a2993590fff04ddf3cce6,https://research.com/u/inderjit-s-dhillon,Inderjit S. Dhillon
+655a2993590fff04ddf3cce8,https://research.com/u/katia-sycara,Katia Sycara
+655a2993590fff04ddf3ccea,https://research.com/u/carole-goble,Carole Goble
+655a2993590fff04ddf3ccec,https://research.com/u/tommi-s-jaakkola,Tommi S. Jaakkola
+655a2993590fff04ddf3ccee,https://research.com/u/steve-young,Steve Young
+655a2993590fff04ddf3ccf0,https://research.com/u/robert-d-nowak,Robert Nowak
+655a2993590fff04ddf3ccf2,https://research.com/u/mark-d-hill,Mark D. Hill
+655a2993590fff04ddf3ccf4,https://research.com/u/i-pitas,Ioannis Pitas
+655a2993590fff04ddf3ccf6,https://research.com/u/phillip-b-gibbons,Phillip B. Gibbons
+655a2994590fff04ddf3ccf8,https://research.com/u/wei-liu,Wei Liu
+655a2994590fff04ddf3ccfa,https://research.com/u/ming-lin,Ming C. Lin
+655a2994590fff04ddf3ccfc,https://research.com/u/albert-zomaya,Albert Y. Zomaya
+655a2994590fff04ddf3ccfe,https://research.com/u/dan-roth,Dan Roth
+655a2994590fff04ddf3cd00,https://research.com/u/andrew-wilson,Andrew D. Wilson
+655a2994590fff04ddf3cd02,https://research.com/u/anupam-joshi,Anupam Joshi
+655a2994590fff04ddf3cd04,https://research.com/u/tingwen-huang,Tingwen Huang
+655a2994590fff04ddf3cd06,https://research.com/u/oscar-castillo,Oscar Castillo
+655a2994590fff04ddf3cd08,https://research.com/u/ahmed-e-hassan,Ahmed E. Hassan
+655a2994590fff04ddf3cd0a,https://research.com/u/peter-corcoran,Peter Corcoran
+655a2994590fff04ddf3cd0c,https://research.com/u/eero-simoncelli,Eero P. Simoncelli
+655a2994590fff04ddf3cd0e,https://research.com/u/donald-e-knuth,Donald E. Knuth
+655a2994590fff04ddf3cd10,https://research.com/u/simon-haykin,Simon Haykin
+655a2994590fff04ddf3cd12,https://research.com/u/pedro-domingos,Pedro Domingos
+655a2994590fff04ddf3cd14,https://research.com/u/ramesh-jain,Ramesh Jain
+655a2994590fff04ddf3cd16,https://research.com/u/abhinav-gupta,Abhinav Gupta
+655a2994590fff04ddf3cd18,https://research.com/u/zhengyou-zhang,Zhengyou Zhang
+655a2994590fff04ddf3cd1a,https://research.com/u/merouane-debbah,Merouane Debbah
+655a2994590fff04ddf3cd1c,https://research.com/u/peter-willett,Peter Willett
+655a2994590fff04ddf3cd1e,https://research.com/u/paolo-toth,Paolo Toth
+655a2994590fff04ddf3cd20,https://research.com/u/russ-b-altman,Russ B. Altman
+655a2994590fff04ddf3cd22,https://research.com/u/giles-m-foody,Giles M. Foody
+655a2994590fff04ddf3cd24,https://research.com/u/andreas-krause,Andreas Krause
+655a2994590fff04ddf3cd26,https://research.com/u/tce-cheng,T.C.E. Cheng
+655a2994590fff04ddf3cd28,https://research.com/u/sebastien-ourselin,Sebastien Ourselin
+655a2994590fff04ddf3cd2a,https://research.com/u/shahram-izadi,Shahram Izadi
+655a2994590fff04ddf3cd2c,https://research.com/u/c-l-philip-chen,C. L. Philip Chen
+655a2994590fff04ddf3cd2e,https://research.com/u/jonathan-katz,Jonathan Katz
+655a2994590fff04ddf3cd30,https://research.com/u/christian-theobalt,Christian Theobalt
+655a2994590fff04ddf3cd32,https://research.com/u/baochun-li,Baochun Li
+655a2994590fff04ddf3cd34,https://research.com/u/laurence-t-yang,Laurence T. Yang
+655a2994590fff04ddf3cd36,https://research.com/u/jeff-dean,Jeffrey Dean
+655a2994590fff04ddf3cd38,https://research.com/u/carl-kesselman,Carl Kesselman
+655a2994590fff04ddf3cd3a,https://research.com/u/john-c-platt,John Platt
+655a2994590fff04ddf3cd3c,https://research.com/u/jim-gray,Jim Gray
+655a2994590fff04ddf3cd3e,https://research.com/u/lionel-ni,Lionel M. Ni
+655a2994590fff04ddf3cd40,https://research.com/u/nancy-lynch,Nancy Lynch
+655a2994590fff04ddf3cd42,https://research.com/u/yu-zheng,Yu Zheng
+655a2994590fff04ddf3cd44,https://research.com/u/andrew-t-campbell,Andrew T. Campbell
+655a2994590fff04ddf3cd46,https://research.com/u/james-w-demmel,James Demmel
+655a2994590fff04ddf3cd48,https://research.com/u/antonio-plaza,Antonio Plaza
+655a2994590fff04ddf3cd4a,https://research.com/u/jocelyn-chanussot,Jocelyn Chanussot
+655a2994590fff04ddf3cd4c,https://research.com/u/ling-shao,Ling Shao
+655a2994590fff04ddf3cd4e,https://research.com/u/kristen-grauman,Kristen Grauman
+655a2994590fff04ddf3cd50,https://research.com/u/k-j-ray-liu,K.J.R. Liu
+655a2994590fff04ddf3cd52,https://research.com/u/pheng-ann-heng,Pheng-Ann Heng
+655a2994590fff04ddf3cd54,https://research.com/u/yuan-xie,Yuan Xie
+655a2994590fff04ddf3cd56,https://research.com/u/hanspeter-pfister,Hanspeter Pfister
+655a2994590fff04ddf3cd58,https://research.com/u/enrico-zio,Enrico Zio
+655a2994590fff04ddf3cd5a,https://research.com/u/andrew-kahng,Andrew B. Kahng
+655a2994590fff04ddf3cd5c,https://research.com/u/xiaohui-liu,Xiaohui Liu
+655a2994590fff04ddf3cd5e,https://research.com/u/tuomas-sandholm,Tuomas Sandholm
+655a2994590fff04ddf3cd60,https://research.com/u/beng-chin-ooi,Beng Chin Ooi
+655a2994590fff04ddf3cd62,https://research.com/u/andrea-massa,Andrea Massa
+655a2994590fff04ddf3cd64,https://research.com/u/ian-h-witten,Ian H. Witten
+655a2994590fff04ddf3cd66,https://research.com/u/aaron-courville,Aaron Courville
+655a2994590fff04ddf3cd68,https://research.com/u/leslie-lamport,Leslie Lamport
+655a2994590fff04ddf3cd6a,https://research.com/u/henning-hermjakob,Henning Hermjakob
+655a2994590fff04ddf3cd6c,https://research.com/u/kevin-w-bowyer,Kevin W. Bowyer
+655a2994590fff04ddf3cd6e,https://research.com/u/tom-mitchell,Tom M. Mitchell
+655a2994590fff04ddf3cd70,https://research.com/u/dorin-comaniciu-1,Dorin Comaniciu
+655a2994590fff04ddf3cd72,https://research.com/u/amit-sahai,Amit Sahai
+655a2994590fff04ddf3cd74,https://research.com/u/patrick-mcdaniel,Patrick McDaniel
+655a2994590fff04ddf3cd76,https://research.com/u/stefan-savage,Stefan Savage
+655a2994590fff04ddf3cd78,https://research.com/u/michael-mitzenmacher,Michael Mitzenmacher
+655a2994590fff04ddf3cd7a,https://research.com/u/miron-livny,Miron Livny
+655a2994590fff04ddf3cd7c,https://research.com/u/chen-change-loy,Chen Change Loy
+655a2994590fff04ddf3cd7e,https://research.com/u/jiaya-jia,Jiaya Jia
+655a2994590fff04ddf3cd80,https://research.com/u/daniel-keim,Daniel A. Keim
+655a2994590fff04ddf3cd82,https://research.com/u/vladlen-koltun,Vladlen Koltun
+655a2994590fff04ddf3cd84,https://research.com/u/pramod-k-varshney-1,Pramod K. Varshney
+655a2994590fff04ddf3cd86,https://research.com/u/marlon-dumas,Marlon Dumas
+655a2994590fff04ddf3cd88,https://research.com/u/schahram-dustdar,Schahram Dustdar
+655a2994590fff04ddf3cd8a,https://research.com/u/davide-scaramuzza,Davide Scaramuzza
+655a2994590fff04ddf3cd8c,https://research.com/u/gregory-hager,Gregory D. Hager
+655a2994590fff04ddf3cd8e,https://research.com/u/aggelos-k-katsaggelo,Aggelos K. Katsaggelos
+655a2994590fff04ddf3cd90,https://research.com/u/yogesh-k-dwivedi,Yogesh K. Dwivedi
+655a2994590fff04ddf3cd92,https://research.com/u/giovanni-de-micheli,G. De Micheli
+655a2994590fff04ddf3cd94,https://research.com/u/george-g-robertson,George G. Robertson
+655a2994590fff04ddf3cd96,https://research.com/u/alex-hauptmann,Alexander G. Hauptmann
+655a2994590fff04ddf3cd98,https://research.com/u/neville-a-stanton,Neville A. Stanton
+655a2994590fff04ddf3cd9a,https://research.com/u/michael-j-carey,Michael J. Carey
+655a2994590fff04ddf3cd9c,https://research.com/u/david-peleg,David Peleg
+655a299ad98aa705d579ce3d,https://research.com/u/johannes-gehrke,Johannes Gehrke
+655a299ad98aa705d579ce3f,https://research.com/u/silvio-micali,Silvio Micali
+655a299ad98aa705d579ce41,https://research.com/u/raghu-ramakrishnan,Raghu Ramakrishnan
+655a299ad98aa705d579ce43,https://research.com/u/michael-l-littman,Michael L. Littman
+655a299ad98aa705d579ce45,https://research.com/u/wenjing-lou,Wenjing Lou
+655a299ad98aa705d579ce47,https://research.com/u/piotr-indyk,Piotr Indyk
+655a299ad98aa705d579ce49,https://research.com/u/v-basili,Victor R. Basili
+655a299ad98aa705d579ce4b,https://research.com/u/hui-zhang,Hui Zhang
+655a299ad98aa705d579ce4d,https://research.com/u/jose-principe,Jose C. Principe
+655a299ad98aa705d579ce4f,https://research.com/u/pierre-hansen,Pierre Hansen
+655a299ad98aa705d579ce51,https://research.com/u/thad-starner,Thad Starner
+655a299ad98aa705d579ce53,https://research.com/u/olvi-mangasarian,Olvi L. Mangasarian
+655a299ad98aa705d579ce55,https://research.com/u/walid-saad,Walid Saad
+655a299ad98aa705d579ce57,https://research.com/u/geoffrey-ye-li,Geoffrey Ye Li
+655a299ad98aa705d579ce59,https://research.com/u/thomas-reps,Thomas Reps
+655a299ad98aa705d579ce5b,https://research.com/u/jan-peters-1,Jan Peters
+655a299ad98aa705d579ce5d,https://research.com/u/dario-floreano,Dario Floreano
+655a299ad98aa705d579ce5f,https://research.com/u/chin-teng-lin,Chin-Teng Lin
+655a299ad98aa705d579ce61,https://research.com/u/xilin-chen,Xilin Chen
+655a299ad98aa705d579ce63,https://research.com/u/chin-chen-chang,Chin-Chen Chang
+655a299ad98aa705d579ce65,https://research.com/u/qian-zhang,Qian Zhang
+655a299ad98aa705d579ce67,https://research.com/u/jose-m-f-moura,Jose M. F. Moura
+655a299ad98aa705d579ce69,https://research.com/u/zheng-chen,Zheng Chen
+655a299bd98aa705d579ce6b,https://research.com/u/ingrid-verbauwhede,Ingrid Verbauwhede
+655a299bd98aa705d579ce6d,https://research.com/u/erol-gelenbe,Erol Gelenbe
+655a299bd98aa705d579ce6f,https://research.com/u/katsushi-ikeuchi,Katsushi Ikeuchi
+655a299bd98aa705d579ce71,https://research.com/u/ken-kennedy,Ken Kennedy
+655a299bd98aa705d579ce73,https://research.com/u/dieu-tien-bui,Dieu Tien Bui
+655a299bd98aa705d579ce75,https://research.com/u/prabhakar-raghavan,Prabhakar Raghavan
+655a299bd98aa705d579ce77,https://research.com/u/andrea-vedaldi,Andrea Vedaldi
+655a299bd98aa705d579ce79,https://research.com/u/yi-ma,Yi Ma
+655a299bd98aa705d579ce7b,https://research.com/u/ricardo-baeza-yates,Ricardo Baeza-Yates
+655a299bd98aa705d579ce7d,https://research.com/u/johan-suykens,Johan A. K. Suykens
+655a299bd98aa705d579ce7f,https://research.com/u/william-gropp,William Gropp
+655a299bd98aa705d579ce81,https://research.com/u/dieter-fensel,Dieter Fensel
+655a299bd98aa705d579ce83,https://research.com/u/david-wetherall,David Wetherall
+655a299bd98aa705d579ce85,https://research.com/u/carsten-rother,Carsten Rother
+655a299bd98aa705d579ce87,https://research.com/u/dina-katabi,Dina Katabi
+655a299bd98aa705d579ce89,https://research.com/u/antonio-criminisi,Antonio Criminisi
+655a299bd98aa705d579ce8b,https://research.com/u/thomas-funkhouser,Thomas Funkhouser
+655a299bd98aa705d579ce8d,https://research.com/u/sheng-chen,Sheng Chen
+655a299bd98aa705d579ce8f,https://research.com/u/d-louis-collins,D. Louis Collins
+655a299bd98aa705d579ce91,https://research.com/u/sankar-kumar-pal,Sankar K. Pal
+655a299bd98aa705d579ce93,https://research.com/u/jan-kautz,Jan Kautz
+655a299bd98aa705d579ce95,https://research.com/u/moti-yung,Moti Yung
+655a299bd98aa705d579ce97,https://research.com/u/james-kurose,Jim Kurose
+655a299bd98aa705d579ce99,https://research.com/u/frank-leymann,Frank Leymann
+655a299bd98aa705d579ce9b,https://research.com/u/douglas-schmidt,Douglas C. Schmidt
+655a299bd98aa705d579ce9d,https://research.com/u/edward-dougherty,Edward R. Dougherty
+655a299bd98aa705d579ce9f,https://research.com/u/mung-chiang,Mung Chiang
+655a299bd98aa705d579cea1,https://research.com/u/robert-k-brayton,Robert K. Brayton
+655a299bd98aa705d579cea3,https://research.com/u/ken-koedinger,Kenneth R. Koedinger
+655a299bd98aa705d579cea5,https://research.com/u/victor-lesser,Victor Lesser
+655a299bd98aa705d579cea7,https://research.com/u/hanif-d-sherali,Hanif D. Sherali
+655a299bd98aa705d579cea9,https://research.com/u/jan-mendling,Jan Mendling
+655a299bd98aa705d579ceab,https://research.com/u/ahmad-reza-sadeghi,Ahmad-Reza Sadeghi
+655a299bd98aa705d579cead,https://research.com/u/james-m-rehg,James M. Rehg
+655a299bd98aa705d579ceaf,https://research.com/u/dennis-shasha,Dennis Shasha
+655a299bd98aa705d579ceb1,https://research.com/u/nirwan-ansari,Nirwan Ansari
+655a299bd98aa705d579ceb3,https://research.com/u/gwo-jen-hwang,Gwo-Jen Hwang
+655a299bd98aa705d579ceb5,https://research.com/u/sing-bing-kang,Sing Bing Kang
+655a299bd98aa705d579ceb7,https://research.com/u/michael-kwok-po-ng,Michael K. Ng
+655a299bd98aa705d579ceb9,https://research.com/u/krithi-ramamritham,Krithi Ramamritham
+655a299bd98aa705d579cebb,https://research.com/u/jonathan-j-hull,Jonathan J. Hull
+655a299bd98aa705d579cebd,https://research.com/u/yudong-zhang,Yudong Zhang
+655a299bd98aa705d579cebf,https://research.com/u/nir-friedman,Nir Friedman
+655a299bd98aa705d579cec1,https://research.com/u/barry-boehm,Barry Boehm
+655a299bd98aa705d579cec3,https://research.com/u/yvonne-rogers,Yvonne Rogers
+655a299bd98aa705d579cec5,https://research.com/u/hugh-durrant-whyte,Hugh Durrant-Whyte
+655a299bd98aa705d579cec7,https://research.com/u/ran-canetti-1,Ran Canetti
+655a299bd98aa705d579cec9,https://research.com/u/david-forsyth,David Forsyth
+655a299bd98aa705d579cecb,https://research.com/u/narendra-ahuja,Narendra Ahuja
+655a299bd98aa705d579cecd,https://research.com/u/rajeev-rastogi,Rajeev Rastogi
+655a299bd98aa705d579cecf,https://research.com/u/hanan-samet,Hanan Samet
+655a299bd98aa705d579ced1,https://research.com/u/bram-van-ginneken,Bram van Ginneken
+655a299bd98aa705d579ced3,https://research.com/u/henry-kautz,Henry Kautz
+655a299bd98aa705d579ced5,https://research.com/u/somesh-jha,Somesh Jha
+655a299bd98aa705d579ced7,https://research.com/u/manuela-m-veloso,Manuela Veloso
+655a299bd98aa705d579ced9,https://research.com/u/licheng-jiao,Licheng Jiao
+655a299bd98aa705d579cedb,https://research.com/u/mark-billinghurst,Mark Billinghurst
+655a299bd98aa705d579cedd,https://research.com/u/monica-s-lam,Monica S. Lam
+655a299bd98aa705d579cedf,https://research.com/u/ivan-stojmenovic,Ivan Stojmenovic
+655a299bd98aa705d579cee1,https://research.com/u/zohar-manna,Zohar Manna
+655a299bd98aa705d579cee3,https://research.com/u/kim-g-larsen,Kim Guldstrand Larsen
+655a299bd98aa705d579cee5,https://research.com/u/maurizio-lenzerini,Maurizio Lenzerini
+655a299bd98aa705d579cee7,https://research.com/u/song-chun-zhu,Song-Chun Zhu
+655a299bd98aa705d579cee9,https://research.com/u/rene-vidal,René Vidal
+655a299bd98aa705d579ceeb,https://research.com/u/shiguang-shan,Shiguang Shan
+655a299bd98aa705d579ceed,https://research.com/u/russell-h-taylor,Russell H. Taylor
+655a299bd98aa705d579ceef,https://research.com/u/tao-xiang,Tao Xiang
+655a299bd98aa705d579cef1,https://research.com/u/christos-kozyrakis,Christos Kozyrakis
+655a299bd98aa705d579cef3,https://research.com/u/barry-smith,Barry Smith
+655a299bd98aa705d579cef5,https://research.com/u/nasir-memon,Nasir Memon
+655a299bd98aa705d579cef7,https://research.com/u/jeffrey-naughton,Jeffrey F. Naughton
+655a299bd98aa705d579cef9,https://research.com/u/alex-aiken,Alex Aiken
+655a299bd98aa705d579cefb,https://research.com/u/meng-wang,Meng Wang
+655a299bd98aa705d579cefd,https://research.com/u/keshab-k-parhi,Keshab K. Parhi
+655a299bd98aa705d579ceff,https://research.com/u/anand-raghunathan,Anand Raghunathan
+655a299bd98aa705d579cf01,https://research.com/u/mirella-lapata,Mirella Lapata
+655a299bd98aa705d579cf03,https://research.com/u/prashant-shenoy,Prashant Shenoy
+655a29a4b9701a95d90bb5f2,https://research.com/u/zahir-irani,Zahir Irani
+655a29a4b9701a95d90bb5f4,https://research.com/u/rong-jin,Rong Jin
+655a29a4b9701a95d90bb5f6,https://research.com/u/jeffrey-xu-yu,Jeffrey Xu Yu
+655a29a4b9701a95d90bb5f8,https://research.com/u/juan-m-corchado,Juan M. Corchado
+655a29a4b9701a95d90bb5fa,https://research.com/u/michael-a-paolini,Michael A. Paolini
+655a29a4b9701a95d90bb5fc,https://research.com/u/demetri-terzopoulos,Demetri Terzopoulos
+655a29a4b9701a95d90bb5fe,https://research.com/u/carlos-guestrin,Carlos Guestrin
+655a29a4b9701a95d90bb600,https://research.com/u/fernando-pereira,Fernando Pereira
+655a29a4b9701a95d90bb602,https://research.com/u/ronald-graham,Ron Graham
+655a29a4b9701a95d90bb604,https://research.com/u/stuart-k-card,Stuart K. Card
+655a29a4b9701a95d90bb606,https://research.com/u/anind-k-dey,Anind K. Dey
+655a29a4b9701a95d90bb608,https://research.com/u/luke-zettlemoyer,Luke Zettlemoyer
+655a29a4b9701a95d90bb60a,https://research.com/u/ravi-kumar,Ravi Kumar
+655a29a4b9701a95d90bb60c,https://research.com/u/philip-a-bernstein,Philip A. Bernstein
+655a29a4b9701a95d90bb60e,https://research.com/u/ge-wang,Ge Wang
+655a29a4b9701a95d90bb610,https://research.com/u/alon-halevy,Alon Halevy
+655a29a4b9701a95d90bb612,https://research.com/u/jaime-carbonell,Jaime G. Carbonell
+655a29a4b9701a95d90bb614,https://research.com/u/serge-abiteboul,Serge Abiteboul
+655a29a4b9701a95d90bb616,https://research.com/u/fan-chung,Fan Chung
+655a29a4b9701a95d90bb618,https://research.com/u/barbara-liskov,Barbara Liskov
+655a29a4b9701a95d90bb61a,https://research.com/u/peter-corke,Peter Corke
+655a29a4b9701a95d90bb61c,https://research.com/u/rafail-ostrovsky,Rafail Ostrovsky
+655a29a4b9701a95d90bb61e,https://research.com/u/jan-j-koenderink,Jan J. Koenderink
+655a29a4b9701a95d90bb620,https://research.com/u/gerard-medioni,Gerard Medioni
+655a29a4b9701a95d90bb622,https://research.com/u/jk-aggarwal,Jake K. Aggarwal
+655a29a4b9701a95d90bb624,https://research.com/u/jose-meseguer,José Meseguer
+655a29a4b9701a95d90bb626,https://research.com/u/bhaskar-krishnamacha,Bhaskar Krishnamachari
+655a29a4b9701a95d90bb628,https://research.com/u/simon-peyton-jones,Simon Jones
+655a29a4b9701a95d90bb62a,https://research.com/u/kathleen-m-carley,Kathleen M. Carley
+655a29a4b9701a95d90bb62c,https://research.com/u/james-landay,James A. Landay
+655a29a4b9701a95d90bb62e,https://research.com/u/stephen-o-lemay,Stephen O. Lemay
+655a29a4b9701a95d90bb630,https://research.com/u/geoffrey-b-rhoads,Geoffrey B. Rhoads
+655a29a4b9701a95d90bb632,https://research.com/u/simon-arridge,Simon R. Arridge
+655a29a4b9701a95d90bb634,https://research.com/u/niraj-jha,Niraj K. Jha
+655a29a4b9701a95d90bb636,https://research.com/u/angelos-d-keromytis,Angelos D. Keromytis
+655a29a4b9701a95d90bb638,https://research.com/u/xiang-gen-xia,Xiang-Gen Xia
+655a29a4b9701a95d90bb63a,https://research.com/u/divyakant-agrawal,Divyakant Agrawal
+655a29a4b9701a95d90bb63c,https://research.com/u/hiroshi-ishiguro,Hiroshi Ishiguro
+655a29a4b9701a95d90bb63e,https://research.com/u/jimmy-lin,Jimmy Lin
+655a29a4b9701a95d90bb640,https://research.com/u/jiashi-feng,Jiashi Feng
+655a29a4b9701a95d90bb642,https://research.com/u/moeness-g-amin,Moeness G. Amin
+655a29a4b9701a95d90bb644,https://research.com/u/dennis-doughty,Dennis Doughty
+655a29a4b9701a95d90bb646,https://research.com/u/jorey-ramer,Jorey Ramer
+655a29a4b9701a95d90bb648,https://research.com/u/arie-kaufman,Arie E. Kaufman
+655a29a4b9701a95d90bb64a,https://research.com/u/david-lo,David Lo
+655a29a4b9701a95d90bb64c,https://research.com/u/patricia-melin,Patricia Melin
+655a29a4b9701a95d90bb64e,https://research.com/u/ravin-balakrishnan,Ravin Balakrishnan
+655a29a4b9701a95d90bb650,https://research.com/u/kenneth-parulski,Kenneth A. Parulski
+655a29a4b9701a95d90bb652,https://research.com/u/cary-lee-bates,Cary Lee Bates
+655a29a4b9701a95d90bb654,https://research.com/u/francisco-jose-garci,Francisco José García-Peñalvo
+655a29a4b9701a95d90bb656,https://research.com/u/robert-schapire,Robert E. Schapire
+655a29a4b9701a95d90bb658,https://research.com/u/kai-li,Kai Li
+655a29a4b9701a95d90bb65a,https://research.com/u/john-canny,John Canny
+655a29a4b9701a95d90bb65c,https://research.com/u/edward-h-adelson,Edward H. Adelson
+655a29a4b9701a95d90bb65e,https://research.com/u/dong-yu,Dong Yu
+655a29a4b9701a95d90bb660,https://research.com/u/joos-vandewalle,Joos Vandewalle
+655a29a4b9701a95d90bb662,https://research.com/u/ingemar-j-cox,Ingemar J. Cox
+655a29a4b9701a95d90bb664,https://research.com/u/ravi-sandhu,Ravi Sandhu
+655a29a4b9701a95d90bb666,https://research.com/u/honglak-lee,Honglak Lee
+655a29a4b9701a95d90bb668,https://research.com/u/david-garlan,David Garlan
+655a29a4b9701a95d90bb66a,https://research.com/u/pattie-maes,Pattie Maes
+655a29a4b9701a95d90bb66c,https://research.com/u/avrim-blum,Avrim Blum
+655a29a4b9701a95d90bb66e,https://research.com/u/muriel-medard,Muriel Medard
+655a29a4b9701a95d90bb670,https://research.com/u/babak-hassibi,Babak Hassibi
+655a29a4b9701a95d90bb672,https://research.com/u/emilio-frazzoli,Emilio Frazzoli
+655a29a4b9701a95d90bb674,https://research.com/u/sabine-van-huffel-1,Sabine Van Huffel
+655a29a4b9701a95d90bb676,https://research.com/u/georg-gottlob,Georg Gottlob
+655a29a4b9701a95d90bb678,https://research.com/u/nuno-vasconcelos,Nuno Vasconcelos
+655a29a4b9701a95d90bb67a,https://research.com/u/xiang-bai,Xiang Bai
+655a29a4b9701a95d90bb67c,https://research.com/u/k-k-ramakrishnan,Kadangode K. Ramakrishnan
+655a29a4b9701a95d90bb67e,https://research.com/u/rongxing-lu,Rongxing Lu
+655a29a4b9701a95d90bb680,https://research.com/u/kerstin-dautenhahn,Kerstin Dautenhahn
+655a29a4b9701a95d90bb682,https://research.com/u/alok-choudhary,Alok Choudhary
+655a29a4b9701a95d90bb684,https://research.com/u/kurt-keutzer,Kurt Keutzer
+655a29a4b9701a95d90bb686,https://research.com/u/kevin-knight,Kevin Knight
+655a29a4b9701a95d90bb688,https://research.com/u/wolfgang-nejdl,Wolfgang Nejdl
+655a29a4b9701a95d90bb68a,https://research.com/u/manfred-reichert,Manfred Reichert
+655a29a4b9701a95d90bb68c,https://research.com/u/kwok-wing-chau,Kwok-wing Chau
+655a29a4b9701a95d90bb68e,https://research.com/u/shmuel-shaffer,Shmuel Shaffer
+655a29a4b9701a95d90bb690,https://research.com/u/adam-soroca,Adam Soroca
+655a29a4b9701a95d90bb692,https://research.com/u/greg-ganger,Gregory R. Ganger
+655a29a4b9701a95d90bb694,https://research.com/u/meikang-qiu,Meikang Qiu
+655a29a4b9701a95d90bb696,https://research.com/u/richard-hartley,Richard Hartley
+655a29a4b9701a95d90bb698,https://research.com/u/brent-waters,Brent Waters
+655a29a4b9701a95d90bb69a,https://research.com/u/thomas-dietterich,Thomas G. Dietterich
+655a29a4b9701a95d90bb69c,https://research.com/u/paramvir-bahl,Paramvir Bahl
+655a29a5b9701a95d90bb69e,https://research.com/u/bs-manjunath,B.S. Manjunath
+655a29a5b9701a95d90bb6a0,https://research.com/u/phillip-rogaway,Phillip Rogaway
+655a29a5b9701a95d90bb6a2,https://research.com/u/heikki-mannila,Heikki Mannila
+655a29a5b9701a95d90bb6a4,https://research.com/u/syed-a-jafar,Syed A. Jafar
+655a29a5b9701a95d90bb6a6,https://research.com/u/dj-hawkes,David J. Hawkes
+655a29a5b9701a95d90bb6a8,https://research.com/u/amir-h-gandomi,Amir H. Gandomi
+655a29a5b9701a95d90bb6aa,https://research.com/u/huchuan-lu,Huchuan Lu
+655a29a5b9701a95d90bb6ac,https://research.com/u/leandros-tassiulas,Leandros Tassiulas
+655a29a5b9701a95d90bb6ae,https://research.com/u/daniel-klein,Daniel Klein
+655a29a5b9701a95d90bb6b0,https://research.com/u/hiroshi-ishii-1,Hiroshi Ishii
+655a29a5b9701a95d90bb6b2,https://research.com/u/trevor-mudge,Trevor Mudge
+655a29a5b9701a95d90bb6b4,https://research.com/u/wangmeng-zuo,Wangmeng Zuo
+655a29a5b9701a95d90bb6b6,"https://research.com/u/j-f-nunamaker,-jr",Jay F. Nunamaker
+655a29a5b9701a95d90bb6b8,https://research.com/u/hisao-ishibuchi,Hisao Ishibuchi
+655a29af82c9bb068bfab097,https://research.com/u/diane-j-cook,Diane J. Cook
+655a29af82c9bb068bfab099,https://research.com/u/andreas-stolcke,Andreas Stolcke
+655a29af82c9bb068bfab09b,https://research.com/u/marta-karczewicz,Marta Karczewicz
+655a29af82c9bb068bfab09d,https://research.com/u/stefano-soatto,Stefano Soatto
+655a29af82c9bb068bfab09f,https://research.com/u/wen-mei-w-hwu,Wen-mei W. Hwu
+655a29af82c9bb068bfab0a1,https://research.com/u/nigel-shadbolt,Nigel Shadbolt
+655a29af82c9bb068bfab0a3,https://research.com/u/chin-hui-lee,Chin-Hui Lee
+655a29af82c9bb068bfab0a5,https://research.com/u/kurt-mehlhorn,Kurt Mehlhorn
+655a29af82c9bb068bfab0a7,https://research.com/u/yun-fu,Yun Fu
+655a29af82c9bb068bfab0a9,https://research.com/u/stan-sclaroff,Stan Sclaroff
+655a29af82c9bb068bfab0ab,https://research.com/u/roy-h-campbell,Roy H. Campbell
+655a29af82c9bb068bfab0ad,https://research.com/u/stephane-h-maes,Stephane H. Maes
+655a29af82c9bb068bfab0af,https://research.com/u/xiaoli-li,Xiaoli Li
+655a29af82c9bb068bfab0b1,https://research.com/u/tao-mei,Tao Mei
+655a29af82c9bb068bfab0b3,https://research.com/u/gustavo-alonso,Gustavo Alonso
+655a29af82c9bb068bfab0b5,https://research.com/u/arvind-krishnamurthy,Arvind Krishnamurthy
+655a29af82c9bb068bfab0b7,https://research.com/u/tang-jie,Jie Tang
+655a29af82c9bb068bfab0b9,https://research.com/u/james-glass,James Glass
+655a29af82c9bb068bfab0bb,https://research.com/u/weisi-lin,Weisi Lin
+655a29af82c9bb068bfab0bd,https://research.com/u/shipeng-li,Shipeng Li
+655a29af82c9bb068bfab0bf,https://research.com/u/patrick-baudisch,Patrick Baudisch
+655a29af82c9bb068bfab0c1,https://research.com/u/denys-poshyvanyk,Denys Poshyvanyk
+655a29af82c9bb068bfab0c3,https://research.com/u/joseph-a-konstan,Joseph A. Konstan
+655a29af82c9bb068bfab0c5,https://research.com/u/mark-handley,Mark Handley
+655a29af82c9bb068bfab0c7,https://research.com/u/john-lafferty,John Lafferty
+655a29af82c9bb068bfab0c9,https://research.com/u/jean-ponce,Jean Ponce
+655a29af82c9bb068bfab0cb,https://research.com/u/padhraic-smyth,Padhraic Smyth
+655a29af82c9bb068bfab0cd,https://research.com/u/scott-makeig,Scott Makeig
+655a29af82c9bb068bfab0cf,https://research.com/u/robert-m-gray,Robert M. Gray
+655a29af82c9bb068bfab0d1,https://research.com/u/yang-zhang,Yang Zhang
+655a29af82c9bb068bfab0d3,https://research.com/u/peter-bartlett,Peter L. Bartlett
+655a29af82c9bb068bfab0d5,https://research.com/u/zygmunt-j-haas,Zygmunt J. Haas
+655a29af82c9bb068bfab0d7,https://research.com/u/tzyy-ping-jung,Tzyy-Ping Jung
+655a29af82c9bb068bfab0d9,https://research.com/u/peter-brusilovsky,Peter Brusilovsky
+655a29af82c9bb068bfab0db,https://research.com/u/leonard-kleinrock,Leonard Kleinrock
+655a29af82c9bb068bfab0dd,https://research.com/u/eric-brewer,Eric Brewer
+655a29af82c9bb068bfab0df,https://research.com/u/shai-halevi,Shai Halevi
+655a29af82c9bb068bfab0e1,https://research.com/u/margaret-martonosi,Margaret Martonosi
+655a29af82c9bb068bfab0e3,https://research.com/u/tian-he,Tian He
+655a29af82c9bb068bfab0e5,https://research.com/u/haibo-he,Haibo He
+655a29af82c9bb068bfab0e7,https://research.com/u/li-da-xu,Li Da Xu
+655a29af82c9bb068bfab0e9,https://research.com/u/steven-feiner,Steven Feiner
+655a29af82c9bb068bfab0eb,https://research.com/u/ling-liu,Ling Liu
+655a29af82c9bb068bfab0ed,https://research.com/u/hongyuan-zha,Hongyuan Zha
+655a29af82c9bb068bfab0ef,https://research.com/u/jeff-fessler,Jeffrey A. Fessler
+655a29af82c9bb068bfab0f1,https://research.com/u/john-r-smith-1,John R. Smith
+655a29af82c9bb068bfab0f3,https://research.com/u/yong-rui,Yong Rui
+655a29af82c9bb068bfab0f5,https://research.com/u/bruce-golden,Bruce L. Golden
+655a29af82c9bb068bfab0f7,https://research.com/u/chunming-qiao,Chunming Qiao
+655a29af82c9bb068bfab0f9,https://research.com/u/cynthia-breazeal,Cynthia Breazeal
+655a29af82c9bb068bfab0fb,https://research.com/u/ness-shroff,Ness B. Shroff
+655a29af82c9bb068bfab0fd,https://research.com/u/alan-frieze,Alan Frieze
+655a29af82c9bb068bfab0ff,https://research.com/u/lei-chen,Lei Chen
+655a29af82c9bb068bfab101,https://research.com/u/edward-delp,Edward J. Delp
+655a29af82c9bb068bfab103,https://research.com/u/ken-goldberg,Ken Goldberg
+655a29af82c9bb068bfab105,https://research.com/u/erik-demaine,Erik D. Demaine
+655a29af82c9bb068bfab107,https://research.com/u/mark-a-malamud,Mark A. Malamud
+655a29af82c9bb068bfab109,https://research.com/u/barry-smyth,Barry Smyth
+655a29af82c9bb068bfab10b,https://research.com/u/nitish-v-thakor,Nitish V. Thakor
+655a29af82c9bb068bfab10d,https://research.com/u/qionghai-dai,Qionghai Dai
+655a29af82c9bb068bfab10f,https://research.com/u/muhammad-khurram-kha,Muhammad Khurram Khan
+655a29af82c9bb068bfab111,https://research.com/u/ling-wang,Ling Wang
+655a29af82c9bb068bfab113,https://research.com/u/rob-fergus,Rob Fergus
+655a29af82c9bb068bfab115,https://research.com/u/thorsten-joachims,Thorsten Joachims
+655a29af82c9bb068bfab117,https://research.com/u/john-shawe-taylor,John Shawe-Taylor
+655a29af82c9bb068bfab119,https://research.com/u/tim-cootes,Timothy F. Cootes
+655a29af82c9bb068bfab11b,https://research.com/u/bernardo-a-huberman,Bernardo A. Huberman
+655a29af82c9bb068bfab11d,https://research.com/u/max-welling,Max Welling
+655a29af82c9bb068bfab11f,https://research.com/u/andrew-fitzgibbon,Andrew Fitzgibbon
+655a29af82c9bb068bfab121,https://research.com/u/benjamin-recht,Benjamin Recht
+655a29af82c9bb068bfab123,https://research.com/u/jean-claude-latombe,Jean-Claude Latombe
+655a29af82c9bb068bfab125,https://research.com/u/chris-ding,Chris Ding
+655a29af82c9bb068bfab127,https://research.com/u/devi-parikh,Devi Parikh
+655a29af82c9bb068bfab129,https://research.com/u/barbara-ann-kitchenh,Barbara Kitchenham
+655a29af82c9bb068bfab12b,https://research.com/u/jerry-l-prince,Jerry L. Prince
+655a29af82c9bb068bfab12d,https://research.com/u/ross-anderson,Ross Anderson
+655a29af82c9bb068bfab12f,https://research.com/u/noam-nisan,Noam Nisan
+655a29af82c9bb068bfab131,https://research.com/u/michal-irani,Michal Irani
+655a29af82c9bb068bfab133,https://research.com/u/alfred-hero,Alfred O. Hero
+655a29af82c9bb068bfab135,https://research.com/u/yong-yu-1,Yong Yu
+655a29af82c9bb068bfab137,https://research.com/u/ellen-voorhees,Ellen M. Voorhees
+655a29af82c9bb068bfab139,https://research.com/u/miodrag-potkonjak,Miodrag Potkonjak
+655a29af82c9bb068bfab13b,https://research.com/u/christophe-diot,Christophe Diot
+655a29af82c9bb068bfab13d,https://research.com/u/garth-alan-gibson,Garth A. Gibson
+655a29af82c9bb068bfab13f,https://research.com/u/lang-tong,Lang Tong
+655a29af82c9bb068bfab141,https://research.com/u/r-srikant,R. Srikant
+655a29af82c9bb068bfab143,https://research.com/u/mehryar-mohri,Mehryar Mohri
+655a29af82c9bb068bfab145,https://research.com/u/guang-zhong-yang,Guang-Zhong Yang
+655a29af82c9bb068bfab147,https://research.com/u/jason-hong,Jason Hong
+655a29af82c9bb068bfab149,https://research.com/u/liang-wang-1,Liang Wang
+655a29af82c9bb068bfab14b,https://research.com/u/mary-jean-harrold,Mary Jean Harrold
+655a29af82c9bb068bfab14d,https://research.com/u/daniel-p-w-ellis,Daniel P. W. Ellis
+655a29af82c9bb068bfab14f,https://research.com/u/gonzalo-navarro-1,gonzalo navarro
+655a29af82c9bb068bfab151,https://research.com/u/maarten-de-rijke,Maarten de Rijke
+655a29af82c9bb068bfab153,https://research.com/u/lyle-ungar,Lyle H. Ungar
+655a29af82c9bb068bfab155,https://research.com/u/wiro-niessen,Wiro J. Niessen
+655a29af82c9bb068bfab157,https://research.com/u/abigail-sellen,Abigail Sellen
+655a29af82c9bb068bfab159,https://research.com/u/albert-cohen,Albert Cohen
+655a29af82c9bb068bfab15b,https://research.com/u/yang-xiao,Yang Xiao
+655a29af82c9bb068bfab15d,https://research.com/u/ping-wang,Ping Wang
+655a29b5e534476b1de02876,https://research.com/u/sherali-zeadally,Sherali Zeadally
+655a29b5e534476b1de02878,https://research.com/u/bernard-chazelle,Bernard Chazelle
+655a29b5e534476b1de0287a,https://research.com/u/mahmut-kandemir,Mahmut Kandemir
+655a29b5e534476b1de0287c,https://research.com/u/jessica-hodgins,Jessica K. Hodgins
+655a29b5e534476b1de0287e,https://research.com/u/lei-zhang,Lei Zhang
+655a29b5e534476b1de02880,https://research.com/u/roberta-l-klatzky,Roberta L. Klatzky
+655a29b5e534476b1de02882,https://research.com/u/jimeng-sun,Jimeng Sun
+655a29b5e534476b1de02884,https://research.com/u/joachim-m-buhmann,Joachim M. Buhmann
+655a29b5e534476b1de02886,https://research.com/u/craig-a-knoblock,Craig A. Knoblock
+655a29b5e534476b1de02888,https://research.com/u/kian-lee-tan,Kian-Lee Tan
+655a29b5e534476b1de0288a,https://research.com/u/baruch-awerbuch,Baruch Awerbuch
+655a29b5e534476b1de0288c,https://research.com/u/andrew-barto,Andrew G. Barto
+655a29b5e534476b1de0288e,https://research.com/u/kyunghyun-cho,Kyunghyun Cho
+655a29b5e534476b1de02890,https://research.com/u/ron-weiss,Ron Weiss
+655a29b5e534476b1de02892,https://research.com/u/cynthia-dwork,Cynthia Dwork
+655a29b5e534476b1de02894,https://research.com/u/marc-levoy,Marc Levoy
+655a29b5e534476b1de02896,https://research.com/u/neil-j-a-sloane,Neil J. A. Sloane
+655a29b5e534476b1de02898,https://research.com/u/david-dill,David L. Dill
+655a29b5e534476b1de0289a,https://research.com/u/shafi-goldwasser,Shafi Goldwasser
+655a29b5e534476b1de0289c,https://research.com/u/ronald-fagin,Ronald Fagin
+655a29b5e534476b1de0289e,https://research.com/u/nitin-vaidya,Nitin H. Vaidya
+655a29b5e534476b1de028a0,https://research.com/u/diego-calvanese,Diego Calvanese
+655a29b5e534476b1de028a2,https://research.com/u/ron-kimmel,Ron Kimmel
+655a29b5e534476b1de028a4,https://research.com/u/holger-hoos,Holger H. Hoos
+655a29b5e534476b1de028a6,https://research.com/u/thomas-lengauer,Thomas Lengauer
+655a29b5e534476b1de028a8,https://research.com/u/norman-p-jouppi,Norman P. Jouppi
+655a29b5e534476b1de028aa,https://research.com/u/raouf-boutaba,Raouf Boutaba
+655a29b5e534476b1de028ac,https://research.com/u/jingdong-wang,Jingdong Wang
+655a29b5e534476b1de028ae,https://research.com/u/joachim-weickert,Joachim Weickert
+655a29b5e534476b1de028b0,https://research.com/u/pankaj-k-agarwal,Pankaj K. Agarwal
+655a29b5e534476b1de028b2,https://research.com/u/alan-burns,Alan Burns
+655a29b5e534476b1de028b4,https://research.com/u/rada-mihalcea,Rada Mihalcea
+655a29b5e534476b1de028b6,https://research.com/u/claire-cardie,Claire Cardie
+655a29b5e534476b1de028b8,https://research.com/u/lydia-e-kavraki,Lydia E. Kavraki
+655a29b5e534476b1de028ba,https://research.com/u/stefan-decker,Stefan Decker
+655a29b5e534476b1de028bc,https://research.com/u/nick-feamster,Nick Feamster
+655a29b5e534476b1de028be,https://research.com/u/jodi-forlizzi,Jodi Forlizzi
+655a29b5e534476b1de028c0,https://research.com/u/chau-yuen,Chau Yuen
+655a29b5e534476b1de028c2,https://research.com/u/marcel-van-os,Marcel van Os
+655a29b5e534476b1de028c4,https://research.com/u/dieter-schmalstieg,Dieter Schmalstieg
+655a29b5e534476b1de028c6,https://research.com/u/henry-fuchs,Henry Fuchs
+655a29b5e534476b1de028c8,https://research.com/u/regina-barzilay,Regina Barzilay
+655a29b5e534476b1de028ca,https://research.com/u/louis-philippe-moren,Louis-Philippe Morency
+655a29b5e534476b1de028cc,https://research.com/u/teodor-gabriel-crainic,Teodor Gabriel Crainic
+655a29b5e534476b1de028ce,https://research.com/u/hui-xiong-1,Hui Xiong
+655a29b5e534476b1de028d0,"https://research.com/u/daqing-zhang,-ieee-f",Daqing Zhang
+655a29b5e534476b1de028d2,https://research.com/u/nei-kato,Nei Kato
+655a29b5e534476b1de028d4,https://research.com/u/gerhard-fischer,Gerhard Fischer
+655a29b5e534476b1de028d6,https://research.com/u/george-hripcsak,George Hripcsak
+655a29b5e534476b1de028d8,https://research.com/u/fabio-roli,Fabio Roli
+655a29b6e534476b1de028da,"https://research.com/u/william-hersh,-md,-f",William R. Hersh
+655a29b6e534476b1de028dc,https://research.com/u/mark-nixon,Mark S. Nixon
+655a29b6e534476b1de028de,https://research.com/u/willy-susilo,Willy Susilo
+655a29b6e534476b1de028e0,https://research.com/u/yang-xiang,Yang Xiang
+655a29b6e534476b1de028e2,https://research.com/u/stephen-brewster,Stephen Brewster
+655a29b6e534476b1de028e4,https://research.com/u/arumugam-nallanathan,Arumugam Nallanathan
+655a29b6e534476b1de028e6,https://research.com/u/steven-ch-hoi,Steven C. H. Hoi
+655a29b6e534476b1de028e8,https://research.com/u/kwan-liu-ma,Kwan-Liu Ma
+655a29b6e534476b1de028ea,https://research.com/u/huiling-chen,Huiling Chen
+655a29b6e534476b1de028ec,https://research.com/u/desney-tan,Desney S. Tan
+655a29b6e534476b1de028ee,https://research.com/u/steve-b-jiang,Steve B Jiang
+655a29b6e534476b1de028f0,https://research.com/u/eran-steinberg,Eran Steinberg
+655a29b6e534476b1de028f2,https://research.com/u/david-silver,David Silver
+655a29b6e534476b1de028f4,https://research.com/u/john-hopcroft,John E. Hopcroft
+655a29b6e534476b1de028f6,https://research.com/u/john-heidemann,John Heidemann
+655a29b6e534476b1de028f8,https://research.com/u/andrew-senior,Andrew W. Senior
+655a29b6e534476b1de028fa,https://research.com/u/luca-maria-gambardel,Luca Maria Gambardella
+655a29b6e534476b1de028fc,https://research.com/u/vahid-tarokh,Vahid Tarokh
+655a29b6e534476b1de028fe,https://research.com/u/david-harel,David Harel
+655a29b6e534476b1de02900,https://research.com/u/xiaofei-he,Xiaofei He
+655a29b6e534476b1de02902,https://research.com/u/xindong-wu,Xindong Wu
+655a29b6e534476b1de02904,https://research.com/u/michael-s-waterman,Michael S. Waterman
+655a29b6e534476b1de02906,https://research.com/u/ari-juels,Ari Juels
+655a29b6e534476b1de02908,https://research.com/u/josef-sivic,Josef Sivic
+655a29b6e534476b1de0290a,https://research.com/u/rahul-sukthankar,Rahul Sukthankar
+655a29b6e534476b1de0290c,https://research.com/u/stephanie-forrest,Stephanie Forrest
+655a29b6e534476b1de0290e,https://research.com/u/ching-y-suen,Ching Y. Suen
+655a29b6e534476b1de02910,https://research.com/u/francesco-bullo,Francesco Bullo
+655a29b6e534476b1de02912,https://research.com/u/deng-cai,Deng Cai
+655a29b6e534476b1de02914,https://research.com/u/richard-m-leahy,Richard M. Leahy
+655a29b6e534476b1de02916,https://research.com/u/filippo-menczer,Filippo Menczer
+655a29b6e534476b1de02918,https://research.com/u/henry-m-levy,Henry M. Levy
+655a29b6e534476b1de0291a,https://research.com/u/rachid-deriche,Rachid Deriche
+655a29b6e534476b1de0291c,https://research.com/u/geoffrey-fox,Geoffrey C. Fox
+655a29b6e534476b1de0291e,https://research.com/u/touradj-ebrahimi,Touradj Ebrahimi
+655a29b6e534476b1de02920,https://research.com/u/ronald-m-summers,Ronald M. Summers
+655a29b6e534476b1de02922,https://research.com/u/ivan-damgard-1,Ivan Damgård
+655a29b6e534476b1de02924,https://research.com/u/fredrik-gustafsson,Fredrik Gustafsson
+655a29b6e534476b1de02926,https://research.com/u/dharma-agrawal,Dharma P. Agrawal
+655a29b6e534476b1de02928,https://research.com/u/rachid-guerraoui,Rachid Guerraoui
+655a29b6e534476b1de0292a,https://research.com/u/christof-paar,Christof Paar
+655a29b6e534476b1de0292c,https://research.com/u/jeffrey-heer,Jeffrey Heer
+655a29b6e534476b1de0292e,https://research.com/u/ewa-deelman,Ewa Deelman
+655a29b6e534476b1de02930,https://research.com/u/geoffrey-m-voelker,Geoffrey M. Voelker
+655a29b6e534476b1de02932,https://research.com/u/gregg-rothermel,Gregg Rothermel
+655a29b6e534476b1de02934,https://research.com/u/hai-jin,Hai Jin
+655a29b6e534476b1de02936,https://research.com/u/haibin-ling,Haibin Ling
+655a29b6e534476b1de02938,https://research.com/u/marco-di-renzo,Marco Di Renzo
+655a29b6e534476b1de0293a,https://research.com/u/ruzena-bajcsy,Ruzena Bajcsy
+655a29b6e534476b1de0293c,https://research.com/u/albrecht-schmidt-1,Albrecht Schmidt
+655a29be86550a569e19bfea,https://research.com/u/wenwu-zhu,Wenwu Zhu
+655a29be86550a569e19bfec,https://research.com/u/john-stasko,John Stasko
+655a29be86550a569e19bfee,https://research.com/u/quisquater-jean-jacq,Jean-Jacques Quisquater
+655a29be86550a569e19bff0,https://research.com/u/ninghui-li,Ninghui Li
+655a29be86550a569e19bff2,https://research.com/u/jeffrey-s-vitter,Jeffrey Scott Vitter
+655a29be86550a569e19bff4,https://research.com/u/wolfgang-maass,Wolfgang Maass
+655a29be86550a569e19bff6,https://research.com/u/keith-ross,Keith W. Ross
+655a29be86550a569e19bff8,https://research.com/u/xinbo-gao,Xinbo Gao
+655a29be86550a569e19bffa,https://research.com/u/heng-tao-shen,Heng Tao Shen
+655a29be86550a569e19bffc,https://research.com/u/carl-gutwin,Carl Gutwin
+655a29be86550a569e19bffe,https://research.com/u/leif-kobbelt,Leif Kobbelt
+655a29be86550a569e19c000,https://research.com/u/nicholas-roy,Nicholas Roy
+655a29be86550a569e19c002,https://research.com/u/konstantinos-n-plata,Konstantinos N. Plataniotis
+655a29be86550a569e19c004,https://research.com/u/rajesh-k-gupta,Rajesh Gupta
+655a29be86550a569e19c006,https://research.com/u/martin-rinard,Martin Rinard
+655a29be86550a569e19c008,https://research.com/u/konrad-schindler,Konrad Schindler
+655a29be86550a569e19c00a,https://research.com/u/norman-badler,Norman I. Badler
+655a29be86550a569e19c00c,https://research.com/u/steve-benford,Steve Benford
+655a29be86550a569e19c00e,https://research.com/u/pradeep-k-khosla,Pradeep K. Khosla
+655a29be86550a569e19c010,https://research.com/u/giuseppe-de-giacomo,Giuseppe De Giacomo
+655a29be86550a569e19c012,https://research.com/u/liang-gao,Liang Gao
+655a29be86550a569e19c014,https://research.com/u/xian-sheng-hua,Xian-Sheng Hua
+655a29be86550a569e19c016,https://research.com/u/kwang-ting-cheng-1,Kwang-Ting Cheng
+655a29be86550a569e19c018,https://research.com/u/marijn-janssen,Marijn Janssen
+655a29be86550a569e19c01a,https://research.com/u/wojciech-matusik,Wojciech Matusik
+655a29be86550a569e19c01c,https://research.com/u/liang-lin,Liang Lin
+655a29be86550a569e19c01e,https://research.com/u/heang-ping-chan,Heang Ping Chan
+655a29be86550a569e19c020,https://research.com/u/zongben-xu,Zongben Xu
+655a29be86550a569e19c022,https://research.com/u/scott-mahlke-1,Scott Mahlke
+655a29be86550a569e19c024,https://research.com/u/xiaofeng-liao,Xiaofeng Liao
+655a29be86550a569e19c026,https://research.com/u/shahab-shamshirband,Shahab S. Band
+655a29be86550a569e19c028,https://research.com/u/dean-f-sittig,Dean F. Sittig
+655a29be86550a569e19c02a,https://research.com/u/scott-e-hudson,Scott E. Hudson
+655a29be86550a569e19c02c,https://research.com/u/yong-deng,Yong Deng
+655a29be86550a569e19c02e,https://research.com/u/oriol-vinyals,Oriol Vinyals
+655a29be86550a569e19c030,https://research.com/u/larry-peterson,Larry L. Peterson
+655a29be86550a569e19c032,https://research.com/u/steven-m-seitz,Steven M. Seitz
+655a29be86550a569e19c034,https://research.com/u/edward-h-shortliffe,Edward H. Shortliffe
+655a29be86550a569e19c036,https://research.com/u/arun-ross,Arun Ross
+655a29be86550a569e19c038,https://research.com/u/bin-yu,Bin Yu
+655a29be86550a569e19c03a,https://research.com/u/mohammed-j-zaki,Mohammed J. Zaki
+655a29be86550a569e19c03c,https://research.com/u/luca-cardelli,Luca Cardelli
+655a29be86550a569e19c03e,https://research.com/u/marco-conti-1,Marco Conti
+655a29be86550a569e19c040,https://research.com/u/paul-dourish,Paul Dourish
+655a29be86550a569e19c042,https://research.com/u/chris-taylor,Christopher J. Taylor
+655a29be86550a569e19c044,https://research.com/u/peng-ning,Peng Ning
+655a29be86550a569e19c046,https://research.com/u/david-salesin,David Salesin
+655a29be86550a569e19c048,https://research.com/u/bamshad-mobasher,Bamshad Mobasher
+655a29be86550a569e19c04a,https://research.com/u/ragunathan-rajkumar,Ragunathan Rajkumar
+655a29be86550a569e19c04c,https://research.com/u/dimitrios-gunopulos,Dimitrios Gunopulos
+655a29be86550a569e19c04e,https://research.com/u/chenyang-lu,Chenyang Lu
+655a29be86550a569e19c050,https://research.com/u/michael-ernst,Michael D. Ernst
+655a29be86550a569e19c052,https://research.com/u/nimrod-megiddo,Nimrod Megiddo
+655a29be86550a569e19c054,https://research.com/u/junwei-han,Junwei Han
+655a29be86550a569e19c056,https://research.com/u/andrea-montanari-1,Andrea Montanari
+655a29be86550a569e19c058,https://research.com/u/claudio-t-silva,Cláudio T. Silva
+655a29be86550a569e19c05a,"https://research.com/u/azzedine-boukerche,",Azzedine Boukerche
+655a29be86550a569e19c05c,https://research.com/u/thomas-eiter,Thomas Eiter
+655a29be86550a569e19c05e,https://research.com/u/cecilia-mascolo,Cecilia Mascolo
+655a29be86550a569e19c060,https://research.com/u/changshui-zhang,Changshui Zhang
+655a29be86550a569e19c062,https://research.com/u/justin-zobel,Justin Zobel
+655a29be86550a569e19c064,https://research.com/u/cyrus-shahabi,Cyrus Shahabi
+655a29be86550a569e19c066,https://research.com/u/carl-fredrik-westin,Carl-Fredrik Westin
+655a29be86550a569e19c068,https://research.com/u/joel-h-saltz,Joel H. Saltz
+655a29be86550a569e19c06a,https://research.com/u/anja-feldmann,Anja Feldmann
+655a29be86550a569e19c06c,https://research.com/u/maneesh-agrawala,Maneesh Agrawala
+655a29be86550a569e19c06e,https://research.com/u/humberto-bustince-1,Humberto Bustince
+655a29be86550a569e19c070,https://research.com/u/robert-h-deng,Robert H. Deng
+655a29be86550a569e19c072,https://research.com/u/stephen-lin,Stephen Lin
+655a29be86550a569e19c074,https://research.com/u/shi-jin-1,Shi Jin
+655a29be86550a569e19c076,https://research.com/u/marc-moonen,Marc Moonen
+655a29be86550a569e19c078,https://research.com/u/gerd-hirzinger,Gerd Hirzinger
+655a29be86550a569e19c07a,https://research.com/u/steven-drucker,Steven M. Drucker
+655a29be86550a569e19c07c,https://research.com/u/weihua-zhuang,Weihua Zhuang
+655a29be86550a569e19c07e,https://research.com/u/nadia-magnenat-thalm,Nadia Magnenat-Thalmann
+655a29be86550a569e19c080,https://research.com/u/yong-xu,Yong Xu
+655a29be86550a569e19c082,https://research.com/u/dimitri-kanevsky,Dimitri Kanevsky
+655a29be86550a569e19c084,https://research.com/u/xiaofeng-wang-1,Xiaofeng Wang
+655a29be86550a569e19c086,https://research.com/u/hamido-fujita,Hamido Fujita
+655a29be86550a569e19c088,https://research.com/u/tao-xie,Tao Xie
+655a29be86550a569e19c08a,https://research.com/u/paul-lapstun,Paul Lapstun
+655a29be86550a569e19c08c,https://research.com/u/rabindranath-dutta,Rabindranath Dutta
+655a29be86550a569e19c08e,https://research.com/u/rajiv-gupta,Rajiv Gupta
+655a29be86550a569e19c090,https://research.com/u/allen-newell,Allen Newell
+655a29be86550a569e19c092,https://research.com/u/richard-socher,Richard Socher
+655a29be86550a569e19c094,https://research.com/u/guang-bin-huang,Guang-Bin Huang
+655a29be86550a569e19c096,https://research.com/u/john-langford,John Langford
+655a29be86550a569e19c098,https://research.com/u/arnold-smeulders,Arnold W. M. Smeulders
+655a29be86550a569e19c09a,https://research.com/u/p-r-kumar,P. R. Kumar
+655a29be86550a569e19c09c,https://research.com/u/roy-want,Roy Want
+655a29be86550a569e19c09e,https://research.com/u/milan-sonka,Milan Sonka
+655a29be86550a569e19c0a0,https://research.com/u/pierre-vandergheynst,Pierre Vandergheynst
+655a29be86550a569e19c0a2,https://research.com/u/krzysztof-czarnecki,Krzysztof Czarnecki
+655a29be86550a569e19c0a4,https://research.com/u/salvatore-greco,Salvatore Greco
+655a29be86550a569e19c0a6,https://research.com/u/abbas-el-gamal-1,Abbas El Gamal
+655a29be86550a569e19c0a8,https://research.com/u/pierangela-samarati,Pierangela Samarati
+655a29be86550a569e19c0aa,https://research.com/u/fatih-porikli,Fatih Porikli
+655a29be86550a569e19c0ac,https://research.com/u/bhaskar-rao,Bhaskar D. Rao
+655a29be86550a569e19c0ae,https://research.com/u/allen-tannenbaum,Allen Tannenbaum
+655a29be86550a569e19c0b0,https://research.com/u/david-woods,David Woods
+655a29c59e6fec414f68a052,https://research.com/u/eric-w-t-ngai,Eric W.T. Ngai
+655a29c59e6fec414f68a054,https://research.com/u/mauricio-g-c-resende,Mauricio G. C. Resende
+655a29c59e6fec414f68a056,https://research.com/u/stefano-ceri,Stefano Ceri
+655a29c59e6fec414f68a058,https://research.com/u/frank-dellaert,Frank Dellaert
+655a29c59e6fec414f68a05a,https://research.com/u/swagatam-das,Swagatam Das
+655a29c59e6fec414f68a05c,https://research.com/u/michael-bronstein,Michael M. Bronstein
+655a29c59e6fec414f68a05e,https://research.com/u/michael-kearns,Michael Kearns
+655a29c59e6fec414f68a060,https://research.com/u/sarit-kraus,Sarit Kraus
+655a29c59e6fec414f68a062,https://research.com/u/sham-m-kakade,Sham M. Kakade
+655a29c59e6fec414f68a064,https://research.com/u/shutao-li,Shutao Li
+655a29c59e6fec414f68a066,https://research.com/u/david-kotz,David Kotz
+655a29c59e6fec414f68a068,https://research.com/u/ron-shamir,Ron Shamir
+655a29c59e6fec414f68a06a,https://research.com/u/mostafa-ammar,Mostafa H. Ammar
+655a29c59e6fec414f68a06c,https://research.com/u/danielle-s-mcnamara,Danielle S. McNamara
+655a29c59e6fec414f68a06e,https://research.com/u/francisco-chiclana,Francisco Chiclana
+655a29c59e6fec414f68a070,https://research.com/u/christopher-re,Christopher Ré
+655a29c59e6fec414f68a072,https://research.com/u/jian-bo-yang,Jian-Bo Yang
+655a29c59e6fec414f68a074,https://research.com/u/julia-hirschberg,Julia Hirschberg
+655a29c59e6fec414f68a076,https://research.com/u/alan-f-smeaton-mria,Alan F. Smeaton
+655a29c59e6fec414f68a078,https://research.com/u/tom-leighton,Frank Tom Leighton
+655a29c59e6fec414f68a07a,https://research.com/u/warren-b-powell,Warren B. Powell
+655a29c59e6fec414f68a07c,https://research.com/u/xiaodong-lin,Xiaodong Lin
+655a29c59e6fec414f68a07e,https://research.com/u/yale-patt,Yale N. Patt
+655a29c59e6fec414f68a080,https://research.com/u/joshua-c-denny,Joshua C. Denny
+655a29c59e6fec414f68a082,https://research.com/u/edward-k-y-jung,Edward K. Y. Jung
+655a29c59e6fec414f68a084,https://research.com/u/changsheng-xu,Changsheng Xu
+655a29c59e6fec414f68a086,https://research.com/u/eytan-modiano,Eytan Modiano
+655a29c59e6fec414f68a088,https://research.com/u/xiaokang-yang,Xiaokang Yang
+655a29c59e6fec414f68a08a,https://research.com/u/seong-whan-lee,Seong-Whan Lee
+655a29c59e6fec414f68a08c,https://research.com/u/subhash-suri,Subhash Suri
+655a29c59e6fec414f68a08e,https://research.com/u/david-c-yen,David C. Yen
+655a29c59e6fec414f68a090,https://research.com/u/hans-l-bodlaender,Hans L. Bodlaender
+655a29c59e6fec414f68a092,https://research.com/u/laurie-williams,Laurie Williams
+655a29c59e6fec414f68a094,https://research.com/u/amnon-shashua,Amnon Shashua
+655a29c59e6fec414f68a096,https://research.com/u/wolfgang-glanzel,Wolfgang Glänzel
+655a29c59e6fec414f68a098,https://research.com/u/lingyang-song,Lingyang Song
+655a29c59e6fec414f68a09a,https://research.com/u/shumin-zhai,Shumin Zhai
+655a29c59e6fec414f68a09c,https://research.com/u/p-sadayappan,P. Sadayappan
+655a29c59e6fec414f68a09e,https://research.com/u/majid-sarrafzadeh,Majid Sarrafzadeh
+655a29c59e6fec414f68a0a0,https://research.com/u/quan-ke-pan,Quan-Ke Pan
+655a29c59e6fec414f68a0a2,https://research.com/u/mandyam-v-srinivasan,Mandyam V. Srinivasan
+655a29c59e6fec414f68a0a4,https://research.com/u/zhigang-zeng,Zhigang Zeng
+655a29c59e6fec414f68a0a6,https://research.com/u/zhi-li-zhang,Zhi-Li Zhang
+655a29c59e6fec414f68a0a8,https://research.com/u/harish-garg,Harish Garg
+655a29c59e6fec414f68a0aa,https://research.com/u/francois-xavier-stan,François-Xavier Standaert
+655a29c59e6fec414f68a0ac,https://research.com/u/david-s-johnson-1,David S. Johnson
+655a29c59e6fec414f68a0ae,https://research.com/u/leon-bottou,Léon Bottou
+655a29c59e6fec414f68a0b0,https://research.com/u/stuart-russell-1,Stuart Russell
+655a29c59e6fec414f68a0b2,https://research.com/u/robert-m-haralick,Robert M. Haralick
+655a29c59e6fec414f68a0b4,https://research.com/u/deva-ramanan,Deva Ramanan
+655a29c59e6fec414f68a0b6,https://research.com/u/thomas-stutzle,Thomas Stützle
+655a29c59e6fec414f68a0b8,https://research.com/u/z-michalewicz,Zbigniew Michalewicz
+655a29c59e6fec414f68a0ba,https://research.com/u/tinne-tuytelaars,Tinne Tuytelaars
+655a29c59e6fec414f68a0bc,https://research.com/u/nitesh-v-chawla,Nitesh V. Chawla
+655a29c59e6fec414f68a0be,https://research.com/u/david-kriegman,David J. Kriegman
+655a29c59e6fec414f68a0c0,https://research.com/u/frans-kaashoek,M. Frans Kaashoek
+655a29c59e6fec414f68a0c2,https://research.com/u/daniel-huttenlocher,Daniel P. Huttenlocher
+655a29c59e6fec414f68a0c4,https://research.com/u/zhou-wang,Zhou Wang
+655a29c59e6fec414f68a0c6,https://research.com/u/wel-grimson,W.E.L. Grimson
+655a29c59e6fec414f68a0c8,https://research.com/u/kate-saenko,Kate Saenko
+655a29c59e6fec414f68a0ca,https://research.com/u/ht-kung,H. T. Kung
+655a29c59e6fec414f68a0cc,https://research.com/u/zhuowen-tu,Zhuowen Tu
+655a29c59e6fec414f68a0ce,https://research.com/u/ben-y-zhao,Ben Y. Zhao
+655a29c59e6fec414f68a0d0,https://research.com/u/jonathan-turner,Jonathan S. Turner
+655a29c59e6fec414f68a0d2,https://research.com/u/kurt-konolige,Kurt Konolige
+655a29c59e6fec414f68a0d4,https://research.com/u/bart-selman,Bart Selman
+655a29c59e6fec414f68a0d6,https://research.com/u/qingfu-zhang,Qingfu Zhang
+655a29c59e6fec414f68a0d8,https://research.com/u/guido-gerig,Guido Gerig
+655a29c59e6fec414f68a0da,https://research.com/u/kevin-skadron,Kevin Skadron
+655a29c59e6fec414f68a0dc,https://research.com/u/danny-dolev,Danny Dolev
+655a29c59e6fec414f68a0de,https://research.com/u/wei-yu,Wei Yu
+655a29c59e6fec414f68a0e0,https://research.com/u/bennis-mehdi,Mehdi Bennis
+655a29c59e6fec414f68a0e2,https://research.com/u/bastian-leibe,Bastian Leibe
+655a29c59e6fec414f68a0e4,https://research.com/u/alexander-tropsha,Alexander Tropsha
+655a29c59e6fec414f68a0e6,https://research.com/u/fei-yue-wang,Fei-Yue Wang
+655a29c59e6fec414f68a0e8,https://research.com/u/benjamin-blankertz,Benjamin Blankertz
+655a29c59e6fec414f68a0ea,https://research.com/u/nikos-paragios,Nikos Paragios
+655a29c59e6fec414f68a0ec,https://research.com/u/christopher-granger-,Christopher G. Atkeson
+655a29c59e6fec414f68a0ee,https://research.com/u/kathleen-mckeown,Kathleen R. McKeown
+655a29c59e6fec414f68a0f0,https://research.com/u/mary-beth-rosson,Mary Beth Rosson
+655a29c59e6fec414f68a0f2,https://research.com/u/toby-walsh,Toby Walsh
+655a29c59e6fec414f68a0f4,https://research.com/u/james-r-larus,James R. Larus
+655a29c59e6fec414f68a0f6,https://research.com/u/craig-boutilier,Craig Boutilier
+655a29c59e6fec414f68a0f8,https://research.com/u/anthony-stentz,Anthony Stentz
+655a29c59e6fec414f68a0fa,https://research.com/u/jan-bosch,Jan Bosch
+655a29c59e6fec414f68a0fc,https://research.com/u/david-eppstein,David Eppstein
+655a29c59e6fec414f68a0fe,https://research.com/u/holger-r-maier,Holger R. Maier
+655a29c59e6fec414f68a100,https://research.com/u/kunle-olukotun,Kunle Olukotun
+655a29c59e6fec414f68a102,https://research.com/u/reid-simmons,Reid Simmons
+655a29c59e6fec414f68a104,https://research.com/u/bo-li-1,Bo Li
+655a29c59e6fec414f68a106,https://research.com/u/qiang-ji,Qiang Ji
+655a29c59e6fec414f68a108,https://research.com/u/eitan-altman,Eitan Altman
+655a29c59e6fec414f68a10a,https://research.com/u/benjamin-friedlander,Benjamin Friedlander
+655a29c59e6fec414f68a10c,https://research.com/u/samee-u-khan,Samee U. Khan
+655a29c59e6fec414f68a10e,https://research.com/u/nikil-dutt,Nikil Dutt
+655a29c59e6fec414f68a110,https://research.com/u/yevgeniy-dodis,Yevgeniy Dodis
+655a29c59e6fec414f68a112,https://research.com/u/karl-aberer,Karl Aberer
+655a29c59e6fec414f68a114,https://research.com/u/aboul-ella-hassanien,Aboul Ella Hassanien
+655a29c59e6fec414f68a116,https://research.com/u/tsuhan-chen,Tsuhan Chen
+655a29c59e6fec414f68a118,https://research.com/u/le-song,Le Song
+655a29ca942a0297eef46f71,https://research.com/u/yehuda-lindell,Yehuda Lindell
+655a29ca942a0297eef46f73,https://research.com/u/haixun-wang,Haixun Wang
+655a29ca942a0297eef46f75,https://research.com/u/wei-chen-2,Wei Chen
+655a29ca942a0297eef46f77,https://research.com/u/xiaoming-liu,Xiaoming Liu
+655a29ca942a0297eef46f79,https://research.com/u/jiannong-cao,Jiannong Cao
+655a29ca942a0297eef46f7b,https://research.com/u/ravi-ramamoorthi,Ravi Ramamoorthi
+655a29ca942a0297eef46f7d,https://research.com/u/catherine-plaisant,Catherine Plaisant
+655a29ca942a0297eef46f7f,https://research.com/u/tom-rodden,Tom Rodden
+655a29ca942a0297eef46f81,https://research.com/u/jasjit-s-suri,Jasjit S. Suri
+655a29ca942a0297eef46f83,https://research.com/u/laks-vs-lakshmanan,Laks V. S. Lakshmanan
+655a29ca942a0297eef46f85,https://research.com/u/manoj-kumar-tiwari,Manoj Kumar Tiwari
+655a29ca942a0297eef46f87,https://research.com/u/jiwen-lu,Jiwen Lu
+655a29ca942a0297eef46f89,https://research.com/u/andrew-y-c-nee,Andrew Y. C. Nee
+655a29ca942a0297eef46f8b,https://research.com/u/sandeep-k-s-gupta,Sandeep K. S. Gupta
+655a29ca942a0297eef46f8d,https://research.com/u/wang-chien-lee,Wang-Chien Lee
+655a29ca942a0297eef46f8f,https://research.com/u/yuan-yuan,Yuan Yuan
+655a29ca942a0297eef46f91,https://research.com/u/alex-acero,Alejandro Acero
+655a29ca942a0297eef46f93,https://research.com/u/dipti-srinivasan,Dipti Srinivasan
+655a29ca942a0297eef46f95,https://research.com/u/royce-a-levien,Royce A. Levien
+655a29ca942a0297eef46f97,https://research.com/u/xiaodong-zhang,Xiaodong Zhang
+655a29ca942a0297eef46f99,https://research.com/u/baining-guo,Baining Guo
+655a29ca942a0297eef46f9b,https://research.com/u/srinivas-gutta,Srinivas Gutta
+655a29ca942a0297eef46f9d,https://research.com/u/paul-reuben-day,Paul Reuben Day
+655a29ca942a0297eef46f9f,https://research.com/u/richard-s-sutton-1,Richard S. Sutton
+655a29ca942a0297eef46fa1,https://research.com/u/ingrid-daubechies,Ingrid Daubechies
+655a29ca942a0297eef46fa3,https://research.com/u/terry-winograd,Terry Winograd
+655a29ca942a0297eef46fa5,https://research.com/u/peter-w-shor,Peter W. Shor
+655a29ca942a0297eef46fa7,https://research.com/u/peter-druschel,Peter Druschel
+655a29ca942a0297eef46fa9,https://research.com/u/philipp-koehn,Philipp Koehn
+655a29ca942a0297eef46fab,https://research.com/u/robert-pw-duin,Robert P. W. Duin
+655a29ca942a0297eef46fad,https://research.com/u/chris-dyer,Chris Dyer
+655a29ca942a0297eef46faf,https://research.com/u/yu-chee-tseng,Yu-Chee Tseng
+655a29ca942a0297eef46fb1,https://research.com/u/andrew-tanenbaum,Andrew S. Tanenbaum
+655a29ca942a0297eef46fb3,https://research.com/u/hugo-krawczyk-1,Hugo Krawczyk
+655a29cb942a0297eef46fb5,https://research.com/u/maurice-herlihy,Maurice Herlihy
+655a29cb942a0297eef46fb7,https://research.com/u/rudi-studer,Rudi Studer
+655a29cb942a0297eef46fb9,https://research.com/u/gabor-t-herman,Gabor T. Herman
+655a29cb942a0297eef46fbb,https://research.com/u/ahmed-elmagarmid,Ahmed K. Elmagarmid
+655a29cb942a0297eef46fbd,https://research.com/u/jong-shi-pang,Jong-Shi Pang
+655a29cb942a0297eef46fbf,https://research.com/u/yishay-mansour,Yishay Mansour
+655a29cb942a0297eef46fc1,https://research.com/u/srdjan-capkun,Srdjan Capkun
+655a29cb942a0297eef46fc3,https://research.com/u/wanli-ouyang,Wanli Ouyang
+655a29cb942a0297eef46fc5,https://research.com/u/willy-zwaenepoel,Willy Zwaenepoel
+655a29cb942a0297eef46fc7,https://research.com/u/saman-amarasinghe,Saman Amarasinghe
+655a29cb942a0297eef46fc9,"https://research.com/u/dong-xu,-ieee-fellow",Dong Xu
+655a29cb942a0297eef46fcb,https://research.com/u/feng-zhao,Feng Zhao
+655a29cb942a0297eef46fcd,https://research.com/u/dragomir-radev,Dragomir R. Radev
+655a29cb942a0297eef46fcf,https://research.com/u/john-krumm,John Krumm
+655a29cb942a0297eef46fd1,https://research.com/u/xuedong-huang,Xuedong Huang
+655a29cb942a0297eef46fd3,https://research.com/u/lise-getoor,Lise Getoor
+655a29cb942a0297eef46fd5,https://research.com/u/irwin-king,Irwin King
+655a29cb942a0297eef46fd7,https://research.com/u/peyman-milanfar,Peyman Milanfar
+655a29cb942a0297eef46fd9,https://research.com/u/tulay-adali,Tulay Adali
+655a29cb942a0297eef46fdb,https://research.com/u/anant-madabhushi,Anant Madabhushi
+655a29cb942a0297eef46fdd,https://research.com/u/anant-agarwal,Anant Agarwal
+655a29cb942a0297eef46fdf,https://research.com/u/thomas-zimmermann,Thomas Zimmermann
+655a29cb942a0297eef46fe1,https://research.com/u/ming-syan-chen,Ming-Syan Chen
+655a29cb942a0297eef46fe3,https://research.com/u/carlo-ratti,Carlo Ratti
+655a29cb942a0297eef46fe5,https://research.com/u/blake-hannaford,Blake Hannaford
+655a29cb942a0297eef46fe7,https://research.com/u/herve-delingette,Hervé Delingette
+655a29cb942a0297eef46fe9,https://research.com/u/branka-vucetic,Branka Vucetic
+655a29cb942a0297eef46feb,https://research.com/u/james-allan-1,James Allan
+655a29cb942a0297eef46fed,https://research.com/u/vs-subrahmanian,V. S. Subrahmanian
+655a29cb942a0297eef46fef,https://research.com/u/lei-zhen,Zhen Lei
+655a29cb942a0297eef46ff1,https://research.com/u/philip-a-chou,Philip A. Chou
+655a29cb942a0297eef46ff3,https://research.com/u/yufei-tao,Yufei Tao
+655a29cb942a0297eef46ff5,https://research.com/u/ying-wu,Ying Wu
+655a29cb942a0297eef46ff7,https://research.com/u/parthasarathy-rangan,Parthasarathy Ranganathan
+655a29cb942a0297eef46ff9,https://research.com/u/dimitris-papadias,Dimitris Papadias
+655a29cb942a0297eef46ffb,https://research.com/u/calton-pu,Calton Pu
+655a29cb942a0297eef46ffd,https://research.com/u/viktor-k-prasanna,Viktor K. Prasanna
+655a29cb942a0297eef46fff,https://research.com/u/ke-wang,Ke Wang
+655a29cb942a0297eef47001,https://research.com/u/amanda-spink,Amanda Spink
+655a29cb942a0297eef47003,https://research.com/u/john-reif,John H. Reif
+655a29cb942a0297eef47005,https://research.com/u/jehoshua-bruck,Jehoshua Bruck
+655a29cb942a0297eef47007,https://research.com/u/peter-sanders,Peter Sanders
+655a29cb942a0297eef47009,https://research.com/u/xuemin-lin,Xuemin Lin
+655a29cb942a0297eef4700b,https://research.com/u/edward-w-knightly,Edward W. Knightly
+655a29cb942a0297eef4700d,https://research.com/u/preben-mogensen,Preben Mogensen
+655a29cb942a0297eef4700f,https://research.com/u/insup-lee,Insup Lee
+655a29cb942a0297eef47011,https://research.com/u/igor-l-markov,Igor L. Markov
+655a29cb942a0297eef47013,https://research.com/u/sanjoy-baruah,Sanjoy Baruah
+655a29cb942a0297eef47015,https://research.com/u/enrico-motta,Enrico Motta
+655a29cb942a0297eef47017,https://research.com/u/franco-zambonelli,Franco Zambonelli
+655a29cb942a0297eef47019,https://research.com/u/minos-garofalakis,Minos Garofalakis
+655a29cb942a0297eef4701b,https://research.com/u/jie-lu,Jie Lu
+655a29cb942a0297eef4701d,https://research.com/u/xiaojiang-du,Xiaojiang Du
+655a29cb942a0297eef4701f,https://research.com/u/mikhail-atallah,Mikhail J. Atallah
+655a29cb942a0297eef47021,https://research.com/u/ryen-w-white,Ryen W. White
+655a29cb942a0297eef47023,https://research.com/u/takeo-igarashi,Takeo Igarashi
+655a29cb942a0297eef47025,https://research.com/u/yun-qing-shi,Yun Q. Shi
+655a29cb942a0297eef47027,https://research.com/u/albert-rizzo,Albert Rizzo
+655a29cb942a0297eef47029,https://research.com/u/stergios-i-roumeliot,Stergios I. Roumeliotis
+655a29cb942a0297eef4702b,https://research.com/u/avideh-zakhor,Avideh Zakhor
+655a29cb942a0297eef4702d,https://research.com/u/miska-hannuksela,Miska Hannuksela
+655a29cb942a0297eef4702f,https://research.com/u/carol-friedman,Carol Friedman
+655a29cb942a0297eef47031,https://research.com/u/fabio-babiloni,Fabio Babiloni
+655a29cb942a0297eef47033,https://research.com/u/george-fitzmaurice,George Fitzmaurice
+655a29cb942a0297eef47035,https://research.com/u/isabelle-guyon,Isabelle Guyon
+655a29cb942a0297eef47037,https://research.com/u/yoram-singer,Yoram Singer
+655a29d0504b7d1b16b59d1b,https://research.com/u/kilian-weinberger,Kilian Q. Weinberger
+655a29d0504b7d1b16b59d1d,https://research.com/u/gregory-wornell,Gregory W. Wornell
+655a29d0504b7d1b16b59d1f,https://research.com/u/venkata-n-padmanabha,Venkata N. Padmanabhan
+655a29d0504b7d1b16b59d21,https://research.com/u/richard-zemel,Richard S. Zemel
+655a29d0504b7d1b16b59d23,https://research.com/u/mitsuo-gen,Mitsuo Gen
+655a29d0504b7d1b16b59d25,https://research.com/u/songwu-lu,Songwu Lu
+655a29d0504b7d1b16b59d27,https://research.com/u/vincent-lepetit,Vincent Lepetit
+655a29d0504b7d1b16b59d29,https://research.com/u/madhu-sudan,Madhu Sudan
+655a29d0504b7d1b16b59d2b,https://research.com/u/david-maier,David Maier
+655a29d0504b7d1b16b59d2d,https://research.com/u/dit-yan-yeung,Dit-Yan Yeung
+655a29d0504b7d1b16b59d2f,https://research.com/u/nanning-zheng,Nanning Zheng
+655a29d0504b7d1b16b59d31,https://research.com/u/minh-n-do,Minh N. Do
+655a29d0504b7d1b16b59d33,https://research.com/u/joseph-s-valacich,Joseph S. Valacich
+655a29d0504b7d1b16b59d35,https://research.com/u/sartaj-sahni,Sartaj Sahni
+655a29d0504b7d1b16b59d37,https://research.com/u/massimiliano-pontil,Massimiliano Pontil
+655a29d0504b7d1b16b59d39,https://research.com/u/john-hughes,John Hughes
+655a29d0504b7d1b16b59d3b,https://research.com/u/anastasios-n-venetsanopoulos,Anastasios N. Venetsanopoulos
+655a29d0504b7d1b16b59d3d,https://research.com/u/jeffrey-a-bilmes,Jeff A. Bilmes
+655a29d0504b7d1b16b59d3f,https://research.com/u/nigel-smart,Nigel P. Smart
+655a29d0504b7d1b16b59d41,https://research.com/u/jacob-benesty,Jacob Benesty
+655a29d0504b7d1b16b59d43,https://research.com/u/max-j-egenhofer,Max J. Egenhofer
+655a29d0504b7d1b16b59d45,https://research.com/u/qian-du,Qian Du
+655a29d0504b7d1b16b59d47,https://research.com/u/sam-kwong,Sam Kwong
+655a29d0504b7d1b16b59d49,https://research.com/u/piet-demeester,Piet Demeester
+655a29d0504b7d1b16b59d4b,https://research.com/u/danilo-mandic,Danilo P. Mandic
+655a29d0504b7d1b16b59d4d,https://research.com/u/graham-cormode,Graham Cormode
+655a29d0504b7d1b16b59d4f,https://research.com/u/yao-wang,Yao Wang
+655a29d0504b7d1b16b59d51,https://research.com/u/luc-de-raedt,Luc De Raedt
+655a29d0504b7d1b16b59d53,https://research.com/u/christopher-g-chute,Christopher G. Chute
+655a29d0504b7d1b16b59d55,https://research.com/u/anton-van-den-hengel,Anton van den Hengel
+655a29d0504b7d1b16b59d57,https://research.com/u/jayaram-k-udupa,Jayaram K. Udupa
+655a29d0504b7d1b16b59d59,https://research.com/u/wolfgang-heidrich,Wolfgang Heidrich
+655a29d0504b7d1b16b59d5b,https://research.com/u/markus-jakobsson,Markus Jakobsson
+655a29d0504b7d1b16b59d5d,https://research.com/u/steve-whittaker,Steve Whittaker
+655a29d0504b7d1b16b59d5f,https://research.com/u/lutz-bornmann,Lutz Bornmann
+655a29d0504b7d1b16b59d61,https://research.com/u/bart-baesens,Bart Baesens
+655a29d0504b7d1b16b59d63,https://research.com/u/ugo-montanari,Ugo Montanari
+655a29d0504b7d1b16b59d65,https://research.com/u/anoop-gupta,Anoop Gupta
+655a29d0504b7d1b16b59d67,https://research.com/u/thomas-ertl,Thomas Ertl
+655a29d0504b7d1b16b59d69,https://research.com/u/lei-shu,Lei Shu
+655a29d0504b7d1b16b59d6b,https://research.com/u/jie-zhou,Jie Zhou
+655a29d0504b7d1b16b59d6d,https://research.com/u/yi-pan-1,Yi Pan
+655a29d0504b7d1b16b59d6f,https://research.com/u/kathryn-s-mckinley,Kathryn S. McKinley
+655a29d0504b7d1b16b59d71,https://research.com/u/vimla-l-patel,Vimla L. Patel
+655a29d0504b7d1b16b59d73,https://research.com/u/mario-piattini,Mario Piattini
+655a29d0504b7d1b16b59d75,https://research.com/u/cedric-fournet,Cédric Fournet
+655a29d0504b7d1b16b59d77,https://research.com/u/jean-philippe-vasseur,Jean-Philippe Vasseur
+655a29d0504b7d1b16b59d79,https://research.com/u/mary-jane-irwin,Mary Jane Irwin
+655a29d0504b7d1b16b59d7b,https://research.com/u/xingyuan-wang,Xingyuan Wang
+655a29d0504b7d1b16b59d7d,https://research.com/u/aaron-fenster,Aaron Fenster
+655a29d0504b7d1b16b59d7f,https://research.com/u/rabab-ward,Rabab K. Ward
+655a29d0504b7d1b16b59d81,https://research.com/u/larry-matthies,Larry Matthies
+655a29d0504b7d1b16b59d83,https://research.com/u/harpreet-s-sawhney,Harpreet Sawhney
+655a29d0504b7d1b16b59d85,https://research.com/u/sanjeev-khanna,Sanjeev Khanna
+655a29d0504b7d1b16b59d87,https://research.com/u/margo-seltzer,Margo Seltzer
+655a29d0504b7d1b16b59d89,https://research.com/u/dhabaleswar-k-panda,Dhabaleswar K. Panda
+655a29d0504b7d1b16b59d8b,https://research.com/u/michael-t-goodrich,Michael T. Goodrich
+655a29d0504b7d1b16b59d8d,https://research.com/u/shuihua-wang,Shuihua Wang
+655a29d0504b7d1b16b59d8f,https://research.com/u/rocco-oliveto,Rocco Oliveto
+655a29d0504b7d1b16b59d91,https://research.com/u/ilya-sutskever,Ilya Sutskever
+655a29d0504b7d1b16b59d93,https://research.com/u/ross-girshick,Ross Girshick
+655a29d0504b7d1b16b59d95,https://research.com/u/laurent-itti,Laurent Itti
+655a29d0504b7d1b16b59d97,https://research.com/u/john-hennessy,John L. Hennessy
+655a29d0504b7d1b16b59d99,https://research.com/u/armando-fox,Armando Fox
+655a29d0504b7d1b16b59d9b,https://research.com/u/marvin-k-simon,Marvin K. Simon
+655a29d0504b7d1b16b59d9d,https://research.com/u/craig-gentry,Craig Gentry
+655a29d0504b7d1b16b59d9f,https://research.com/u/andrei-broder,Andrei Z. Broder
+655a29d0504b7d1b16b59da1,https://research.com/u/marti-a-hearst,Marti A. Hearst
+655a29d0504b7d1b16b59da3,https://research.com/u/sylvia-ratnasamy,Sylvia Ratnasamy
+655a29d0504b7d1b16b59da5,https://research.com/u/andrew-moore,Andrew W. Moore
+655a29d0504b7d1b16b59da7,https://research.com/u/thomas-p-moran,Thomas P. Moran
+655a29d0504b7d1b16b59da9,https://research.com/u/william-m-wells-iii,William M. Wells
+655a29d0504b7d1b16b59dab,https://research.com/u/weiming-hu,Weiming Hu
+655a29d0504b7d1b16b59dad,https://research.com/u/paul-suetens,Paul Suetens
+655a29d0504b7d1b16b59daf,https://research.com/u/stephen-robertson,Stephen Robertson
+655a29d0504b7d1b16b59db1,https://research.com/u/jose-m-bioucas-dias,Jose M. Bioucas-Dias
+655a29d0504b7d1b16b59db3,https://research.com/u/tie-yan-liu,Tie-Yan Liu
+655a29d0504b7d1b16b59db5,https://research.com/u/umeshwar-dayal,Umeshwar Dayal
+655a29d0504b7d1b16b59db7,https://research.com/u/elaine-shi,Elaine Shi
+655a29d0504b7d1b16b59db9,https://research.com/u/jeff-kramer,Jeff Kramer
+655a29d0504b7d1b16b59dbb,https://research.com/u/uriel-feige,Uriel Feige
+655a29d0504b7d1b16b59dbd,https://research.com/u/boualem-benatallah,Boualem Benatallah
+655a29d0504b7d1b16b59dbf,https://research.com/u/xifeng-yan,Xifeng Yan
+655a29d0504b7d1b16b59dc1,https://research.com/u/milica-stojanovic,Milica Stojanovic
+655a29d0504b7d1b16b59dc3,https://research.com/u/ed-h-chi,Ed H. Chi
+655a29d0504b7d1b16b59dc5,https://research.com/u/roberto-tamassia,Roberto Tamassia
+655a29d0504b7d1b16b59dc7,https://research.com/u/munindar-p-singh,Munindar P. Singh
+655a29d0504b7d1b16b59dc9,https://research.com/u/joakim-nivre,Joakim Nivre
+655a29d0504b7d1b16b59dcb,https://research.com/u/marta-kwiatkowska,Marta Kwiatkowska
+655a29d0504b7d1b16b59dcd,https://research.com/u/engin-kirda,Engin Kirda
+655a29d0504b7d1b16b59dcf,https://research.com/u/saharon-shelah,Saharon Shelah
+655a29d0504b7d1b16b59dd1,https://research.com/u/jean-walrand,Jean Walrand
+655a29d0504b7d1b16b59dd3,https://research.com/u/carlos-castillo,Carlos Castillo
+655a29d0504b7d1b16b59dd5,https://research.com/u/antonio-ortega,Antonio Ortega
+655a29d0504b7d1b16b59dd7,https://research.com/u/zhouchen-lin,Zhouchen Lin
+655a29d0504b7d1b16b59dd9,https://research.com/u/vitaly-shmatikov,Vitaly Shmatikov
+655a29d0504b7d1b16b59ddb,https://research.com/u/qingming-huang,Qingming Huang
+655a29d0504b7d1b16b59ddd,https://research.com/u/in-so-kweon,In So Kweon
+655a29d0504b7d1b16b59ddf,https://research.com/u/roy-yates,Roy D. Yates
+655a29d0504b7d1b16b59de1,https://research.com/u/xavier-pennec,Xavier Pennec
+655a29d7cf2e397f518412fd,https://research.com/u/michael-rosemann,Michael Rosemann
+655a29d7cf2e397f518412ff,https://research.com/u/fabio-casati,Fabio Casati
+655a29d7cf2e397f51841301,https://research.com/u/mark-johnson,Mark Johnson
+655a29d7cf2e397f51841303,https://research.com/u/cheng-lin-liu,Cheng-Lin Liu
+655a29d7cf2e397f51841305,https://research.com/u/mark-girolami,Mark Girolami
+655a29d7cf2e397f51841307,https://research.com/u/michael-fellows,Michael R. Fellows
+655a29d7cf2e397f51841309,https://research.com/u/michael-wellman,Michael P. Wellman
+655a29d7cf2e397f5184130b,https://research.com/u/c-c-jay-kuo,C.-C. Jay Kuo
+655a29d7cf2e397f5184130d,https://research.com/u/tarik-taleb,Tarik Taleb
+655a29d7cf2e397f5184130f,https://research.com/u/brad-calder,Brad Calder
+655a29d7cf2e397f51841311,https://research.com/u/henning-muller,Henning Müller
+655a29d7cf2e397f51841313,https://research.com/u/jacob-o-wobbrock,Jacob O. Wobbrock
+655a29d7cf2e397f51841315,https://research.com/u/hua-wang-1,Hua Wang
+655a29d7cf2e397f51841317,https://research.com/u/enrique-alba,Enrique Alba
+655a29d7cf2e397f51841319,https://research.com/u/marc-snir,Marc Snir
+655a29d7cf2e397f5184131b,https://research.com/u/gerhard-troster,Gerhard Tröster
+655a29d7cf2e397f5184131d,https://research.com/u/svetha-venkatesh,Svetha Venkatesh
+655a29d7cf2e397f5184131f,https://research.com/u/yew-soon-ong,Yew-Soon Ong
+655a29d7cf2e397f51841321,https://research.com/u/kin-k-leung,Kin K. Leung
+655a29d7cf2e397f51841323,https://research.com/u/chris-r-johnson,Chris R. Johnson
+655a29d7cf2e397f51841325,https://research.com/u/francky-catthoor,Francky Catthoor
+655a29d7cf2e397f51841327,https://research.com/u/james-j-cimino,James J. Cimino
+655a29d7cf2e397f51841329,https://research.com/u/dragan-gasevic,Dragan Gasevic
+655a29d7cf2e397f5184132b,https://research.com/u/joseph-mitchell,Joseph S. B. Mitchell
+655a29d7cf2e397f5184132d,https://research.com/u/aude-billard,Aude Billard
+655a29d7cf2e397f5184132f,https://research.com/u/kostas-daniilidis,Kostas Daniilidis
+655a29d7cf2e397f51841331,https://research.com/u/stephen-roberts,Stephen J. Roberts
+655a29d7cf2e397f51841333,https://research.com/u/allison-okamura,Allison M. Okamura
+655a29d7cf2e397f51841335,https://research.com/u/john-d-rinaldo,John D. Rinaldo
+655a29d7cf2e397f51841337,https://research.com/u/john-matthew-santosuosso,John Matthew Santosuosso
+655a29d7cf2e397f51841339,https://research.com/u/yuval-ishai,Yuval Ishai
+655a29d7cf2e397f5184133b,https://research.com/u/yuan-yan-tang,Yuan Yan Tang
+655a29d7cf2e397f5184133d,https://research.com/u/nadeem-javaid,Nadeem Javaid
+655a29d7cf2e397f5184133f,https://research.com/u/josep-torrellas,Josep Torrellas
+655a29d7cf2e397f51841341,https://research.com/u/mateo-valero,Mateo Valero
+655a29d7cf2e397f51841343,https://research.com/u/massimiliano-di-penta,Massimiliano Di Penta
+655a29d7cf2e397f51841345,https://research.com/u/quan-zou,Quan Zou
+655a29d7cf2e397f51841347,https://research.com/u/john-riedl,John Riedl
+655a29d7cf2e397f51841349,https://research.com/u/aude-oliva,Aude Oliva
+655a29d7cf2e397f5184134b,https://research.com/u/stephen-wright,Stephen J. Wright
+655a29d7cf2e397f5184134d,https://research.com/u/jamie-shotton,Jamie Shotton
+655a29d7cf2e397f5184134f,https://research.com/u/patrick-j-flynn,Patrick J. Flynn
+655a29d7cf2e397f51841351,https://research.com/u/walter-willinger,Walter Willinger
+655a29d7cf2e397f51841353,https://research.com/u/thomas-hofmann,Thomas Hofmann
+655a29d7cf2e397f51841355,https://research.com/u/brendan-j-frey,Brendan J. Frey
+655a29d7cf2e397f51841357,https://research.com/u/james-c-gee,James C. Gee
+655a29d7cf2e397f51841359,https://research.com/u/pat-langley,Pat Langley
+655a29d7cf2e397f5184135b,https://research.com/u/joydeep-ghosh,Joydeep Ghosh
+655a29d7cf2e397f5184135d,https://research.com/u/yu-qiao,Yu Qiao
+655a29d7cf2e397f5184135f,https://research.com/u/mark-crovella,Mark Crovella
+655a29d7cf2e397f51841361,https://research.com/u/yoav-shoham,Yoav Shoham
+655a29d7cf2e397f51841363,https://research.com/u/satinder-singh,Satinder Singh
+655a29d7cf2e397f51841365,https://research.com/u/derek-l-g-hill,Derek L. G. Hill
+655a29d7cf2e397f51841367,https://research.com/u/alfred-bruckstein,Alfred M. Bruckstein
+655a29d7cf2e397f51841369,https://research.com/u/lui-sha,Lui Sha
+655a29d7cf2e397f5184136b,https://research.com/u/joseph-a-goguen,Joseph A. Goguen
+655a29d7cf2e397f5184136d,https://research.com/u/doug-stinson,Douglas R. Stinson
+655a29d7cf2e397f5184136f,https://research.com/u/andrew-v-goldberg,Andrew V. Goldberg
+655a29d7cf2e397f51841371,https://research.com/u/gheorghe-paun,Gheorghe Paun
+655a29d7cf2e397f51841373,https://research.com/u/david-pointcheval,David Pointcheval
+655a29d7cf2e397f51841375,https://research.com/u/alan-w-black,Alan W. Black
+655a29d7cf2e397f51841377,https://research.com/u/bernard-j-jansen,Bernard J. Jansen
+655a29d7cf2e397f51841379,https://research.com/u/yan-chen,Yan Chen
+655a29d7cf2e397f5184137b,https://research.com/u/upamanyu-madhow,Upamanyu Madhow
+655a29d7cf2e397f5184137d,https://research.com/u/dov-gabbay,Dov M. Gabbay
+655a29d7cf2e397f5184137f,https://research.com/u/jun-wang-1,Jun Wang
+655a29d7cf2e397f51841381,https://research.com/u/haim-j-wolfson,Haim J. Wolfson
+655a29d7cf2e397f51841383,https://research.com/u/martin-haenggi,Martin Haenggi
+655a29d7cf2e397f51841385,https://research.com/u/jian-yang,Jingyu Yang
+655a29d7cf2e397f51841387,https://research.com/u/nuria-oliver,Nuria Oliver
+655a29d7cf2e397f51841389,https://research.com/u/ramakant-nevatia-1,Ramakant Nevatia
+655a29d7cf2e397f5184138b,https://research.com/u/hajo-a-reijers,Hajo A. Reijers
+655a29d7cf2e397f5184138d,https://research.com/u/vijay-bhargava,Vijay K. Bhargava
+655a29d7cf2e397f5184138f,https://research.com/u/hongsheng-li,Hongsheng Li
+655a29d7cf2e397f51841391,https://research.com/u/yunhong-wang,Yunhong Wang
+655a29d7cf2e397f51841393,https://research.com/u/ying-li-tian,Yingli Tian
+655a29d7cf2e397f51841395,https://research.com/u/nelson-morgan,Nelson Morgan
+655a29d7cf2e397f51841397,https://research.com/u/devavrat-shah,Devavrat Shah
+655a29d7cf2e397f51841399,https://research.com/u/michael-beetz,Michael Beetz
+655a29d7cf2e397f5184139b,https://research.com/u/xiaofang-zhou,Xiaofang Zhou
+655a29d7cf2e397f5184139d,https://research.com/u/gail-murphy,Gail C. Murphy
+655a29d7cf2e397f5184139f,https://research.com/u/jiliang-tang,Jiliang Tang
+655a29d7cf2e397f518413a1,https://research.com/u/zicheng-liu,Zicheng Liu
+655a29d7cf2e397f518413a3,https://research.com/u/shie-mannor,Shie Mannor
+655a29d7cf2e397f518413a5,https://research.com/u/jun-li,Jun Li
+655a29d7cf2e397f518413a7,"https://research.com/u/freitas,-alex-a",Alex A. Freitas
+655a29d7cf2e397f518413a9,https://research.com/u/sudhakar-reddy,Sudhakar M. Reddy
+655a29d7cf2e397f518413ab,https://research.com/u/yuanyuan-zhou,Yuanyuan Zhou
+655a29d7cf2e397f518413ad,https://research.com/u/feng-wu,Feng Wu
+655a29d7cf2e397f518413af,https://research.com/u/david-doermann,David Doermann
+655a29d7cf2e397f518413b1,https://research.com/u/kay-chen-tan,Kay Chen Tan
+655a29d7cf2e397f518413b3,https://research.com/u/jie-liu,Jie Liu
+655a29d7cf2e397f518413b5,https://research.com/u/chew-lim-tan,Chew Lim Tan
+655a29d7cf2e397f518413b7,https://research.com/u/siddhartha-srinivasa,Siddhartha S. Srinivasa
+655a29d7cf2e397f518413b9,https://research.com/u/bijaya-ketan-panigra,Bijaya Ketan Panigrahi
+655a29d7cf2e397f518413bb,https://research.com/u/takayuki-kanda,Takayuki Kanda
+655a29d7cf2e397f518413bd,https://research.com/u/daniel-gatica-perez,Daniel Gatica-Perez
+655a29d7cf2e397f518413bf,https://research.com/u/hong-yan,Hong Yan
+655a29d7cf2e397f518413c1,https://research.com/u/giancarlo-fortino,Giancarlo Fortino
+655a29d7cf2e397f518413c3,https://research.com/u/frank-pfenning,Frank Pfenning
+655a29dc812c326c4d8c3735,https://research.com/u/zhiwu-li,Zhiwu Li
+655a29dc812c326c4d8c3737,https://research.com/u/karsten-schwan,Karsten Schwan
+655a29dc812c326c4d8c3739,https://research.com/u/danica-kragic,Danica Kragic
+655a29dc812c326c4d8c373b,https://research.com/u/jiming-chen-1,Jiming Chen
+655a29dc812c326c4d8c373d,https://research.com/u/john-c-s-lui,John C. S. Lui
+655a29dc812c326c4d8c373f,https://research.com/u/ulrich-neumann,Ulrich Neumann
+655a29dc812c326c4d8c3741,https://research.com/u/gerhard-woeginger,Gerhard J. Woeginger
+655a29dc812c326c4d8c3743,https://research.com/u/arun-kumar-sangaiah,Arun Kumar Sangaiah
+655a29dc812c326c4d8c3745,https://research.com/u/henrik-iskov-christe,Henrik I. Christensen
+655a29dc812c326c4d8c3747,https://research.com/u/xiangyu-wang,Xiangyu Wang
+655a29dc812c326c4d8c3749,https://research.com/u/vincent-j-zimmer,Vincent J. Zimmer
+655a29dc812c326c4d8c374b,https://research.com/u/birgit-pfitzmann,Birgit Pfitzmann
+655a29dc812c326c4d8c374d,https://research.com/u/gerard-salton,Gerard Salton
+655a29dc812c326c4d8c374f,https://research.com/u/erkki-oja,Erkki Oja
+655a29dc812c326c4d8c3751,https://research.com/u/sally-floyd,Sally Floyd
+655a29dc812c326c4d8c3753,https://research.com/u/seyedali-mirjalili,Seyedali Mirjalili
+655a29dc812c326c4d8c3755,https://research.com/u/martin-ester,Martin Ester
+655a29dc812c326c4d8c3757,https://research.com/u/eva-tardos,Éva Tardos
+655a29dd812c326c4d8c3759,https://research.com/u/gunnar-ratsch,Gunnar Rätsch
+655a29dd812c326c4d8c375b,https://research.com/u/leslie-pack-kaelbling,Leslie Pack Kaelbling
+655a29dd812c326c4d8c375d,https://research.com/u/tara-n-sainath,Tara N. Sainath
+655a29dd812c326c4d8c375f,https://research.com/u/krishna-p-gummadi,Krishna P. Gummadi
+655a29dd812c326c4d8c3761,https://research.com/u/robert-w-brodersen,Robert W. Brodersen
+655a29dd812c326c4d8c3763,https://research.com/u/doug-burger,Doug Burger
+655a29dd812c326c4d8c3765,https://research.com/u/philip-wadler,Philip Wadler
+655a29dd812c326c4d8c3767,https://research.com/u/lior-wolf,Lior Wolf
+655a29dd812c326c4d8c3769,https://research.com/u/david-gesbert,David Gesbert
+655a29dd812c326c4d8c376b,https://research.com/u/frank-hutter,Frank Hutter
+655a29dd812c326c4d8c376d,https://research.com/u/ananthram-swami,Ananthram Swami
+655a29dd812c326c4d8c376f,https://research.com/u/daniel-robey,Daniel Robey
+655a29dd812c326c4d8c3771,https://research.com/u/gaetano-borriello,Gaetano Borriello
+655a29dd812c326c4d8c3773,https://research.com/u/alan-r-dennis,Alan R. Dennis
+655a29dd812c326c4d8c3775,https://research.com/u/kevin-crowston,Kevin Crowston
+655a29dd812c326c4d8c3777,https://research.com/u/percy-liang,Percy Liang
+655a29dd812c326c4d8c3779,https://research.com/u/tadayoshi-kohno,Tadayoshi Kohno
+655a29dd812c326c4d8c377b,https://research.com/u/richard-schwartz,Richard Schwartz
+655a29dd812c326c4d8c377d,https://research.com/u/joost-pieter-katoen,Joost-Pieter Katoen
+655a29dd812c326c4d8c377f,https://research.com/u/kenneth-p-birman,Kenneth P. Birman
+655a29dd812c326c4d8c3781,https://research.com/u/lars-kai-hansen,Lars Kai Hansen
+655a29dd812c326c4d8c3783,https://research.com/u/jean-philippe-thiran,Jean-Philippe Thiran
+655a29dd812c326c4d8c3785,https://research.com/u/zhe-l-lin,Zhe Lin
+655a29dd812c326c4d8c3787,https://research.com/u/rajiv-ranjan,Rajiv Ranjan
+655a29dd812c326c4d8c3789,https://research.com/u/eugene-charniak,Eugene Charniak
+655a29dd812c326c4d8c378b,https://research.com/u/daniel-marcu,Daniel Marcu
+655a29dd812c326c4d8c378d,https://research.com/u/donald-p-greenberg,Donald P. Greenberg
+655a29dd812c326c4d8c378f,https://research.com/u/giorgio-buttazzo,Giorgio Buttazzo
+655a29dd812c326c4d8c3791,https://research.com/u/jiangchuan-liu,Jiangchuan Liu
+655a29dd812c326c4d8c3793,https://research.com/u/daniel-p-siewiorek,Daniel P. Siewiorek
+655a29dd812c326c4d8c3795,https://research.com/u/alexander-maedche,Alexander Maedche
+655a29dd812c326c4d8c3797,https://research.com/u/james-smith,James E. Smith
+655a29dd812c326c4d8c3799,https://research.com/u/aravind-k-joshi,Aravind K. Joshi
+655a29dd812c326c4d8c379b,https://research.com/u/riccardo-poli,Riccardo Poli
+655a29dd812c326c4d8c379d,https://research.com/u/nikolaos-sidiropoulo,Nicholas D. Sidiropoulos
+655a29dd812c326c4d8c379f,https://research.com/u/abdullah-gani,Abdullah Gani
+655a29dd812c326c4d8c37a1,https://research.com/u/dong-in-kim,Dong In Kim
+655a29dd812c326c4d8c37a3,https://research.com/u/tony-qs-quek,Tony Q. S. Quek
+655a29dd812c326c4d8c37a5,https://research.com/u/ueli-maurer,Ueli Maurer
+655a29dd812c326c4d8c37a7,https://research.com/u/junichi-tsujii,Jun'ichi Tsujii
+655a29dd812c326c4d8c37a9,https://research.com/u/victor-ok-li,Victor O. K. Li
+655a29dd812c326c4d8c37ab,https://research.com/u/endre-szemeredi,Endre Szemerédi
+655a29dd812c326c4d8c37ad,https://research.com/u/prasant-mohapatra,Prasant Mohapatra
+655a29dd812c326c4d8c37af,https://research.com/u/sue-newell,Sue Newell
+655a29dd812c326c4d8c37b1,https://research.com/u/nick-duffield,Nick Duffield
+655a29dd812c326c4d8c37b3,https://research.com/u/clarence-t-tegreene,Clarence T. Tegreene
+655a29dd812c326c4d8c37b5,https://research.com/u/iryna-gurevych,Iryna Gurevych
+655a29dd812c326c4d8c37b7,https://research.com/u/luc-steels,Luc Steels
+655a29dd812c326c4d8c37b9,https://research.com/u/yonghui-li,Yonghui Li
+655a29dd812c326c4d8c37bb,https://research.com/u/giulio-sandini,Giulio Sandini
+655a29dd812c326c4d8c37bd,https://research.com/u/bir-bhanu,Bir Bhanu
+655a29dd812c326c4d8c37bf,https://research.com/u/qinghua-hu,Qinghua Hu
+655a29dd812c326c4d8c37c1,https://research.com/u/song-guo-1,Song Guo
+655a29dd812c326c4d8c37c3,https://research.com/u/yuval-elovici,Yuval Elovici
+655a29dd812c326c4d8c37c5,https://research.com/u/houbing-song,Houbing Song
+655a29dd812c326c4d8c37c7,https://research.com/u/luonan-chen,Luonan Chen
+655a29dd812c326c4d8c37c9,https://research.com/u/julian-togelius,Julian Togelius
+655a29dd812c326c4d8c37cb,https://research.com/u/frank-wolter,Frank Wolter
+655a29dd812c326c4d8c37cd,https://research.com/u/maoguo-gong-&#65288;,Maoguo Gong
+655a29dd812c326c4d8c37cf,https://research.com/u/nico-karssemeijer,Nico Karssemeijer
+655a29dd812c326c4d8c37d1,https://research.com/u/tandy-warnow,Tandy Warnow
+655a29dd812c326c4d8c37d3,https://research.com/u/john-p-hayes,John P. Hayes
+655a29dd812c326c4d8c37d5,https://research.com/u/dilek-hakkani-tur,Dilek Hakkani-Tur
+655a29dd812c326c4d8c37d7,https://research.com/u/sven-apel,Sven Apel
+655a29dd812c326c4d8c37d9,https://research.com/u/boi-faltings,Boi Faltings
+655a29dd812c326c4d8c37db,https://research.com/u/bernhard-steffen,Bernhard Steffen
+655a29dd812c326c4d8c37dd,https://research.com/u/marilyn-walker,Marilyn A. Walker
+655a29dd812c326c4d8c37df,https://research.com/u/chun-chen,Chun Chen
+655a29dd812c326c4d8c37e1,https://research.com/u/vijaykrishnan-naraya,N. Vijaykrishnan
+655a29dd812c326c4d8c37e3,https://research.com/u/jinjun-chen,Jinjun Chen
+655a29dd812c326c4d8c37e5,https://research.com/u/michael-wayne-brown,Michael Wayne Brown
+655a29dd812c326c4d8c37e7,https://research.com/u/koray-kavukcuoglu,Koray Kavukcuoglu
+655a29dd812c326c4d8c37e9,https://research.com/u/teuvo-kohonen,Teuvo Kohonen
+655a29dd812c326c4d8c37eb,https://research.com/u/yee-whye-teh,Yee Whye Teh
+655a29dd812c326c4d8c37ed,https://research.com/u/michael-j-pazzani,Michael J. Pazzani
+655a29dd812c326c4d8c37ef,https://research.com/u/ronald-fedkiw,Ronald Fedkiw
+655a29dd812c326c4d8c37f1,https://research.com/u/andrew-davison,Andrew J. Davison
+655a29dd812c326c4d8c37f3,https://research.com/u/david-j-fleet,David J. Fleet
+655a29dd812c326c4d8c37f5,https://research.com/u/raj-jain,Raj Jain
+655a29dd812c326c4d8c37f7,https://research.com/u/starr-roxanne-hiltz,Starr Roxanne Hiltz
+655a29dd812c326c4d8c37f9,https://research.com/u/frank-van-harmelen,Frank van Harmelen
+655a29dd812c326c4d8c37fb,https://research.com/u/rodney-brooks,Rodney A. Brooks
+655a29e22c77a5e92ddb4dc0,https://research.com/u/michalis-faloutsos,Michalis Faloutsos
+655a29e22c77a5e92ddb4dc2,https://research.com/u/mike-sharples,Mike Sharples
+655a29e22c77a5e92ddb4dc4,https://research.com/u/benjamin-pierce,Benjamin C. Pierce
+655a29e22c77a5e92ddb4dc6,https://research.com/u/steven-w-zucker,Steven W. Zucker
+655a29e22c77a5e92ddb4dc8,https://research.com/u/chein-i-chang,Chein-I Chang
+655a29e22c77a5e92ddb4dca,https://research.com/u/luis-martinez,Luis Martínez
+655a29e22c77a5e92ddb4dcc,https://research.com/u/sanjit-k-mitra,Sanjit K. Mitra
+655a29e22c77a5e92ddb4dce,https://research.com/u/hang-li,Hang Li
+655a29e22c77a5e92ddb4dd0,https://research.com/u/cyrill-stachniss,Cyrill Stachniss
+655a29e22c77a5e92ddb4dd2,https://research.com/u/ivor-w-tsang,Ivor W. Tsang
+655a29e22c77a5e92ddb4dd4,https://research.com/u/srinivasan-seshan,Srinivasan Seshan
+655a29e22c77a5e92ddb4dd6,https://research.com/u/mathieu-desbrun,Mathieu Desbrun
+655a29e22c77a5e92ddb4dd8,https://research.com/u/john-v-guttag,John V. Guttag
+655a29e22c77a5e92ddb4dda,https://research.com/u/benjamin-kuipers,Benjamin Kuipers
+655a29e22c77a5e92ddb4ddc,https://research.com/u/james-t-kwok-1,James T. Kwok
+655a29e22c77a5e92ddb4dde,https://research.com/u/yejin-choi,Yejin Choi
+655a29e22c77a5e92ddb4de0,https://research.com/u/vittorio-ferrari,Vittorio Ferrari
+655a29e22c77a5e92ddb4de2,https://research.com/u/jonathan-rose,Jonathan Rose
+655a29e22c77a5e92ddb4de4,https://research.com/u/pascal-van-hentenryc,Pascal Van Hentenryck
+655a29e22c77a5e92ddb4de6,https://research.com/u/howie-choset,Howie Choset
+655a29e22c77a5e92ddb4de8,https://research.com/u/hanqing-lu,Hanqing Lu
+655a29e22c77a5e92ddb4dea,https://research.com/u/xing-xie,Xing Xie
+655a29e22c77a5e92ddb4dec,https://research.com/u/rosario-gennaro,Rosario Gennaro
+655a29e22c77a5e92ddb4dee,https://research.com/u/haizhou-li,Haizhou Li
+655a29e22c77a5e92ddb4df0,https://research.com/u/hartmut-ehrig,Hartmut Ehrig
+655a29e22c77a5e92ddb4df2,https://research.com/u/mikkel-thorup,Mikkel Thorup
+655a29e22c77a5e92ddb4df4,https://research.com/u/junsong-yuan,Junsong Yuan
+655a29e22c77a5e92ddb4df6,https://research.com/u/norman-sadeh,Norman Sadeh
+655a29e22c77a5e92ddb4df8,https://research.com/u/petros-maragos,Petros Maragos
+655a29e22c77a5e92ddb4dfa,https://research.com/u/richard-snodgrass,Richard T. Snodgrass
+655a29e22c77a5e92ddb4dfc,https://research.com/u/keqin-li,Keqin Li
+655a29e22c77a5e92ddb4dfe,https://research.com/u/etienne-e-kerre,Etienne Kerre
+655a29e22c77a5e92ddb4e00,https://research.com/u/graham-kendall,Graham Kendall
+655a29e22c77a5e92ddb4e02,https://research.com/u/linglong-dai,Linglong Dai
+655a29e22c77a5e92ddb4e04,https://research.com/u/nikola-kasabov,Nikola Kasabov
+655a29e22c77a5e92ddb4e06,https://research.com/u/tharam-dillon,Tharam S. Dillon
+655a29e22c77a5e92ddb4e08,https://research.com/u/gabriel-peyre,Gabriel Peyré
+655a29e22c77a5e92ddb4e0a,https://research.com/u/ruigang-yang,Ruigang Yang
+655a29e22c77a5e92ddb4e0c,https://research.com/u/edward-j-mccluskey,Edward J. McCluskey
+655a29e22c77a5e92ddb4e0e,https://research.com/u/heng-huang,Heng Huang
+655a29e22c77a5e92ddb4e10,https://research.com/u/peterwillett,Peter Willett
+655a29e22c77a5e92ddb4e12,https://research.com/u/thomas-moscibroda,Thomas Moscibroda
+655a29e22c77a5e92ddb4e14,https://research.com/u/alex-bronstein,Alexander M. Bronstein
+655a29e22c77a5e92ddb4e16,https://research.com/u/bruce-h-krogh,Bruce H. Krogh
+655a29e22c77a5e92ddb4e18,https://research.com/u/mauro-barni,Mauro Barni
+655a29e22c77a5e92ddb4e1a,https://research.com/u/xiaohua-jia,Xiaohua Jia
+655a29e22c77a5e92ddb4e1c,https://research.com/u/jonathan-gratch,Jonathan Gratch
+655a29e22c77a5e92ddb4e1e,https://research.com/u/amr-el-abbadi-1,Amr El Abbadi
+655a29e22c77a5e92ddb4e20,https://research.com/u/wenfei-fan,Wenfei Fan
+655a29e22c77a5e92ddb4e22,https://research.com/u/anthony-vetro,Anthony Vetro
+655a29e22c77a5e92ddb4e24,https://research.com/u/gonzalo-arce,Gonzalo R. Arce
+655a29e22c77a5e92ddb4e26,https://research.com/u/rainer-stiefelhagen,Rainer Stiefelhagen
+655a29e22c77a5e92ddb4e28,https://research.com/u/andrew-lim,Andrew Lim
+655a29e22c77a5e92ddb4e2a,https://research.com/u/liang-gee-chen,Liang-Gee Chen
+655a29e22c77a5e92ddb4e2c,https://research.com/u/gerardo-canfora,Gerardo Canfora
+655a29e22c77a5e92ddb4e2e,https://research.com/u/giuliano-antoniol,Giuliano Antoniol
+655a29e22c77a5e92ddb4e30,https://research.com/u/janusz-rajski,Janusz Rajski
+655a29e22c77a5e92ddb4e32,https://research.com/u/elke-rundensteiner,Elke A. Rundensteiner
+655a29e22c77a5e92ddb4e34,https://research.com/u/clifford-a-pickover,Clifford A. Pickover
+655a29e22c77a5e92ddb4e36,https://research.com/u/ashok-kumar-das,Ashok Kumar Das
+655a29e22c77a5e92ddb4e38,https://research.com/u/jianzhong-zhou,Jianzhong Zhou
+655a29e22c77a5e92ddb4e3a,https://research.com/u/nir-shavit,Nir Shavit
+655a29e22c77a5e92ddb4e3c,https://research.com/u/renato-j-recio,Renato J. Recio
+655a29e22c77a5e92ddb4e3e,https://research.com/u/ian-goodfellow,Ian Goodfellow
+655a29e22c77a5e92ddb4e40,https://research.com/u/charles-e-leiserson,Charles E. Leiserson
+655a29e22c77a5e92ddb4e42,https://research.com/u/alan-v-oppenheim,Alan V. Oppenheim
+655a29e22c77a5e92ddb4e44,https://research.com/u/yair-weiss,Yair Weiss
+655a29e22c77a5e92ddb4e46,https://research.com/u/andrew-tomkins-1,Andrew Tomkins
+655a29e22c77a5e92ddb4e48,https://research.com/u/laxmikant-kale,Laxmikant V. Kale
+655a29e22c77a5e92ddb4e4a,https://research.com/u/david-mcallester,David McAllester
+655a29e22c77a5e92ddb4e4c,https://research.com/u/shimon-ullman,Shimon Ullman
+655a29e22c77a5e92ddb4e4e,https://research.com/u/clifford-nass,Clifford Nass
+655a29e22c77a5e92ddb4e50,https://research.com/u/olivier-chapelle,Olivier Chapelle
+655a29e22c77a5e92ddb4e52,https://research.com/u/stefan-roth,Stefan Roth
+655a29e22c77a5e92ddb4e54,https://research.com/u/m-palaniswami,Marimuthu Palaniswami
+655a29e22c77a5e92ddb4e56,https://research.com/u/sanjeev-arora,Sanjeev Arora
+655a29e22c77a5e92ddb4e58,https://research.com/u/sharath-pankanti-1,Sharath Pankanti
+655a29e22c77a5e92ddb4e5a,https://research.com/u/yihong-gong,Yihong Gong
+655a29e22c77a5e92ddb4e5c,https://research.com/u/philip-woodland,Philip C. Woodland
+655a29e22c77a5e92ddb4e5e,https://research.com/u/dhruv-batra,Dhruv Batra
+655a29e22c77a5e92ddb4e60,https://research.com/u/jan-camenisch,Jan Camenisch
+655a29e22c77a5e92ddb4e62,https://research.com/u/jean-yves-le-boudec-1,Jean-Yves Le Boudec
+655a29e22c77a5e92ddb4e64,https://research.com/u/francois-baccelli,François Baccelli
+655a29e22c77a5e92ddb4e66,https://research.com/u/jim-herbsleb,James D. Herbsleb
+655a29e22c77a5e92ddb4e68,https://research.com/u/richard-hull,Richard Hull
+655a29e22c77a5e92ddb4e6a,https://research.com/u/aaron-hertzmann,Aaron Hertzmann
+655a29e22c77a5e92ddb4e6c,https://research.com/u/asuncion-gomez-perez,Asunción Gómez-Pérez
+655a29e22c77a5e92ddb4e6e,https://research.com/u/peter-d-karp,Peter D. Karp
+655a29e22c77a5e92ddb4e70,https://research.com/u/rick-s-blum,Rick S. Blum
+655a29e22c77a5e92ddb4e72,https://research.com/u/andreas-zeller-1,Andreas Zeller
+655a29e22c77a5e92ddb4e74,https://research.com/u/dana-nau,Dana S. Nau
+655a29e22c77a5e92ddb4e76,https://research.com/u/moses-charikar,Moses Charikar
+655a29e22c77a5e92ddb4e78,https://research.com/u/russell-impagliazzo,Russell Impagliazzo
+655a29e22c77a5e92ddb4e7a,https://research.com/u/roch-guerin,Roch Guerin
+655a29e22c77a5e92ddb4e7c,https://research.com/u/stefan-j-kiebel,Stefan J. Kiebel
+655a29e22c77a5e92ddb4e7e,https://research.com/u/thomas-blaschke,Thomas Blaschke
+655a29e22c77a5e92ddb4e80,https://research.com/u/sanja-fidler,Sanja Fidler
+655a29e22c77a5e92ddb4e82,https://research.com/u/gul-agha,Gul Agha
+655a29e22c77a5e92ddb4e84,https://research.com/u/shmuel-peleg,Shmuel Peleg
+655a29e22c77a5e92ddb4e86,https://research.com/u/moncef-gabbouj,Moncef Gabbouj
+655a29f0e2746a30063f4941,https://research.com/u/john-s-gero,John S. Gero
+655a29f0e2746a30063f4943,https://research.com/u/alessandro-cimatti,Alessandro Cimatti
+655a29f0e2746a30063f4945,https://research.com/u/csaba-szepesvari,Csaba Szepesvári
+655a29f0e2746a30063f4947,https://research.com/u/roded-sharan,Roded Sharan
+655a29f0e2746a30063f4949,https://research.com/u/stefanos-zafeiriou,Stefanos Zafeiriou
+655a29f0e2746a30063f494b,https://research.com/u/uli-sattler,Ulrike Sattler
+655a29f0e2746a30063f494d,https://research.com/u/kenneth-o-stanley,Kenneth O. Stanley
+655a29f0e2746a30063f494f,https://research.com/u/wei-fan,Wei Fan
+655a29f0e2746a30063f4951,https://research.com/u/roberto-navigli,Roberto Navigli
+655a29f0e2746a30063f4953,https://research.com/u/niloy-j-mitra,Niloy J. Mitra
+655a29f0e2746a30063f4955,https://research.com/u/manfred-k-warmuth,Manfred K. Warmuth
+655a29f0e2746a30063f4957,https://research.com/u/balachander-krishnamurthy,Balachander Krishnamurthy
+655a29f0e2746a30063f4959,https://research.com/u/guoliang-xue,Guoliang Xue
+655a29f0e2746a30063f495b,https://research.com/u/shiwen-mao,Shiwen Mao
+655a29f0e2746a30063f495d,https://research.com/u/vivek-sarkar,Vivek Sarkar
+655a29f0e2746a30063f495f,https://research.com/u/shashi-shekhar,Shashi Shekhar
+655a29f0e2746a30063f4961,https://research.com/u/cw-holsapple,Clyde W. Holsapple
+655a29f0e2746a30063f4963,https://research.com/u/nick-koudas,Nick Koudas
+655a29f0e2746a30063f4965,https://research.com/u/nati-linial,Nathan Linial
+655a29f0e2746a30063f4967,https://research.com/u/andrew-lumsdaine,Andrew Lumsdaine
+655a29f0e2746a30063f4969,https://research.com/u/mohammed-bennamoun,Mohammed Bennamoun
+655a29f0e2746a30063f496b,https://research.com/u/marilyn-wolf,Wayne Wolf
+655a29f0e2746a30063f496d,https://research.com/u/mari-ostendorf,Mari Ostendorf
+655a29f0e2746a30063f496f,https://research.com/u/gari-d-clifford,Gari D. Clifford
+655a29f0e2746a30063f4971,https://research.com/u/timothy-baldwin,Timothy Baldwin
+655a29f0e2746a30063f4973,https://research.com/u/mauro-conti,Mauro Conti
+655a29f0e2746a30063f4975,https://research.com/u/andreas-holzinger,Andreas Holzinger
+655a29f0e2746a30063f4977,https://research.com/u/sarita-adve,Sarita V. Adve
+655a29f0e2746a30063f4979,https://research.com/u/hussein-t-mouftah,Hussein T. Mouftah
+655a29f0e2746a30063f497b,https://research.com/u/jinhui-tang,Jinhui Tang
+655a29f0e2746a30063f497d,https://research.com/u/jordan-pollack,Jordan Pollack
+655a29f0e2746a30063f497f,https://research.com/u/tim-menzies,Tim Menzies
+655a29f0e2746a30063f4981,https://research.com/u/chung-yee-lee,Chung Yee Lee
+655a29f0e2746a30063f4983,https://research.com/u/lili-qiu,Lili Qiu
+655a29f0e2746a30063f4985,https://research.com/u/matthias-felleisen,Matthias Felleisen
+655a29f0e2746a30063f4987,https://research.com/u/lionel-tarassenko,Lionel Tarassenko
+655a29f0e2746a30063f4989,https://research.com/u/ravishankar-k-iyer,Ravishankar K. Iyer
+655a29f0e2746a30063f498b,https://research.com/u/samuel-kaski,Samuel Kaski
+655a29f0e2746a30063f498d,https://research.com/u/mohan-kankanhalli,Mohan S. Kankanhalli
+655a29f0e2746a30063f498f,https://research.com/u/xiuzhen-cheng,Xiuzhen Cheng
+655a29f0e2746a30063f4991,https://research.com/u/ross-whitaker,Ross T. Whitaker
+655a29f0e2746a30063f4993,https://research.com/u/hwee-tou-ng,Hwee Tou Ng
+655a29f0e2746a30063f4995,https://research.com/u/de-shuang-huang,De-Shuang Huang
+655a29f0e2746a30063f4997,https://research.com/u/papanikolopoulos,Nikolaos Papanikolopoulos
+655a29f0e2746a30063f4999,https://research.com/u/jin-li-1,Jin Li
+655a29f0e2746a30063f499b,https://research.com/u/paul-l-rosin,Paul L. Rosin
+655a29f0e2746a30063f499d,https://research.com/u/anibal-ollero,Anibal Ollero
+655a29f0e2746a30063f499f,https://research.com/u/michele-lanza,Michele Lanza
+655a29f0e2746a30063f49a1,https://research.com/u/wayne-luk,Wayne Luk
+655a29f0e2746a30063f49a3,https://research.com/u/james-h-anderson-1,James H. Anderson
+655a29f0e2746a30063f49a5,https://research.com/u/paolo-rosso,Paolo Rosso
+655a29f0e2746a30063f49a7,https://research.com/u/christian-kastner,Christian Kästner
+655a29f0e2746a30063f49a9,https://research.com/u/jie-xu-1,Jie Xu
+655a29f0e2746a30063f49ab,https://research.com/u/peter-allen,Peter K. Allen
+655a29f0e2746a30063f49ad,https://research.com/u/renato-renner,Renato Renner
+655a29f0e2746a30063f49af,https://research.com/u/robert-sabourin,Robert Sabourin
+655a29f0e2746a30063f49b1,https://research.com/u/guangquan-zhang,Guangquan Zhang
+655a29f0e2746a30063f49b3,https://research.com/u/matteo-fischetti,Matteo Fischetti
+655a29f0e2746a30063f49b5,https://research.com/u/li-qing-quan,Qingquan Li
+655a29f0e2746a30063f49b7,https://research.com/u/peide-liu,Peide Liu
+655a29f0e2746a30063f49b9,https://research.com/u/zhihan-lyu,Zhihan Lv
+655a29f0e2746a30063f49bb,https://research.com/u/m-shamim-hossain,M. Shamim Hossain
+655a29f0e2746a30063f49bd,https://research.com/u/zheng-bao,Zheng Bao
+655a29f0e2746a30063f49bf,https://research.com/u/brant-l-candelore,Brant L. Candelore
+655a29f0e2746a30063f49c1,https://research.com/u/margaret-burnett,Margaret Burnett
+655a29f0e2746a30063f49c3,https://research.com/u/jamey-graham,Jamey Graham
+655a29f0e2746a30063f49c5,https://research.com/u/kaiming-he,Kaiming He
+655a29f0e2746a30063f49c7,https://research.com/u/suzanna-e-lewis,Suzanna E. Lewis
+655a29f0e2746a30063f49c9,https://research.com/u/david-s-johnson,David B. Johnson
+655a29f0e2746a30063f49cb,https://research.com/u/kai-chen,Kai Chen
+655a29f0e2746a30063f49cd,https://research.com/u/charles-e-perkins,Charles E. Perkins
+655a29f0e2746a30063f49cf,https://research.com/u/aapo-hyvarinen,Aapo Hyvärinen
+655a29f0e2746a30063f49d1,https://research.com/u/robin-milner,Robin Milner
+655a29f0e2746a30063f49d3,https://research.com/u/david-a-maltz-1,David A. Maltz
+655a29f0e2746a30063f49d5,https://research.com/u/nando-de-freitas,Nando de Freitas
+655a29f0e2746a30063f49d7,https://research.com/u/james-b-orlin,James B. Orlin
+655a29f0e2746a30063f49d9,https://research.com/u/hugues-hoppe,Hugues Hoppe
+655a29f0e2746a30063f49db,https://research.com/u/ramjee-prasad,Ramjee Prasad
+655a29f0e2746a30063f49dd,https://research.com/u/david-shmoys,David B. Shmoys
+655a29f0e2746a30063f49df,https://research.com/u/mario-a-t-figueiredo,Mário A. T. Figueiredo
+655a29f0e2746a30063f49e1,https://research.com/u/raymond-ng,Raymond T. Ng
+655a29f0e2746a30063f49e3,https://research.com/u/daniel-povey,Daniel Povey
+655a29f0e2746a30063f49e5,https://research.com/u/james-allen,James F. Allen
+655a29f0e2746a30063f49e7,https://research.com/u/theo-gevers,Theo Gevers
+655a29f0e2746a30063f49e9,https://research.com/u/anthony-ephremides,Anthony Ephremides
+655a29f0e2746a30063f49eb,https://research.com/u/taghi-m-khoshgoftaar-2,Taghi M. Khoshgoftaar
+655a29f0e2746a30063f49ed,https://research.com/u/claes-wohlin,Claes Wohlin
+655a29f0e2746a30063f49ef,https://research.com/u/jonathan-rosenberg-1,Jonathan Rosenberg
+655a29f0e2746a30063f49f1,https://research.com/u/pierre-dillenbourg,Pierre Dillenbourg
+655a29f0e2746a30063f49f3,https://research.com/u/foster-provost-1,Foster Provost
+655a29f0e2746a30063f49f5,https://research.com/u/william-d-penny,William D. Penny
+655a29f0e2746a30063f49f7,https://research.com/u/joel-emer,Joel Emer
+655a29f0e2746a30063f49f9,https://research.com/u/kenneth-ward-church,Kenneth Church
+655a29f0e2746a30063f49fb,https://research.com/u/richard-l-baskerville,Richard L. Baskerville
+655a29f0e2746a30063f49fd,https://research.com/u/martha-stone-palmer,Martha Palmer
+655a29f0e2746a30063f49ff,https://research.com/u/jeff-mogul,Jeffrey C. Mogul
+655a29f0e2746a30063f4a01,https://research.com/u/nikhil-r-pal,Nikhil R. Pal
+655a29f0e2746a30063f4a03,https://research.com/u/peter-schroder,Peter Schröder
+655a29f0e2746a30063f4a05,https://research.com/u/aristides-gionis,Aristides Gionis
+655a29f0e2746a30063f4a07,https://research.com/u/fred-schneider,Fred B. Schneider
+655a29f6f3eba4789232cb10,https://research.com/u/thomas-pock,Thomas Pock
+655a29f6f3eba4789232cb12,https://research.com/u/paul-newman,Paul Newman
+655a29f6f3eba4789232cb14,https://research.com/u/butler-w-lampson,Butler W. Lampson
+655a29f6f3eba4789232cb16,https://research.com/u/katherine-yelick,Katherine Yelick
+655a29f6f3eba4789232cb18,https://research.com/u/james-kuffner,James J. Kuffner
+655a29f6f3eba4789232cb1a,https://research.com/u/farinaz-koushanfar,Farinaz Koushanfar
+655a29f6f3eba4789232cb1c,https://research.com/u/frank-r-kschischang,Frank R. Kschischang
+655a29f6f3eba4789232cb1e,https://research.com/u/arto-salomaa,Arto Salomaa
+655a29f6f3eba4789232cb20,https://research.com/u/thomas-ball,Thomas Ball
+655a29f6f3eba4789232cb22,https://research.com/u/kuldip-paliwal,Kuldip K. Paliwal
+655a29f6f3eba4789232cb24,https://research.com/u/richard-j-lipton,Richard J. Lipton
+655a29f6f3eba4789232cb26,https://research.com/u/kentaro-toyama,Kentaro Toyama
+655a29f6f3eba4789232cb28,https://research.com/u/joelle-pineau-1,Joelle Pineau
+655a29f6f3eba4789232cb2a,https://research.com/u/edward-w-felten,Edward W. Felten
+655a29f6f3eba4789232cb2c,https://research.com/u/koushik-sen,Koushik Sen
+655a29f6f3eba4789232cb2e,https://research.com/u/ee-peng-lim,Ee-Peng Lim
+655a29f6f3eba4789232cb30,https://research.com/u/s-joe-qin,S. Joe Qin
+655a29f6f3eba4789232cb32,https://research.com/u/fei-tao,Fei Tao
+655a29f6f3eba4789232cb34,https://research.com/u/mohamed-s-kamel,Mohamed S. Kamel
+655a29f6f3eba4789232cb36,https://research.com/u/steve-keckler,Stephen W. Keckler
+655a29f6f3eba4789232cb38,https://research.com/u/masashi-sugiyama,Masashi Sugiyama
+655a29f6f3eba4789232cb3a,https://research.com/u/irfan-essa,Irfan Essa
+655a29f6f3eba4789232cb3c,https://research.com/u/jose-duato,José Duato
+655a29f6f3eba4789232cb3e,https://research.com/u/joao-gama,João Gama
+655a29f6f3eba4789232cb40,https://research.com/u/mark-dredze,Mark Dredze
+655a29f6f3eba4789232cb42,https://research.com/u/joseph-sifakis,Joseph Sifakis
+655a29f6f3eba4789232cb44,https://research.com/u/guoying-zhao,Guoying Zhao
+655a29f6f3eba4789232cb46,https://research.com/u/matthias-jarke,Matthias Jarke
+655a29f6f3eba4789232cb48,https://research.com/u/benjamin-b-bederson,Benjamin B. Bederson
+655a29f6f3eba4789232cb4a,https://research.com/u/ryan-s-baker,Ryan S. Baker
+655a29f6f3eba4789232cb4c,https://research.com/u/david-g-andersen,David G. Andersen
+655a29f6f3eba4789232cb4e,https://research.com/u/mark-pauly,Mark Pauly
+655a29f6f3eba4789232cb50,https://research.com/u/bo-li-4,bo li
+655a29f6f3eba4789232cb52,https://research.com/u/i-scott-mackenzie,I. Scott MacKenzie
+655a29f6f3eba4789232cb54,https://research.com/u/r-harald-baayen,R. Harald Baayen
+655a29f6f3eba4789232cb56,https://research.com/u/robert-c-miller,Robert C. Miller
+655a29f6f3eba4789232cb58,https://research.com/u/don-batory,Don Batory
+655a29f6f3eba4789232cb5a,https://research.com/u/cuntai-guan,Cuntai Guan
+655a29f6f3eba4789232cb5c,https://research.com/u/sanjiv-singh,Sanjiv Singh
+655a29f7f3eba4789232cb5e,https://research.com/u/jean-philippe-vert,Jean-Philippe Vert
+655a29f7f3eba4789232cb60,https://research.com/u/michael-l-scott,Michael L. Scott
+655a29f7f3eba4789232cb62,https://research.com/u/dorothea-wagner,Dorothea Wagner
+655a29f7f3eba4789232cb64,https://research.com/u/michael-waidner,Michael Waidner
+655a29f7f3eba4789232cb66,https://research.com/u/michael-gleicher,Michael Gleicher
+655a29f7f3eba4789232cb68,https://research.com/u/daniel-l-rubin,Daniel L. Rubin
+655a29f7f3eba4789232cb6a,https://research.com/u/yannis-ioannidis,Yannis E. Ioannidis
+655a29f7f3eba4789232cb6c,https://research.com/u/gang-hua,Gang Hua
+655a29f7f3eba4789232cb6e,https://research.com/u/sandy-napel,Sandy Napel
+655a29f7f3eba4789232cb70,https://research.com/u/helmut-krcmar,Helmut Krcmar
+655a29f7f3eba4789232cb72,https://research.com/u/juliana-freire,Juliana Freire
+655a29f7f3eba4789232cb74,https://research.com/u/geoff-webb,Geoffrey I. Webb
+655a29f7f3eba4789232cb76,https://research.com/u/klaus-i-pedersen,Klaus I. Pedersen
+655a29f7f3eba4789232cb78,https://research.com/u/hao-zhang,Hao Zhang
+655a29f7f3eba4789232cb7a,https://research.com/u/boleslaw-szymanski,Boleslaw K. Szymanski
+655a29f7f3eba4789232cb7c,https://research.com/u/meredith-ringel-morr,Meredith Ringel Morris
+655a29f7f3eba4789232cb7e,https://research.com/u/elizabeth-shriberg,Elizabeth Shriberg
+655a29f7f3eba4789232cb80,https://research.com/u/sarang-joshi,Sarang Joshi
+655a29f7f3eba4789232cb82,https://research.com/u/jianwei-huang,Jianwei Huang
+655a29f7f3eba4789232cb84,https://research.com/u/sunghyun-choi,Sunghyun Choi
+655a29f7f3eba4789232cb86,https://research.com/u/ming-j-zuo,Ming J. Zuo
+655a29f7f3eba4789232cb88,https://research.com/u/jiwu-huang,Jiwu Huang
+655a29f7f3eba4789232cb8a,https://research.com/u/prof-amir-hussain,Amir Hussain
+655a29f7f3eba4789232cb8c,https://research.com/u/david-padua,David Padua
+655a29f7f3eba4789232cb8e,https://research.com/u/junichi-yamagishi,Junichi Yamagishi
+655a29f7f3eba4789232cb90,https://research.com/u/francis-cm-lau,Francis C. M. Lau
+655a29f7f3eba4789232cb92,https://research.com/u/sachin-sapatnekar,Sachin S. Sapatnekar
+655a29f7f3eba4789232cb94,https://research.com/u/michael-alan-picheny,Michael Picheny
+655a29f7f3eba4789232cb96,https://research.com/u/anand-sivasubramania,Anand Sivasubramaniam
+655a29f7f3eba4789232cb98,https://research.com/u/alex-x-liu,Alex X. Liu
+655a29f7f3eba4789232cb9a,https://research.com/u/walter-daelemans,Walter Daelemans
+655a29f7f3eba4789232cb9c,https://research.com/u/min-shiang-hwang,Min-Shiang Hwang
+655a29f7f3eba4789232cb9e,https://research.com/u/jianbing-shen,Jianbing Shen
+655a29f7f3eba4789232cba0,https://research.com/u/jerome-r-bellegarda,Jerome R. Bellegarda
+655a29f7f3eba4789232cba2,https://research.com/u/jose-m-merigo-lindah,José M. Merigó
+655a29f7f3eba4789232cba4,https://research.com/u/prathima-agrawal,Prathima Agrawal
+655a29f7f3eba4789232cba6,https://research.com/u/jie-li,Jie Li
+655a29f7f3eba4789232cba8,https://research.com/u/gary-l-miller,Gary L. Miller
+655a29f7f3eba4789232cbaa,https://research.com/u/n-asokan,Nadarajah Asokan
+655a29f7f3eba4789232cbac,https://research.com/u/shui-yu,Shui Yu
+655a29f7f3eba4789232cbae,https://research.com/u/tanja-schultz,Tanja Schultz
+655a29f7f3eba4789232cbb0,https://research.com/u/henri-bal,Henri E. Bal
+655a29f7f3eba4789232cbb2,https://research.com/u/padraig-cunningham,Pádraig Cunningham
+655a29f7f3eba4789232cbb4,https://research.com/u/yoichi-sato,Yoichi Sato
+655a29f7f3eba4789232cbb6,https://research.com/u/josep-domingo-ferrer,Josep Domingo-Ferrer
+655a29f7f3eba4789232cbb8,https://research.com/u/carlo-zaniolo,Carlo Zaniolo
+655a29f7f3eba4789232cbba,https://research.com/u/carsten-thomassen,Carsten Thomassen
+655a29f7f3eba4789232cbbc,https://research.com/u/steven-nielsen,Steven Nielsen
+655a29f7f3eba4789232cbbe,https://research.com/u/curtis-chambers,Curtis Chambers
+655a29f7f3eba4789232cbc0,https://research.com/u/hrvoje-benko,Hrvoje Benko
+655a29f7f3eba4789232cbc2,https://research.com/u/andrea-de-lucia,Andrea De Lucia
+655a29f7f3eba4789232cbc4,https://research.com/u/william-j-beyda,William J. Beyda
+655a29f7f3eba4789232cbc6,https://research.com/u/gavin-bernard-horn,Gavin Bernard Horn
+655a29f7f3eba4789232cbc8,https://research.com/u/vapnik,Vladimir Vapnik
+655a29f7f3eba4789232cbca,https://research.com/u/chih-jen-lin,Chih-Jen Lin
+655a29f7f3eba4789232cbcc,https://research.com/u/deborah-l-mcguinness,Deborah L. McGuinness
+655a29f7f3eba4789232cbce,https://research.com/u/yiming-yang,Yiming Yang
+655a29f7f3eba4789232cbd0,https://research.com/u/leslie-g-valiant,Leslie G. Valiant
+655a29f7f3eba4789232cbd2,https://research.com/u/michael-d-abramoff,Michael D. Abràmoff
+655a29f7f3eba4789232cbd4,https://research.com/u/franz-baader,Franz Baader
+655a29f7f3eba4789232cbd6,https://research.com/u/hiroaki-kitano,Hiroaki Kitano
+655a29fd4fca678e8b7f08df,https://research.com/u/david-fogel,David B. Fogel
+655a29fd4fca678e8b7f08e1,https://research.com/u/matt-welsh,Matt Welsh
+655a29fd4fca678e8b7f08e3,https://research.com/u/andreas-geiger,Andreas Geiger
+655a29fd4fca678e8b7f08e5,https://research.com/u/allen-gersho,Allen Gersho
+655a29fd4fca678e8b7f08e7,https://research.com/u/alessandro-acquisti,Alessandro Acquisti
+655a29fd4fca678e8b7f08e9,https://research.com/u/jock-d-mackinlay,Jock D. Mackinlay
+655a29fd4fca678e8b7f08eb,https://research.com/u/andries-engelbrecht,Andries P. Engelbrecht
+655a29fd4fca678e8b7f08ed,https://research.com/u/andrzej-skowron,Andrzej Skowron
+655a29fd4fca678e8b7f08ef,https://research.com/u/gordon-plotkin,Gordon Plotkin
+655a29fd4fca678e8b7f08f1,https://research.com/u/jeff-kephart,Jeffrey O. Kephart
+655a29fd4fca678e8b7f08f3,https://research.com/u/linda-r-petzold,Linda R. Petzold
+655a29fd4fca678e8b7f08f5,https://research.com/u/sudipto-guha,Sudipto Guha
+655a29fd4fca678e8b7f08f7,https://research.com/u/nigel-davies,Nigel Davies
+655a29fd4fca678e8b7f08f9,https://research.com/u/vinod-vaikuntanathan,Vinod Vaikuntanathan
+655a29fd4fca678e8b7f08fb,https://research.com/u/victor-shoup,Victor Shoup
+655a29fd4fca678e8b7f08fd,https://research.com/u/vladimir-lifschitz,Vladimir Lifschitz
+655a29fd4fca678e8b7f08ff,https://research.com/u/eyal-kushilevitz,Eyal Kushilevitz
+655a29fd4fca678e8b7f0901,https://research.com/u/ratul-mahajan,Ratul Mahajan
+655a29fd4fca678e8b7f0903,https://research.com/u/pedro-larranaga,Pedro Larrañaga
+655a29fd4fca678e8b7f0905,https://research.com/u/cees-g-m-snoek,Cees G. M. Snoek
+655a29fd4fca678e8b7f0907,https://research.com/u/alistair-moffat,Alistair Moffat
+655a29fd4fca678e8b7f0909,https://research.com/u/arthur-ter-hofstede,Arthur H. M. ter Hofstede
+655a29fd4fca678e8b7f090b,https://research.com/u/andrew-d-gordon,Andrew D. Gordon
+655a29fd4fca678e8b7f090d,https://research.com/u/gerhard-hancke,Gerhard P. Hancke
+655a29fd4fca678e8b7f090f,https://research.com/u/david-k-gifford,David K. Gifford
+655a29fd4fca678e8b7f0911,https://research.com/u/gert-lanckriet,Gert R. G. Lanckriet
+655a29fd4fca678e8b7f0913,https://research.com/u/luc-devroye,Luc Devroye
+655a29fd4fca678e8b7f0915,https://research.com/u/fausto-giunchiglia,Fausto Giunchiglia
+655a29fd4fca678e8b7f0917,https://research.com/u/risto-miikkulainen,Risto Miikkulainen
+655a29fd4fca678e8b7f0919,https://research.com/u/santosh-s-vempala,Santosh Vempala
+655a29fd4fca678e8b7f091b,https://research.com/u/kenneth-d-forbus,Kenneth D. Forbus
+655a29fd4fca678e8b7f091d,https://research.com/u/hany-farid,Hany Farid
+655a29fd4fca678e8b7f091f,https://research.com/u/sargur-srihari,Sargur N. Srihari
+655a29fd4fca678e8b7f0921,https://research.com/u/nenad-medvidovic,Nenad Medvidovic
+655a29fd4fca678e8b7f0923,https://research.com/u/david-c-parkes,David C. Parkes
+655a29fd4fca678e8b7f0925,https://research.com/u/maosong-sun,Maosong Sun
+655a29fd4fca678e8b7f0927,https://research.com/u/eli-upfal,Eli Upfal
+655a29fd4fca678e8b7f0929,https://research.com/u/jonathan-grudin,Jonathan Grudin
+655a29fd4fca678e8b7f092b,https://research.com/u/jaakko-astola,Jaakko Astola
+655a29fd4fca678e8b7f092d,https://research.com/u/suman-banerjee-1,Suman Banerjee
+655a29fd4fca678e8b7f092f,https://research.com/u/seth-teller,Seth Teller
+655a29fd4fca678e8b7f0931,https://research.com/u/ed-mynatt,Elizabeth D. Mynatt
+655a29fd4fca678e8b7f0933,https://research.com/u/tanzeem-choudhury-1,Tanzeem Choudhury
+655a29fd4fca678e8b7f0935,https://research.com/u/laszlo-babai,László Babai
+655a29fd4fca678e8b7f0937,https://research.com/u/murat-uysal,Murat Uysal
+655a29fd4fca678e8b7f0939,https://research.com/u/chengqi-zhang,Chengqi Zhang
+655a29fd4fca678e8b7f093b,https://research.com/u/thorsten-holz,Thorsten Holz
+655a29fd4fca678e8b7f093d,https://research.com/u/paul-tseng,Paul Tseng
+655a29fd4fca678e8b7f093f,https://research.com/u/babak-falsafi,Babak Falsafi
+655a29fd4fca678e8b7f0941,https://research.com/u/sergio-barbarossa,Sergio Barbarossa
+655a29fd4fca678e8b7f0943,https://research.com/u/shi-min-hu,Shi-Min Hu
+655a29fd4fca678e8b7f0945,https://research.com/u/olga-sorkine-hornung,Olga Sorkine
+655a29fd4fca678e8b7f0947,https://research.com/u/philipp-cimiano,Philipp Cimiano
+655a29fd4fca678e8b7f0949,https://research.com/u/furu-wei,Furu Wei
+655a29fd4fca678e8b7f094b,https://research.com/u/gernot-r-muller-putz,Gernot R. Müller-Putz
+655a29fd4fca678e8b7f094d,https://research.com/u/sanjit-a-seshia,Sanjit A. Seshia
+655a29fd4fca678e8b7f094f,https://research.com/u/jatinder-n-d-gupta,Jatinder N. D. Gupta
+655a29fd4fca678e8b7f0951,https://research.com/u/gregory-n-christie,Gregory N. Christie
+655a29fd4fca678e8b7f0953,https://research.com/u/benjamin-m-w-tsui,Benjamin M. W. Tsui
+655a29fd4fca678e8b7f0955,https://research.com/u/yongdong-zhang,Yongdong Zhang
+655a29fd4fca678e8b7f0957,https://research.com/u/rebecca-e-grinter,Rebecca E. Grinter
+655a29fd4fca678e8b7f0959,https://research.com/u/weiming-shen,Weiming Shen
+655a29fd4fca678e8b7f095b,https://research.com/u/antonio-loureiro,Antonio A. F. Loureiro
+655a29fd4fca678e8b7f095d,https://research.com/u/gao-cong,Gao Cong
+655a29fd4fca678e8b7f095f,https://research.com/u/shwetak-patel,Shwetak N. Patel
+655a29fd4fca678e8b7f0961,https://research.com/u/xueqi-cheng,Xueqi Cheng
+655a29fd4fca678e8b7f0963,https://research.com/u/stacy-marsella,Stacy Marsella
+655a29fd4fca678e8b7f0965,https://research.com/u/rolf-drechsler,Rolf Drechsler
+655a29fd4fca678e8b7f0967,https://research.com/u/ying-tan,Ying Tan
+655a29fd4fca678e8b7f0969,https://research.com/u/shengxiang-yang,Shengxiang Yang
+655a29fe4fca678e8b7f096b,https://research.com/u/alex-b-gershman,Alex B. Gershman
+655a29fe4fca678e8b7f096d,https://research.com/u/preslav-nakov,Preslav Nakov
+655a29fe4fca678e8b7f096f,https://research.com/u/yuri-gurevich,Yuri Gurevich
+655a29fe4fca678e8b7f0971,https://research.com/u/valerio-pascucci,Valerio Pascucci
+655a29fe4fca678e8b7f0973,https://research.com/u/yoichiro-sako,Yoichiro Sako
+655a29fe4fca678e8b7f0975,https://research.com/u/haitao-zheng,Haitao Zheng
+655a29fe4fca678e8b7f0977,https://research.com/u/zhi-ding,Zhi Ding
+655a29fe4fca678e8b7f0979,https://research.com/u/uzi-vishkin,Uzi Vishkin
+655a29fe4fca678e8b7f097b,https://research.com/u/joel-wolf,Joel L. Wolf
+655a29fe4fca678e8b7f097d,https://research.com/u/krishna-r-pattipati,Krishna R. Pattipati
+655a29fe4fca678e8b7f097f,https://research.com/u/min-wu-1,Min Wu
+655a29fe4fca678e8b7f0981,https://research.com/u/rami-melhem,Rami Melhem
+655a29fe4fca678e8b7f0983,https://research.com/u/mohammad-s-obaidat,Mohammad S. Obaidat
+655a29fe4fca678e8b7f0985,https://research.com/u/lin-cai,Lin Cai
+655a29fe4fca678e8b7f0987,https://research.com/u/septimiu-e-salcudean,Septimiu E. Salcudean
+655a29fe4fca678e8b7f0989,https://research.com/u/jiajun-bu,Jiajun Bu
+655a29fe4fca678e8b7f098b,https://research.com/u/keith-hipel,Keith W. Hipel
+655a29fe4fca678e8b7f098d,https://research.com/u/sumit-gulwani,Sumit Gulwani
+655a29fe4fca678e8b7f098f,https://research.com/u/layne-t-watson,Layne T. Watson
+655a29fe4fca678e8b7f0991,https://research.com/u/jean-claude-junqua,Jean-Claude Junqua
+655a29fe4fca678e8b7f0993,https://research.com/u/dongwon-lee-1,Dongwon Lee
+655a29fe4fca678e8b7f0995,https://research.com/u/elchanan-mossel,Elchanan Mossel
+655a29fe4fca678e8b7f0997,https://research.com/u/john-r-hind,John R. Hind
+655a29fe4fca678e8b7f0999,https://research.com/u/david-nicholas,David Nicholas
+655a29fe4fca678e8b7f099b,https://research.com/u/mingjing-li,Mingjing Li
+655a29fe4fca678e8b7f099d,https://research.com/u/eibe-frank,Eibe Frank
+655a29fe4fca678e8b7f099f,https://research.com/u/michael-isard,Michael Isard
+655a29fe4fca678e8b7f09a1,https://research.com/u/dana-ballard,Dana H. Ballard
+655a29fe4fca678e8b7f09a3,https://research.com/u/cathy-h-wu,Cathy H. Wu
+655a29fe4fca678e8b7f09a5,https://research.com/u/david-hand,David J. Hand
+655a2a053d478d73178fdc1c,https://research.com/u/steve-lawrence,Steve Lawrence
+655a2a053d478d73178fdc1e,https://research.com/u/brian-curless,Brian Curless
+655a2a053d478d73178fdc20,https://research.com/u/lior-rokach,Lior Rokach
+655a2a053d478d73178fdc22,https://research.com/u/patrick-perez,Patrick Pérez
+655a2a053d478d73178fdc24,https://research.com/u/john-kubiatowicz,John Kubiatowicz
+655a2a053d478d73178fdc26,https://research.com/u/todd-austin,Todd Austin
+655a2a053d478d73178fdc28,https://research.com/u/erhard-rahm,Erhard Rahm
+655a2a053d478d73178fdc2a,https://research.com/u/karen-egiazarian,Karen O. Egiazarian
+655a2a053d478d73178fdc2c,https://research.com/u/kyoung-mu-lee,Kyoung Mu Lee
+655a2a053d478d73178fdc2e,https://research.com/u/marcus-rohrbach,Marcus Rohrbach
+655a2a053d478d73178fdc30,https://research.com/u/paul-debevec,Paul Debevec
+655a2a053d478d73178fdc32,https://research.com/u/naftali-tishby,Naftali Tishby
+655a2a053d478d73178fdc34,https://research.com/u/fionn-murtagh,Fionn Murtagh
+655a2a053d478d73178fdc36,https://research.com/u/lukasz-kurgan,Lukasz Kurgan
+655a2a053d478d73178fdc38,https://research.com/u/shuguang-cui,Shuguang Cui
+655a2a053d478d73178fdc3a,https://research.com/u/shumeet-baluja,Shumeet Baluja
+655a2a053d478d73178fdc3c,https://research.com/u/eric-brill,Eric Brill
+655a2a053d478d73178fdc3e,https://research.com/u/rita-cucchiara,Rita Cucchiara
+655a2a053d478d73178fdc40,https://research.com/u/ba-ngu-vo,Ba-Ngu Vo
+655a2a053d478d73178fdc42,https://research.com/u/robin-burke,Robin Burke
+655a2a053d478d73178fdc44,https://research.com/u/donald-kossmann,Donald Kossmann
+655a2a053d478d73178fdc46,https://research.com/u/terry-m-peters,Terry M. Peters
+655a2a053d478d73178fdc48,https://research.com/u/hannes-hartenstein,Hannes Hartenstein
+655a2a053d478d73178fdc4a,https://research.com/u/alan-m-maceachren,Alan M. MacEachren
+655a2a053d478d73178fdc4c,https://research.com/u/neil-d-lawrence,Neil D. Lawrence
+655a2a053d478d73178fdc4e,https://research.com/u/stephen-m-pizer,Stephen M. Pizer
+655a2a053d478d73178fdc50,https://research.com/u/brian-m-sadler,Brian M. Sadler
+655a2a053d478d73178fdc52,https://research.com/u/carla-brodley,Carla E. Brodley
+655a2a053d478d73178fdc54,https://research.com/u/ralph-grishman,Ralph Grishman
+655a2a053d478d73178fdc56,https://research.com/u/moustafa-youssef,Moustafa Youssef
+655a2a053d478d73178fdc58,https://research.com/u/osvaldo-simeone,Osvaldo Simeone
+655a2a053d478d73178fdc5a,https://research.com/u/justine-cassell,Justine Cassell
+655a2a053d478d73178fdc5c,https://research.com/u/satish-b-rao,Satish Rao
+655a2a053d478d73178fdc5e,https://research.com/u/timos-sellis,Timos Sellis
+655a2a053d478d73178fdc60,https://research.com/u/peter-steenkiste-1,Peter Steenkiste
+655a2a053d478d73178fdc62,https://research.com/u/jignesh-m-patel,Jignesh M. Patel
+655a2a053d478d73178fdc64,https://research.com/u/ismail-guvenc,Ismail Guvenc
+655a2a053d478d73178fdc66,https://research.com/u/fumiyuki-adachi,Fumiyuki Adachi
+655a2a053d478d73178fdc68,https://research.com/u/yong-li,Yong Li
+655a2a053d478d73178fdc6a,https://research.com/u/sundararaja-sitharam,S. Sitharama Iyengar
+655a2a053d478d73178fdc6c,https://research.com/u/hal-daume-iii,Hal Daumé
+655a2a053d478d73178fdc6e,https://research.com/u/zhiyong-lu,Zhiyong Lu
+655a2a053d478d73178fdc70,https://research.com/u/vishal-m-patel,Vishal M. Patel
+655a2a053d478d73178fdc72,https://research.com/u/jan-sijbers,Jan Sijbers
+655a2a053d478d73178fdc74,https://research.com/u/michel-verleysen,Michel Verleysen
+655a2a053d478d73178fdc76,https://research.com/u/harrison-h-barrett,Harrison H. Barrett
+655a2a053d478d73178fdc78,https://research.com/u/guy-blelloch,Guy E. Blelloch
+655a2a053d478d73178fdc7a,https://research.com/u/ding-zhu-du,Ding-Zhu Du
+655a2a053d478d73178fdc7c,https://research.com/u/peter-stuckey,Peter J. Stuckey
+655a2a053d478d73178fdc7e,https://research.com/u/yannis-manolopoulos,Yannis Manolopoulos
+655a2a053d478d73178fdc80,https://research.com/u/dimitrios-i-fotiadis,Dimitrios I. Fotiadis
+655a2a053d478d73178fdc82,https://research.com/u/enhong-chen,Enhong Chen
+655a2a053d478d73178fdc84,https://research.com/u/vincent-lau,Vincent K. N. Lau
+655a2a053d478d73178fdc86,https://research.com/u/rongrong-ji,Rongrong Ji
+655a2a053d478d73178fdc88,https://research.com/u/qinghua-wu,Qinghua Wu
+655a2a053d478d73178fdc8a,https://research.com/u/salil-vadhan,Salil P. Vadhan
+655a2a053d478d73178fdc8c,https://research.com/u/limsoon-wong,Limsoon Wong
+655a2a053d478d73178fdc8e,https://research.com/u/michael-cohen,Michael F. Cohen
+655a2a053d478d73178fdc90,https://research.com/u/rahim-tafazolli,Rahim Tafazolli
+655a2a053d478d73178fdc92,https://research.com/u/elisabeth-andre,Elisabeth André
+655a2a053d478d73178fdc94,https://research.com/u/david-basin-1,David Basin
+655a2a053d478d73178fdc96,https://research.com/u/wei-zhao,Wei Zhao
+655a2a053d478d73178fdc98,https://research.com/u/edwin-hancock,Edwin R. Hancock
+655a2a053d478d73178fdc9a,https://research.com/u/timothy-m-hospedales,Timothy M. Hospedales
+655a2a053d478d73178fdc9c,https://research.com/u/xue-liu,Xue Liu
+655a2a053d478d73178fdc9e,https://research.com/u/dennis-gannon,Dennis Gannon
+655a2a053d478d73178fdca0,https://research.com/u/charles-chuck-ha,Charles Hansen
+655a2a053d478d73178fdca2,https://research.com/u/heiner-stuckenschmid,Heiner Stuckenschmidt
+655a2a053d478d73178fdca4,https://research.com/u/song-zhang,Song Zhang
+655a2a053d478d73178fdca6,https://research.com/u/ramamohanarao-kotagi,Kotagiri Ramamohanarao
+655a2a053d478d73178fdca8,https://research.com/u/oliver-kohlbacher,Oliver Kohlbacher
+655a2a053d478d73178fdcaa,https://research.com/u/martin-buss-1,Martin Buss
+655a2a053d478d73178fdcac,https://research.com/u/gavriel-salvendy,Gavriel Salvendy
+655a2a053d478d73178fdcae,https://research.com/u/lizhe-wang,Lizhe Wang
+655a2a053d478d73178fdcb0,https://research.com/u/paul-lukowicz,Paul Lukowicz
+655a2a053d478d73178fdcb2,https://research.com/u/dominic-w-massaro,Dominic W. Massaro
+655a2a053d478d73178fdcb4,https://research.com/u/yi-min-wang,Yi-Min Wang
+655a2a053d478d73178fdcb6,https://research.com/u/eyke-h%C3%BCllermeier,Eyke Hüllermeier
+655a2a053d478d73178fdcb8,https://research.com/u/chandrajit-bajaj,Chandrajit L. Bajaj
+655a2a053d478d73178fdcba,https://research.com/u/jaime-lloret,Jaime Lloret
+655a2a053d478d73178fdcbc,https://research.com/u/douglas-l-jones,Douglas L. Jones
+655a2a053d478d73178fdcbe,https://research.com/u/brij-b-gupta,Brij B. Gupta
+655a2a053d478d73178fdcc0,https://research.com/u/huanfeng-shen,Huanfeng Shen
+655a2a053d478d73178fdcc2,https://research.com/u/toshihide-ibaraki,Toshihide Ibaraki
+655a2a053d478d73178fdcc4,https://research.com/u/claude-carlet,Claude Carlet
+655a2a053d478d73178fdcc6,https://research.com/u/long-quan,Long Quan
+655a2a053d478d73178fdcc8,https://research.com/u/graham-neubig,Graham Neubig
+655a2a053d478d73178fdcca,https://research.com/u/s-muthukrishnan,s muthukrishnan
+655a2a053d478d73178fdccc,https://research.com/u/jerome-lang,Jérôme Lang
+655a2a053d478d73178fdcce,https://research.com/u/yongming-li,Yongming Li
+655a2a053d478d73178fdcd0,https://research.com/u/bhavani-thuraisingha,Bhavani Thuraisingham
+655a2a053d478d73178fdcd2,https://research.com/u/jamie-callan,Jamie Callan
+655a2a053d478d73178fdcd4,https://research.com/u/yueh-min-huang,Yueh-Min Huang
+655a2a053d478d73178fdcd6,https://research.com/u/robert-d-howe,Robert D. Howe
+655a2a053d478d73178fdcd8,"https://research.com/u/cheng-zhong-xu,-ieee",Cheng-Zhong Xu
+655a2a053d478d73178fdcda,https://research.com/u/debiao-he-1,Debiao He
+655a2a053d478d73178fdcdc,https://research.com/u/shuai-li-1,Shuai Li
+655a2a053d478d73178fdcde,https://research.com/u/cunsheng-ding,Cunsheng Ding
+655a2a053d478d73178fdce0,https://research.com/u/jonathan-li,Jonathan Li
+655a2a053d478d73178fdce2,https://research.com/u/steve-renals,Steve Renals

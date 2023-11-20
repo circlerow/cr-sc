@@ -22,8 +22,7 @@ def save_row_to_excel(file_path, data):
 for document in collection.find():
     listEndpoints.append(document.get('endPoint'))
 
-for k in range(19, 100):
-
+for k in range(2000, 2001):
     # get information crawl full website
     driver = webdriver.Chrome()
     driver.get(listEndpoints[k])
@@ -59,18 +58,20 @@ for k in range(19, 100):
     specialized = 'Computer Science'
 
     researchArea = []
-    bestKnowFor = soup.find(
-        'div', class_='tab bg-white shadow').find('div', class_='tab-slide').find('ul').find_all('li')
-    for i in range(3):
-        researchArea.append(bestKnowFor[i].text)
+    bestKnowFor = (soup.find(
+        'div', class_='tab bg-white shadow').find('div', class_='tab-slide').find('ul'))
+    if bestKnowFor:
+        allBestKnowFor = bestKnowFor.find_all('li')
+        for i in range(3):
+            researchArea.append(allBestKnowFor[i].text)
 
     data = {'nameScientist': nameScientist, 'location': location, 'nation': nation, 'personalWebsite': personalWebsite,
             'bestPublication': bestPublication, 'specialized': specialized, 'researchArea': researchArea}
-
-    dataExcel = [k, nameScientist, '', '', location, nation, '', '', personalWebsite, '', '', ', '.join(map(str, bestPublication)), '', '',
+    dataExcel = [k, nameScientist, '', '', location, nation, '', '', personalWebsite, '', '',
+                 ', '.join(map(str, bestPublication)), '', '',
                  specialized, '', ', '.join(map(str, researchArea))]
     save_row_to_excel("detail scientist/data.xlsx", dataExcel)
     result = detailInformation.insert_one(data)
     print(f"Inserted record ID: {result.inserted_id}")
 
-    time.sleep(5)
+    time.sleep(3)
